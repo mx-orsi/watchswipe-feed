@@ -1,0 +1,397 @@
+{
+  "formatVersion": 1,
+  "edition": 2,
+  "publishedAt": 1783555200000,
+  "stories": [
+    {
+      "id": "n_prx_powermatic",
+      "title": "Why the PRX Powermatic 80 is the gateway mechanical",
+      "summary": "Integrated bracelet, waffle dial, 80-hour reserve — how Tissot built the most recommended first automatic of the decade.",
+      "body": "Ask ten collectors what a first automatic should be and the Tissot PRX Powermatic 80 shows up on most lists. The formula is simple: 1970s integrated-bracelet styling that reads far above its price, and the Powermatic 80 movement, whose 80-hour power reserve means the watch is still running on Monday morning after a weekend off the wrist.\n\nThe waffle-pattern dial nods to the 1978 original, while the slim 40mm case wears flat and comfortable under a cuff. It is not a small watch, but it is an easy one.\n\nFor swipe-happy WatchSwipe users: if your taste profile leans Sports, this is the one to try on first. The hardest part is picking a dial — ice blue has become the signature, but the green rewards a second look.",
+      "brand": "Tissot",
+      "tag": "Guide",
+      "topStory": true,
+      "publishedAt": 1782604800000,
+      "art": {
+        "dial": "#A9C7D6",
+        "caseColor": "#CDD2D8",
+        "strap": "#CDD2D8"
+      }
+    },
+    {
+      "id": "n_moonwatch_legacy",
+      "title": "The Moonwatch at 57: why the Speedmaster never changes",
+      "summary": "Omega's hand-wound chronograph is horology's least-changed icon. That's a feature, not a bug.",
+      "body": "The Speedmaster Professional that flew on Apollo 11 is, in every way that matters, the watch Omega sells today. Hesalite crystal, hand-wound chronograph, tachymeter bezel — the Moonwatch resists updates the way other icons resist discontinuation.\n\nCollectors argue about hesalite versus sapphire, but the acrylic crystal is the purist's pick: it is what NASA flight-qualified, and a tube of PolyWatch keeps it clear.\n\nIf the 42mm case and manual winding sound like commitment, that is rather the point. Few watches connect you to a specific human achievement every time you wind the crown.",
+      "brand": "Omega",
+      "tag": "Guide",
+      "topStory": true,
+      "publishedAt": 1782259200000,
+      "art": {
+        "dial": "#0E0F12",
+        "caseColor": "#C9CDD3",
+        "strap": "#1A1B1F"
+      }
+    },
+    {
+      "id": "n_casioak_phenomenon",
+      "title": "How the CasiOak became the default first G-Shock",
+      "summary": "The GA-2100 stripped the G-Shock to its essentials — and accidentally created a hype watch.",
+      "body": "When Casio released the GA-2100 in 2019, the octagonal bezel earned it an instant nickname — the \"CasiOak\" — and an audience far beyond G-Shock loyalists. The carbon core guard let Casio shrink the case to its slimmest profile ever, so the watch finally slid under a shirt cuff.\n\nAt around $99 it became the answer to \"what watch should I actually beat up?\" The all-black colorway disappears on the wrist; the sand and red-accent versions have become the enthusiast picks.\n\nModders took it further with metal bezels and straps, but the stock resin version remains the purest expression: a tough, accurate, genuinely stylish watch for a dinner-for-two price.",
+      "brand": "Casio",
+      "tag": "Guide",
+      "topStory": true,
+      "publishedAt": 1781913600000,
+      "art": {
+        "dial": "#0B0B0D",
+        "caseColor": "#1A1A1D",
+        "strap": "#0F0F11",
+        "variant": "digital"
+      }
+    },
+    {
+      "id": "n_seiko_62mas_line",
+      "title": "Prospex SPB143: the 62MAS reissue that got it right",
+      "summary": "Seiko's modern take on its 1965 first diver balances vintage proportions with a modern movement.",
+      "body": "Seiko has reissued its 1965 62MAS diver many times, but the SPB143 is the version enthusiasts kept. At 40.5mm with a slim bezel and drilled lugs, it wears like the vintage original while the 6R35 movement brings a 70-hour reserve.\n\nThe sunburst grey dial shifts from charcoal to silver in changing light — subtle in a category that often shouts. 200m of water resistance and a sapphire crystal make it a genuine tool watch, not a costume.\n\nIt sits in a crowded Seiko dive lineup, but if you want one Seiko diver that does everything, this is the consensus pick.",
+      "brand": "Seiko",
+      "tag": "Guide",
+      "publishedAt": 1781568000000,
+      "art": {
+        "dial": "#5A6068",
+        "caseColor": "#C7CBD1",
+        "strap": "#9AA0A8"
+      }
+    },
+    {
+      "id": "n_khaki_field_manual",
+      "title": "The case for hand-wound: living with the Khaki Field Mechanical",
+      "summary": "No date, no rotor, 38mm — Hamilton's field watch argues that less watch is more watch.",
+      "body": "The Khaki Field Mechanical asks you to do something almost no modern product does: participate. Wind it in the morning — about thirty seconds of ritual — and it repays you with a full day of timekeeping and a case so light you forget it.\n\nAt 38mm with fixed bars and a matte dial, it is the closest thing to the original military spec watches Hamilton supplied. The 80-hour hand-wound movement is modern; everything else is 1965.\n\nIt has become the enthusiast consensus for \"watch you keep forever under $600\" — and the sage-strap version is quietly the best of them.",
+      "brand": "Hamilton",
+      "tag": "Guide",
+      "publishedAt": 1781222400000,
+      "art": {
+        "dial": "#101114",
+        "caseColor": "#BFC2C7",
+        "strap": "#3B3A33"
+      }
+    },
+    {
+      "id": "n_tank_must_return",
+      "title": "Tank Must: how Cartier made its icon attainable again",
+      "summary": "The Must line revives Cartier's 1970s idea — the Tank as an accessible design object.",
+      "body": "In the 1970s, Cartier's \"Les Must de Cartier\" line put the Tank silhouette within reach of a much wider audience. The modern Tank Must repeats the trick: quartz movements, steel cases, and those unmistakable Roman numerals, at a fraction of the price of the Louis Cartier.\n\nThe colored-dial versions — deep green, burgundy — sell out repeatedly, but the silver dial is the forever pick. It is not a sports watch, and 30m of water resistance means it should never see a pool.\n\nWorn slim under a jacket, nothing else at the price signals design literacy quite like it.",
+      "brand": "Cartier",
+      "tag": "Guide",
+      "publishedAt": 1780876800000,
+      "art": {
+        "dial": "#26402F",
+        "caseColor": "#D9C27A",
+        "strap": "#243227"
+      }
+    },
+    {
+      "id": "n_size_guide",
+      "title": "Case size, decoded: finding your millimeter",
+      "summary": "From 33mm Tanks to 45mm G-Shocks — how to read case size, lug-to-lug, and what actually fits.",
+      "body": "Case diameter is the most quoted and least useful number in watches. What determines fit is lug-to-lug — the top-to-bottom span — and case thickness.\n\nA rough guide: a 6.5-inch wrist comfortably takes a lug-to-lug up to about 48mm. A 40mm diver with short lugs can wear smaller than a 38mm field watch with long ones. Shaped watches like a rectangular Tank read even smaller than their numbers.\n\nYour WatchSwipe taste profile tracks the average case size of watches you like — check Profile to see where your eye actually lands, then try that size on before buying up or down.",
+      "tag": "Guide",
+      "publishedAt": 1780531200000,
+      "art": {
+        "dial": "#1B1B1F",
+        "caseColor": "#C9A85C",
+        "strap": "#22242A"
+      }
+    },
+    {
+      "id": "n_mechanical_resurgence",
+      "title": "Why mechanical watches keep growing in a smartwatch world",
+      "summary": "A decade after the smartwatch was supposed to kill it, the mechanical watch is thriving. The reasons say a lot about what people want on their wrists.",
+      "body": "Every year since the Apple Watch launched, mechanical watch exports have set new records. The explanation is not nostalgia — it is differentiation. A smartwatch is a screen; a mechanical watch is a signature.\n\nYounger buyers arrive through integrated-bracelet sports watches and reissued divers, then move up the ladder. Entry Swiss and Japanese brands — Tissot, Seiko, Hamilton — have never had stronger lineups, which is precisely why they anchor the WatchSwipe catalog.\n\nThe smartwatch did kill something: the boring quartz watch. What survived is everything with a point of view.",
+      "tag": "Industry",
+      "topStory": true,
+      "publishedAt": 1780272000000,
+      "art": {
+        "dial": "#E7E7E2",
+        "caseColor": "#C9A85C",
+        "strap": "#1C1A17"
+      }
+    }
+  ],
+  "watches": [
+    {
+      "id": "seed_diver",
+      "brand": "Seiko",
+      "model": "Prospex Diver",
+      "reference": "SPB143",
+      "caseSizeMm": 40.5,
+      "colorways": [
+        {
+          "id": "seed_diver-c1",
+          "name": "Sunburst Grey · Steel",
+          "dial": "#5A6068",
+          "caseColor": "#C7CBD1",
+          "strap": "#9AA0A8"
+        },
+        {
+          "id": "seed_diver-c2",
+          "name": "Midnight Blue · Steel",
+          "dial": "#1E3A5F",
+          "caseColor": "#C7CBD1",
+          "strap": "#1E3A5F"
+        },
+        {
+          "id": "seed_diver-c3",
+          "name": "Black · Steel",
+          "dial": "#15161A",
+          "caseColor": "#C7CBD1",
+          "strap": "#22242A"
+        }
+      ],
+      "movement": "Automatic",
+      "caseMaterial": "Stainless Steel",
+      "waterResistance": "200m",
+      "crystal": "Sapphire",
+      "powerReserveHours": 70,
+      "priceCents": 125000,
+      "currency": "USD",
+      "description": "A modern reissue of the 1960s 62MAS dive watch. Slim case, high-legibility dial, and a 70-hour automatic movement.",
+      "sourceUrl": "https://www.seikowatches.com",
+      "isSeed": true,
+      "createdAt": 1700000000000,
+      "updatedAt": 1700000000000
+    },
+    {
+      "id": "seed_prx",
+      "brand": "Tissot",
+      "model": "PRX Powermatic 80",
+      "reference": "T137.407",
+      "caseSizeMm": 40,
+      "colorways": [
+        {
+          "id": "seed_prx-c1",
+          "name": "Ice Blue · Steel",
+          "dial": "#A9C7D6",
+          "caseColor": "#CDD2D8",
+          "strap": "#CDD2D8"
+        },
+        {
+          "id": "seed_prx-c2",
+          "name": "Green · Steel",
+          "dial": "#2F4A3A",
+          "caseColor": "#CDD2D8",
+          "strap": "#CDD2D8"
+        },
+        {
+          "id": "seed_prx-c3",
+          "name": "Black · Steel",
+          "dial": "#17181C",
+          "caseColor": "#CDD2D8",
+          "strap": "#CDD2D8"
+        }
+      ],
+      "movement": "Automatic",
+      "caseMaterial": "Stainless Steel",
+      "waterResistance": "100m",
+      "crystal": "Sapphire",
+      "powerReserveHours": 80,
+      "priceCents": 71500,
+      "currency": "USD",
+      "description": "Integrated-bracelet sports watch with a waffle-pattern dial and an 80-hour Powermatic movement.",
+      "sourceUrl": "https://www.tissotwatches.com",
+      "isSeed": true,
+      "createdAt": 1700000000000,
+      "updatedAt": 1700000000000
+    },
+    {
+      "id": "seed_field",
+      "brand": "Hamilton",
+      "model": "Khaki Field Mechanical",
+      "reference": "H69439931",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "seed_field-c1",
+          "name": "Black · Canvas",
+          "dial": "#101114",
+          "caseColor": "#BfC2C7",
+          "strap": "#3B3A33"
+        },
+        {
+          "id": "seed_field-c2",
+          "name": "Sage · Canvas",
+          "dial": "#3A4031",
+          "caseColor": "#BfC2C7",
+          "strap": "#5A5B4A"
+        }
+      ],
+      "movement": "Manual",
+      "caseMaterial": "Stainless Steel",
+      "waterResistance": "50m",
+      "crystal": "Sapphire",
+      "powerReserveHours": 80,
+      "priceCents": 59500,
+      "currency": "USD",
+      "description": "A hand-wound military field watch with a clean 24-hour dial and matte finish. Tool-watch heritage in a wearable size.",
+      "sourceUrl": "https://www.hamiltonwatch.com",
+      "isSeed": true,
+      "createdAt": 1700000000000,
+      "updatedAt": 1700000000000
+    },
+    {
+      "id": "seed_chrono",
+      "brand": "Omega",
+      "model": "Speedmaster Professional",
+      "reference": "310.30.42",
+      "caseSizeMm": 42,
+      "colorways": [
+        {
+          "id": "seed_chrono-c1",
+          "name": "Black · Steel",
+          "dial": "#0E0F12",
+          "caseColor": "#C9CDD3",
+          "strap": "#1A1B1F"
+        }
+      ],
+      "movement": "Manual",
+      "caseMaterial": "Stainless Steel",
+      "waterResistance": "50m",
+      "crystal": "Hesalite",
+      "powerReserveHours": 50,
+      "priceCents": 720000,
+      "currency": "USD",
+      "description": "The Moonwatch. A hand-wound chronograph with a tachymeter bezel and a history that reaches the lunar surface.",
+      "sourceUrl": "https://www.omegawatches.com",
+      "isSeed": true,
+      "createdAt": 1700000000000,
+      "updatedAt": 1700000000000
+    },
+    {
+      "id": "seed_gshock",
+      "brand": "Casio",
+      "model": "G-Shock GA-2100",
+      "reference": "GA-2100-1A1",
+      "caseSizeMm": 45.4,
+      "colorways": [
+        {
+          "id": "seed_gshock-c1",
+          "name": "All Black",
+          "dial": "#0B0B0D",
+          "caseColor": "#1A1A1D",
+          "strap": "#0F0F11"
+        },
+        {
+          "id": "seed_gshock-c2",
+          "name": "Red Accent",
+          "dial": "#101114",
+          "caseColor": "#7E1620",
+          "strap": "#16171A"
+        },
+        {
+          "id": "seed_gshock-c3",
+          "name": "Sand",
+          "dial": "#1B1A16",
+          "caseColor": "#B8A988",
+          "strap": "#C9BC9B"
+        }
+      ],
+      "movement": "Quartz",
+      "caseMaterial": "Carbon Core / Resin",
+      "waterResistance": "200m",
+      "crystal": "Mineral",
+      "priceCents": 9900,
+      "currency": "USD",
+      "description": "The \"CasiOak\" — an octagonal-bezel G-Shock with a slim carbon-core build, shock resistance, and 200m water resistance.",
+      "sourceUrl": "https://www.gshock.com",
+      "isSeed": true,
+      "createdAt": 1700000000000,
+      "updatedAt": 1700000000000
+    },
+    {
+      "id": "seed_dress",
+      "brand": "Cartier",
+      "model": "Tank Must",
+      "reference": "WSTA0041",
+      "caseSizeMm": 33.7,
+      "colorways": [
+        {
+          "id": "seed_dress-c1",
+          "name": "Silver · Leather",
+          "dial": "#E7E7E2",
+          "caseColor": "#D9C27A",
+          "strap": "#1C1A17"
+        },
+        {
+          "id": "seed_dress-c2",
+          "name": "Green · Leather",
+          "dial": "#26402F",
+          "caseColor": "#D9C27A",
+          "strap": "#243227"
+        },
+        {
+          "id": "seed_dress-c3",
+          "name": "Burgundy · Leather",
+          "dial": "#4A1F26",
+          "caseColor": "#D9C27A",
+          "strap": "#3A1A1F"
+        }
+      ],
+      "movement": "Quartz",
+      "caseMaterial": "Steel / Gold-tone",
+      "waterResistance": "30m",
+      "crystal": "Sapphire",
+      "priceCents": 320000,
+      "currency": "USD",
+      "description": "An icon of dress watchmaking. The rectangular Tank silhouette with Roman numerals and a slim leather strap.",
+      "sourceUrl": "https://www.cartier.com",
+      "isSeed": true,
+      "createdAt": 1700000000000,
+      "updatedAt": 1700000000000
+    }
+  ],
+  "brands": [
+    {
+      "brand": "Seiko",
+      "founded": 1881,
+      "country": "Japan",
+      "knownFor": "Dive watches & everyday automatics",
+      "blurb": "From the first Japanese wristwatch to the first quartz watch, Seiko has spent more than a century making horology accessible. Its Prospex divers and in-house movements deliver tool-watch credibility at every price."
+    },
+    {
+      "brand": "Tissot",
+      "founded": 1853,
+      "country": "Switzerland",
+      "knownFor": "Swiss value & the PRX",
+      "blurb": "A Le Locle original and one of the largest Swiss makers, Tissot pairs traditional Swiss manufacturing with aggressive pricing. The integrated-bracelet PRX made 1970s style a modern entry point into mechanical watches."
+    },
+    {
+      "brand": "Hamilton",
+      "founded": 1892,
+      "country": "USA / Switzerland",
+      "knownFor": "Field watches & Hollywood cameos",
+      "blurb": "Born in Lancaster, Pennsylvania and now Swiss-made, Hamilton supplied U.S. military watches through both world wars. The Khaki Field carries that GI heritage, while its movie credits run from 2001 to Interstellar."
+    },
+    {
+      "brand": "Omega",
+      "founded": 1848,
+      "country": "Switzerland",
+      "knownFor": "The Moonwatch & Olympic timing",
+      "blurb": "Omega timed the first lunar landing and every Olympics for decades. The Speedmaster Professional remains the only watch flight-qualified by NASA for spacewalks, and the co-axial escapement keeps its movements ahead of the pack."
+    },
+    {
+      "brand": "Casio",
+      "founded": 1946,
+      "country": "Japan",
+      "knownFor": "G-Shock toughness",
+      "blurb": "Casio built the indestructible watch. Since 1983 the G-Shock has survived drops, mud, and decades of fashion cycles — the octagonal GA-2100 \"CasiOak\" turned shock resistance into a style statement."
+    },
+    {
+      "brand": "Cartier",
+      "founded": 1847,
+      "country": "France",
+      "knownFor": "The Tank & dress-watch icons",
+      "blurb": "The jeweler of kings put watches on wrists before most: the Santos (1904) and Tank (1917) defined shaped dress watches. A Cartier is as much design object as timekeeper — which is exactly the point."
+    }
+  ]
+}
