@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
-  "edition": 3,
-  "publishedAt": 1783639656940,
+  "edition": 4,
+  "publishedAt": 1783640893585,
   "stories": [
     {
       "id": "n_astor_banks_arrival",
@@ -662,7 +662,8 @@
       "founded": 2012,
       "country": "USA",
       "knownFor": "Chicago-assembled anti-magnetic tool watches",
-      "blurb": "Named for the Gold Coast street corner where founder Andrew Perez — an Army veteran and lifelong watch nerd — got his start, Astor + Banks assembles every watch in Chicago. Hardened steel, serious anti-magnetic ratings, and clean officer's-watch design at honest prices."
+      "blurb": "Named for the Gold Coast street corner where founder Andrew Perez — an Army veteran and lifelong watch nerd — got his start, Astor + Banks assembles every watch in Chicago. Hardened steel, serious anti-magnetic ratings, and clean officer's-watch design at honest prices.",
+      "logoUri": "https://astorandbanks.com/cdn/shop/files/ABIcon2024Black.png?v=1710439718&width=256"
     }
   ]
 }
