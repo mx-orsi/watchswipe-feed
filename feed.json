@@ -1,8 +1,24 @@
 {
   "formatVersion": 1,
-  "edition": 2,
-  "publishedAt": 1783555200000,
+  "edition": 3,
+  "publishedAt": 1783639656940,
   "stories": [
+    {
+      "id": "n_astor_banks_arrival",
+      "title": "Astor + Banks brings Chicago watchmaking to WatchSwipe",
+      "summary": "The veteran-founded independent joins the deck — officer's watches, a dual-crown tool diver, and a field watch, all assembled in Chicago.",
+      "body": "Astor + Banks has been assembling watches in Chicago since 2012, when Army veteran Andrew Perez named the brand after the Gold Coast street corner where he lived. The catalog that lands on WatchSwipe today shows how far an American independent can push at these prices.\n\nThe Fortitude line is the heart of it: officer's-style everyday watches at 38.5mm, with the Lite offering a slim no-date take at $650 and the Pro adding HV1200-hardened steel and 20,000A/m anti-magnetic protection. Both run Miyota automatics adjusted in-house.\n\nAt the tool end sits the Sea Ranger M2 — a dual-crown design whose internal 12-hour ring gives you a second time zone, rated to 1000ft and powered by a Swiss LJP G100 with a 68-hour reserve. The Terra Scout rounds out the range: a sandblasted field watch under box sapphire, with a full-lume dial option that glows edge to edge.\n\nSwipe through all four models now, including every production colorway.",
+      "publishedAt": 1783639656940,
+      "brand": "Astor + Banks",
+      "tag": "Industry",
+      "topStory": true,
+      "image": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Black_lowres.jpg?v=1720630450&width=1200",
+      "art": {
+        "dial": "#14161A",
+        "caseColor": "#C8CDD4",
+        "strap": "#AEB4BC"
+      }
+    },
     {
       "id": "n_prx_powermatic",
       "title": "Why the PRX Powermatic 80 is the gateway mechanical",
@@ -348,6 +364,254 @@
       "isSeed": true,
       "createdAt": 1700000000000,
       "updatedAt": 1700000000000
+    },
+    {
+      "id": "ab_fortitude_lite",
+      "brand": "Astor + Banks",
+      "model": "Fortitude Lite",
+      "caseSizeMm": 38.5,
+      "colorways": [
+        {
+          "id": "ab_fl_navy",
+          "name": "Navy Blue",
+          "dial": "#1E2A4A",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_NavyBLue_lowres_0972cb2d-0ef4-48d6-a840-dad73c94a4db.jpg?v=1656618793&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_NavyBLue_lowres_0972cb2d-0ef4-48d6-a840-dad73c94a4db.jpg?v=1656618793&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Angle_NoDate_NavyBlue_lowres_6b8d06c3-b708-4230-8a77-c4fba64f6f92.jpg?v=1656618794&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_20bad2aa-9c61-4e4a-bd6d-67610db95e61.jpg?v=1656619065&width=1200"
+          ]
+        },
+        {
+          "id": "ab_fl_polar",
+          "name": "Polar",
+          "dial": "#F2F4F5",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_White_lowres_c3166bd7-beaf-4ab2-9aa1-7076511955b9.jpg?v=1656618816&width=1200"
+        },
+        {
+          "id": "ab_fl_silver",
+          "name": "Silver",
+          "dial": "#C9CDD2",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Grey_lowres_97961af0-090a-4edc-9e69-04a9446b1331.jpg?v=1656618836&width=1200"
+        },
+        {
+          "id": "ab_fl_maiz",
+          "name": "Maíz",
+          "dial": "#E8B93C",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Yellow_lowres.jpg?v=1652108704&width=1200"
+        },
+        {
+          "id": "ab_fl_mint",
+          "name": "Mint Green",
+          "dial": "#9FD8C4",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Turquoise_lowres_6196ed40-fde6-4e7f-afd7-3461974e4e66.jpg?v=1656620036&width=1200"
+        },
+        {
+          "id": "ab_fl_mop",
+          "name": "Mother of Pearl",
+          "dial": "#E9E2EC",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_MOP_lowres_63dc1c88-f8db-46ae-8ac2-3cbf687e9c2c.jpg?v=1670507404&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Sports",
+      "caseMaterial": "Brushed & polished 316L stainless steel",
+      "waterResistance": "660ft / 20ATM",
+      "crystal": "Flat sapphire, AR-coated",
+      "powerReserveHours": 42,
+      "priceCents": 65000,
+      "currency": "USD",
+      "sourceUrl": "https://astorandbanks.com/collections/fortitude-lite/products/fortitude-lite-navy-blue-pre-order",
+      "affiliateUrl": "https://astorandbanks.com/collections/fortitude-lite/products/fortitude-lite-navy-blue-pre-order",
+      "description": "The civilian take on Astor + Banks' officer's-style Fortitude: slimmer case, clean no-date dial, and a Miyota 9039 automatic adjusted in-house. Applied markers and hands glow with BGW9 Super-LumiNova, and the tapered 20mm bracelet hides polished chamfers on the underside of the links. Anti-magnetic to the ISO 764 standard and water resistant to 660ft — an everyday watch that punches far above $650."
+    },
+    {
+      "id": "ab_fortitude_pro",
+      "brand": "Astor + Banks",
+      "model": "Fortitude Pro",
+      "caseSizeMm": 38.5,
+      "colorways": [
+        {
+          "id": "ab_fp_mint",
+          "name": "Mint Green",
+          "dial": "#9FD8C4",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_Turquoise_lowres_6263df91-a9b5-4bcc-97f3-5aff5b8ece6a.jpg?v=1708570031&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_Turquoise_lowres_6263df91-a9b5-4bcc-97f3-5aff5b8ece6a.jpg?v=1708570031&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_Turquoise_lowres_fbad9935-d074-456f-b196-5e51fd771d1c.jpg?v=1734578388&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_6632ec80-f788-4b7c-a06a-1aa1fa8e9c2a.jpg?v=1734578388&width=1200"
+          ]
+        },
+        {
+          "id": "ab_fp_sand",
+          "name": "Sand",
+          "dial": "#D8C29A",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Angle_Sand_lowres.jpg?v=1698270560&width=1200"
+        },
+        {
+          "id": "ab_fp_navy",
+          "name": "Navy",
+          "dial": "#1E2A4A",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_DarkBlue_lowres.jpg?v=1698430218&width=1200"
+        },
+        {
+          "id": "ab_fp_silver",
+          "name": "Silver",
+          "dial": "#C9CDD2",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_White_1200_77d5d4bd-77d1-4385-ad0d-343b91f347b3.jpg?v=1698270569&width=1200"
+        },
+        {
+          "id": "ab_fp_polar",
+          "name": "Polar",
+          "dial": "#F2F4F5",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_Date_White.jpg?v=1701204272&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Sports",
+      "caseMaterial": "316L stainless steel, HV1200 scratch-resistant coating",
+      "waterResistance": "660ft / 20ATM",
+      "crystal": "Flat sapphire, AR-coated",
+      "powerReserveHours": 42,
+      "priceCents": 67500,
+      "currency": "USD",
+      "sourceUrl": "https://astorandbanks.com/collections/fortitude/products/fortitude-pro-mint-green",
+      "affiliateUrl": "https://astorandbanks.com/collections/fortitude/products/fortitude-pro-mint-green",
+      "description": "The flagship officer's watch, updated: steel hardened to HV1200 for scratch resistance, anti-magnetic to 20,000A/m — over four times the ISO requirement — and a Miyota 9015 automatic adjusted in-house. Heat-blued hands on select dials, BGW9 lume throughout, and the same perfectly tapered bracelet as the Lite. Formal to casual, 38.5mm, any day of the week."
+    },
+    {
+      "id": "ab_sea_ranger_m2",
+      "brand": "Astor + Banks",
+      "model": "Sea Ranger M2",
+      "caseSizeMm": 40,
+      "colorways": [
+        {
+          "id": "ab_srm2_black",
+          "name": "Black",
+          "dial": "#14161A",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Black_lowres.jpg?v=1720630450&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Black_lowres.jpg?v=1720630450&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_3Quarters_Black_lowres.jpg?v=1720756802&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_SeaRanger_M2_Lifestyle_185504_Black_lowres.jpg?v=1720630453&width=1200"
+          ]
+        },
+        {
+          "id": "ab_srm2_blue",
+          "name": "Blue",
+          "dial": "#1B3A5C",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Blue_lowres.jpg?v=1720630808&width=1200"
+        },
+        {
+          "id": "ab_srm2_green",
+          "name": "Army Green",
+          "dial": "#4A5442",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Green_lowres.jpg?v=1720630305&width=1200"
+        },
+        {
+          "id": "ab_srm2_tobacco",
+          "name": "Tobacco",
+          "dial": "#6B4A2F",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Brown_lowres.jpg?v=1720630970&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Dive",
+      "caseMaterial": "Brushed 316L steel, HV1200 coating, soft-iron anti-magnetic plates",
+      "waterResistance": "1000ft / 30ATM",
+      "crystal": "Flat sapphire, AR-coated",
+      "powerReserveHours": 68,
+      "priceCents": 129900,
+      "currency": "USD",
+      "sourceUrl": "https://astorandbanks.com/collections/sea-ranger-m2/products/sea-ranger-m2",
+      "affiliateUrl": "https://astorandbanks.com/collections/sea-ranger-m2/products/sea-ranger-m2",
+      "description": "A dual-crown, go-anywhere tool watch two years in the making. The top crown drives an internal 12-hour rotating ring — a second time zone without a GMT movement — while the Swiss LJP G100 automatic runs a 68-hour reserve, adjusted in-house to ±8 seconds a day. Rated to 1000ft with hardened HV1200 steel and a soft-iron anti-magnetic cage. Bracelet versions include a color-matched FKM rubber strap ($1,149 on strap only)."
+    },
+    {
+      "id": "ab_terra_scout",
+      "brand": "Astor + Banks",
+      "model": "Terra Scout",
+      "caseSizeMm": 38.5,
+      "colorways": [
+        {
+          "id": "ab_ts_sand",
+          "name": "Desert Sand LE",
+          "dial": "#C9B187",
+          "caseColor": "#C6CBD1",
+          "strap": "#8A7D63",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-31.jpg?v=1769408216&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-31.jpg?v=1769408216&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-42.jpg?v=1769408216&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-39.jpg?v=1769408170&width=1200"
+          ]
+        },
+        {
+          "id": "ab_ts_black",
+          "name": "Black",
+          "dial": "#16181B",
+          "caseColor": "#C6CBD1",
+          "strap": "#2E3134",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-33.jpg?v=1771214989&width=1200"
+        },
+        {
+          "id": "ab_ts_lume",
+          "name": "White Full-Lume",
+          "dial": "#EDEFE7",
+          "caseColor": "#C6CBD1",
+          "strap": "#43464A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-32_44472d4d-7378-435d-b5c6-b7726f3a6c08.jpg?v=1769408712&width=1200"
+        },
+        {
+          "id": "ab_ts_dlc",
+          "name": "DLC",
+          "dial": "#131518",
+          "caseColor": "#26292E",
+          "strap": "#26292E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-34.jpg?v=1769407975&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Field",
+      "caseMaterial": "Sandblasted 316L steel, soft-iron anti-magnetic plates",
+      "waterResistance": "660ft / 20ATM",
+      "crystal": "Box sapphire, AR-coated",
+      "powerReserveHours": 68,
+      "priceCents": 99500,
+      "currency": "USD",
+      "sourceUrl": "https://astorandbanks.com/collections/terra-scout/products/terra-scout-desert-sand-le-copy",
+      "affiliateUrl": "https://astorandbanks.com/collections/terra-scout/products/terra-scout-desert-sand-le-copy",
+      "description": "A modern interpretation of the classic military field watch: tough, legible, reliable. The 3-layer matte dial sits under box sapphire, the sandblasted 38.5mm case wears 46mm lug-to-lug, and the Swiss LJP G100 automatic is adjusted in-house to ±8 seconds a day with a 68-hour reserve. Ships with both canvas and FKM rubber straps and a Horween leather watch wallet. Desert Sand limited edition $1,195; the full-lume dial option glows edge to edge."
     }
   ],
   "brands": [
@@ -392,6 +656,13 @@
       "country": "France",
       "knownFor": "The Tank & dress-watch icons",
       "blurb": "The jeweler of kings put watches on wrists before most: the Santos (1904) and Tank (1917) defined shaped dress watches. A Cartier is as much design object as timekeeper — which is exactly the point."
+    },
+    {
+      "brand": "Astor + Banks",
+      "founded": 2012,
+      "country": "USA",
+      "knownFor": "Chicago-assembled anti-magnetic tool watches",
+      "blurb": "Named for the Gold Coast street corner where founder Andrew Perez — an Army veteran and lifelong watch nerd — got his start, Astor + Banks assembles every watch in Chicago. Hardened steel, serious anti-magnetic ratings, and clean officer's-watch design at honest prices."
     }
   ]
 }
