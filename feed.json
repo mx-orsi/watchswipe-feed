@@ -1,8 +1,23 @@
 {
   "formatVersion": 1,
-  "edition": 4,
-  "publishedAt": 1783640893585,
+  "edition": 5,
+  "publishedAt": 1783642671784,
   "stories": [
+    {
+      "id": "n_five_independents",
+      "title": "Five independents join the deck",
+      "summary": "Studio Underd0g, Baltic, Trafford, William Wood, and Brew arrive on WatchSwipe — twenty watches spanning watermelon chronographs to firefighter heritage.",
+      "body": "WatchSwipe's catalog just grew by five of the most-loved independent brands in modern watchmaking, each with its four most popular models.\n\nStudio Underd0g (London, 2020) built a cult following in record time with pun-named dégradé dials — the Watermel0n chronograph is already an icon — every piece hand-assembled in Britain by a single technician.\n\nBaltic (Paris, 2016) is the vintage-inspired standard-bearer of French microbrands: the Aquascaphe diver, the micro-rotor MR01 dress watch, the rugged little Hermétique, and the panda-dial Scalegraph, all assembled in Besançon.\n\nTrafford (Austin, 2020) tells American stories in color — Hill Country wildflower dials on the Crossroads S, guitar-legend colorways on the Touring GMT, and a Kickstarter-born racing chronograph honoring WWII spy-drivers.\n\nWilliam Wood (Newcastle, 2017) honors the founder's firefighter grandfather: upcycled fire-hose straps, crowns cast from melted fire-helmet brass, and a range that runs from the Valiant diver to the Triumph chronograph.\n\nBrew (New York, 2015) designs watches around the espresso ritual — chronograph scales sized to a 25–35 second pull, cushion cases inspired by vintage espresso machines. Coffee culture, on the wrist.\n\nEvery model and colorway is live in the deck now — swipe through and find your favorites.",
+      "publishedAt": 1783642671784,
+      "tag": "Industry",
+      "topStory": true,
+      "image": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01WMB_Product_Card_30492dce-8e73-4dc8-a5af-5fc46d6f72a9.png?v=1783351280&width=1200",
+      "art": {
+        "dial": "#8ED14E",
+        "caseColor": "#C8CDD4",
+        "strap": "#2E2A26"
+      }
+    },
     {
       "id": "n_astor_banks_arrival",
       "title": "Astor + Banks brings Chicago watchmaking to WatchSwipe",
@@ -612,6 +627,1102 @@
       "sourceUrl": "https://astorandbanks.com/collections/terra-scout/products/terra-scout-desert-sand-le-copy",
       "affiliateUrl": "https://astorandbanks.com/collections/terra-scout/products/terra-scout-desert-sand-le-copy",
       "description": "A modern interpretation of the classic military field watch: tough, legible, reliable. The 3-layer matte dial sits under box sapphire, the sandblasted 38.5mm case wears 46mm lug-to-lug, and the Swiss LJP G100 automatic is adjusted in-house to ±8 seconds a day with a 68-hour reserve. Ships with both canvas and FKM rubber straps and a Horween leather watch wallet. Desert Sand limited edition $1,195; the full-lume dial option glows edge to edge."
+    },
+    {
+      "id": "su_01series_gen3",
+      "brand": "Studio Underd0g",
+      "model": "01Series (Gen3)",
+      "caseSizeMm": 38.5,
+      "colorways": [
+        {
+          "id": "su_01series_gen3_watermel0n",
+          "name": "Watermel0n",
+          "dial": "#8ED14E",
+          "caseColor": "#C8CDD4",
+          "strap": "#2E2A26",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01WMB_Product_Card_30492dce-8e73-4dc8-a5af-5fc46d6f72a9.png?v=1783351280&width=1200"
+        },
+        {
+          "id": "su_01series_gen3_desert_sky",
+          "name": "Desert Sky",
+          "dial": "#4FAADC",
+          "caseColor": "#C8CDD4",
+          "strap": "#A8916F",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01DST_Product_Card_c649bb0e-9fe2-47ab-8c79-55e7cd6ce295.png?v=1783351280&width=1200"
+        },
+        {
+          "id": "su_01series_gen3_go0fy_panda",
+          "name": "Go0fy Panda",
+          "dial": "#E5E1D6",
+          "caseColor": "#C8CDD4",
+          "strap": "#2E2A26",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01GPB_Product_Card.png?v=1783351280&width=1200"
+        },
+        {
+          "id": "su_01series_gen3_mint_ch0c_chip",
+          "name": "Mint Ch0c Chip",
+          "dial": "#A3E4B0",
+          "caseColor": "#C8CDD4",
+          "strap": "#4A2E1E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01MCBR_Product_Card_52168231-a0b0-4495-9049-ce5e2e103119.png?v=1783351280&width=1200"
+        }
+      ],
+      "movement": "Manual",
+      "category": "Chronograph",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "50m",
+      "crystal": "Sapphire",
+      "powerReserveHours": 50,
+      "priceCents": 60000,
+      "currency": "GBP",
+      "affiliateUrl": "https://underd0g.com/products/01wmb",
+      "sourceUrl": "https://underd0g.com/products/01wmb",
+      "description": "The 01Series is Studio Underd0g's third-generation flagship chronograph and the watch that put the brand on the map: a 38.5mm x 12.9mm 316L steel case driving a hand-wound Chinese Seagull ST-1901B bicompax movement (21,600vph, 50-hour power reserve with the chronograph stopped). Its lead dial, Watermel0n, uses a two-tone red-over-green dégradé finish that has been the brand's signature design since its 2020 launch. The case carries a sapphire crystal, 5 ATM (50m) water resistance, and a quick-release leather strap fitted by The Strap Tailor."
+    },
+    {
+      "id": "su_02series_gen2",
+      "brand": "Studio Underd0g",
+      "model": "02Series (Gen2)",
+      "caseSizeMm": 37.5,
+      "colorways": [
+        {
+          "id": "su_02series_gen2_nightshade",
+          "name": "Nightshade",
+          "dial": "#33235C",
+          "caseColor": "#C8CDD4",
+          "strap": "#5B3226",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02NIBU_FRONT.png?v=1782986031&width=1200"
+        },
+        {
+          "id": "su_02series_gen2_red_l0lly",
+          "name": "Red L0lly",
+          "dial": "#C13A2A",
+          "caseColor": "#C8CDD4",
+          "strap": "#2E2A26",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02RLB_FRONT.png?v=1782986031&width=1200"
+        },
+        {
+          "id": "su_02series_gen2_steffany_blue",
+          "name": "Steffany Blue",
+          "dial": "#BBDCF0",
+          "caseColor": "#C8CDD4",
+          "strap": "#232A3A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02SBMI_FRONT.png?v=1782986031&width=1200"
+        },
+        {
+          "id": "su_02series_gen2_pink_lem0nade",
+          "name": "Pink Lem0nade",
+          "dial": "#F5AE8C",
+          "caseColor": "#C8CDD4",
+          "strap": "#6B5645",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02PLCB_FRONT.png?v=1782986031&width=1200"
+        }
+      ],
+      "movement": "Manual",
+      "category": "Field",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "100m",
+      "crystal": "Sapphire",
+      "powerReserveHours": 63,
+      "priceCents": 87500,
+      "currency": "GBP",
+      "affiliateUrl": "https://underd0g.com/products/02nibu",
+      "sourceUrl": "https://underd0g.com/products/02nibu",
+      "description": "The 02Series is Studio Underd0g's homage to WWII-era \"Dirty Dozen\" military field watches, built around a 37.5mm x 11.5mm 316L steel case and a hand-wound Swiss Sellita SW200-2 M movement with a 63-hour power reserve and hacking seconds. Its lead colorway, Nightshade, pairs a sunburst deep-purple dial with aged orange numerals and a distressed leather strap to mimic decades of wear. The multi-layer dial uses a 1mm tinted sapphire top-disc over a sunray brass base with X1 Super-LumiNova lume, and the case is rated to 10 ATM (100m)."
+    },
+    {
+      "id": "su_03series",
+      "brand": "Studio Underd0g",
+      "model": "03Series",
+      "caseSizeMm": 38.5,
+      "colorways": [
+        {
+          "id": "su_03series_salm0n",
+          "name": "Salm0n",
+          "dial": "#E2977A",
+          "caseColor": "#C8CDD4",
+          "strap": "#2E2A26",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03SAB_Product_Page.png?v=1783351284&width=1200"
+        },
+        {
+          "id": "su_03series_champagne_caviar",
+          "name": "Champagne & Caviar",
+          "dial": "#D9BE85",
+          "caseColor": "#C8CDD4",
+          "strap": "#2E2A26",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB.png?v=1762274785&width=1200"
+        }
+      ],
+      "movement": "Manual",
+      "category": "Chronograph",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "50m",
+      "crystal": "Sapphire",
+      "powerReserveHours": 63,
+      "priceCents": 175000,
+      "currency": "GBP",
+      "affiliateUrl": "https://underd0g.com/products/03sab",
+      "sourceUrl": "https://underd0g.com/products/03sab",
+      "description": "The 03Series is Studio Underd0g's premium monopusher chronograph, cased at 38.5mm x 13.6mm in 316L steel and powered by a hand-wound Sellita SW510 M (Spécial/Élaboré grade, ±5 s/d accuracy, 63-hour reserve) operated by a single cam-actuated pusher instead of the usual two. Its lead colorway, Salm0n, sets a salmon-pink tachymeter rim against a radial-brushed grey dégradé dial. At £1,750 it is the brand's highest-priced core-range model, rated to 5 ATM (50m) water resistance with a sapphire crystal."
+    },
+    {
+      "id": "su_cocktail_collection",
+      "brand": "Studio Underd0g",
+      "model": "Cocktail Collection",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "su_cocktail_collection_gimlet",
+          "name": "Gimlet",
+          "dial": "#D0E8A2",
+          "caseColor": "#C8CDD4",
+          "strap": "#5A5D3F",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02GIG_Gimlet.png?v=1736768292&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02GIG_Gimlet.png?v=1736768292&width=1200",
+            "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02GIG_Gimlet_Back.png?v=1736768292&width=1200"
+          ]
+        },
+        {
+          "id": "su_cocktail_collection_manhattan",
+          "name": "Manhattan",
+          "dial": "#D9691E",
+          "caseColor": "#C8CDD4",
+          "strap": "#3E2A1E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAOX_Manhattan.png?v=1759159664&width=1200"
+        },
+        {
+          "id": "su_cocktail_collection_mimosa",
+          "name": "Mimosa",
+          "dial": "#F2B33D",
+          "caseColor": "#C8CDD4",
+          "strap": "#8A8078",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MIG_Mimosa.png?v=1760435309&width=1200"
+        }
+      ],
+      "movement": "Manual",
+      "category": "Vintage",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "100m",
+      "crystal": "Sapphire",
+      "powerReserveHours": 63,
+      "priceCents": 100000,
+      "currency": "GBP",
+      "affiliateUrl": "https://underd0g.com/products/02gig",
+      "sourceUrl": "https://underd0g.com/products/02gig",
+      "description": "The Cocktail Collection is a run of limited-edition collaborations between Studio Underd0g and historic British watchmaker Fears, sharing a 38mm x 12mm cushion-cased 316L steel case (10 ATM/100m) and a hand-wound Sellita SW200-2 M movement. Each release is named after a cocktail and sold in small batches at watch fairs: the lead colorway, Gimlet, was limited to 200 pieces at British Watchmakers' Day 2025 and reportedly caused a stampede on release, followed by the 300-piece Manhattan at WindUp Watch Fair NYC and The Mimosa. All three carry FEARS-branded dials with a sapphire crystal and typically sell out within their launch window."
+    },
+    {
+      "id": "bal_aquascaphe_classic",
+      "brand": "Baltic",
+      "model": "Aquascaphe Classic",
+      "caseSizeMm": 39,
+      "colorways": [
+        {
+          "id": "bal_aquascaphe_classic_blue_gilt",
+          "name": "Blue Gilt",
+          "dial": "#1D3B63",
+          "caseColor": "#C8CDD4",
+          "strap": "#26282B",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/aquascaphe-blue-gilt-face-tropic-black.png?v=1676368196&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/aquascaphe-blue-gilt-face-tropic-black.png?v=1676368196&width=1200",
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/aquascaphe-blue-gilt-face-bor.png?v=1676368196&width=1200",
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/aquascaphe-blue-gilt-face-tropic-blue.png?v=1676368195&width=1200"
+          ]
+        },
+        {
+          "id": "bal_aquascaphe_classic_black_cream_black_gilt",
+          "name": "Black Cream (Black Gilt)",
+          "dial": "#1A1A1A",
+          "caseColor": "#C8CDD4",
+          "strap": "#26282B",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/Baltic_Aquascaphe_Mk1_Gilt_Face_1353x2000_FKM_Black.png?v=1745846945&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Dive",
+      "caseMaterial": "Stainless steel 316L",
+      "waterResistance": "200m",
+      "crystal": "Double-dome sapphire",
+      "powerReserveHours": 42,
+      "priceCents": 60000,
+      "currency": "EUR",
+      "affiliateUrl": "https://baltic-watches.com/en/products/aquascaphe-classic-blue-gilt",
+      "sourceUrl": "https://baltic-watches.com/en/products/aquascaphe-classic-blue-gilt",
+      "description": "Aquascaphe Classic is Baltic's signature dive watch and, per the brand's own \"Most popular\" homepage ranking, its best-selling model. The 39mm stainless steel case runs a Miyota 9039 automatic movement with a 42-hour power reserve, backed by 200m of water resistance and a double-dome sapphire crystal. Its sandwich dial construction — a Baltic hallmark — creates deep, three-dimensional markers at 3, 6 and 9 filled with Super-LumiNova C1, finished off with a 120-click unidirectional bezel and a screwed crown."
+    },
+    {
+      "id": "bal_mr01",
+      "brand": "Baltic",
+      "model": "MR01",
+      "caseSizeMm": 36,
+      "colorways": [
+        {
+          "id": "bal_mr01_salmon",
+          "name": "Salmon",
+          "dial": "#D9A28E",
+          "caseColor": "#C8CDD4",
+          "strap": "#2A3A55",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/mr01-salmon-face-stitched-navy-blue.png?v=1676367624&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/mr01-salmon-face-stitched-navy-blue.png?v=1676367624&width=1200",
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/mr01-salmon-face-bor-straight-ends_d87804cb-50f2-4180-b9a3-26921ac6adbd.png?v=1685111224&width=1200",
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/mr01-salmon-face-stitched-green.png?v=1676367624&width=1200"
+          ]
+        },
+        {
+          "id": "bal_mr01_blue",
+          "name": "Blue",
+          "dial": "#1F3F66",
+          "caseColor": "#C8CDD4",
+          "strap": "#B08A5C",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/mr01-blue-face-stitched-lion.png?v=1676367521&width=1200"
+        },
+        {
+          "id": "bal_mr01_silver",
+          "name": "Silver",
+          "dial": "#C9CCCB",
+          "caseColor": "#C8CDD4",
+          "strap": "#3F5B3A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/mr01-silver-face-stitched-green.png?v=1676367748&width=1200"
+        },
+        {
+          "id": "bal_mr01_gold_pvd_black",
+          "name": "Gold PVD Black",
+          "dial": "#161616",
+          "caseColor": "#B08D57",
+          "strap": "#201F1D",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/mr01-gold-pvd-black-face-stitched-saffiano-black.png?v=1701248945&width=1200"
+        },
+        {
+          "id": "bal_mr01_roulette_blue",
+          "name": "Roulette Blue",
+          "dial": "#1F3F66",
+          "caseColor": "#C8CDD4",
+          "strap": "#B08A5C",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/mr-roulette-blue-face-stitched-lion.png?v=1719233757&width=1200"
+        },
+        {
+          "id": "bal_mr01_roulette_black",
+          "name": "Roulette Black",
+          "dial": "#161616",
+          "caseColor": "#C8CDD4",
+          "strap": "#B9BAB8",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/mr-roulette-black-face-stitched-light-grey.png?v=1719232864&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Dress",
+      "caseMaterial": "Stainless steel 316L",
+      "waterResistance": "30m",
+      "crystal": "High-domed hesalite",
+      "powerReserveHours": 42,
+      "priceCents": 54500,
+      "currency": "EUR",
+      "affiliateUrl": "https://baltic-watches.com/en/products/mr-classic-salmon",
+      "sourceUrl": "https://baltic-watches.com/en/products/mr-classic-salmon",
+      "description": "MR01 is Baltic's micro-rotor dress watch, the #2 model in the brand's own \"Most popular\" homepage ranking. It is built around the Hangzhou CAL5000a automatic micro-rotor caliber — a thin, self-winding movement usually reserved for far pricier dress watches — inside a 36mm stainless steel case topped with a high-domed hesalite crystal for a vintage look. The 42-hour power reserve movement is rated to just 30m water resistance, reflecting its dress-watch brief, and ships on an Italian calf leather strap. The line also includes a guilloché-dial \"Roulette\" variant alongside the plainer railroad-track \"Classic\" dial shown here."
+    },
+    {
+      "id": "bal_herm_tique",
+      "brand": "Baltic",
+      "model": "Hermétique",
+      "caseSizeMm": 37,
+      "colorways": [
+        {
+          "id": "bal_herm_tique_tourer_beige",
+          "name": "Tourer Beige",
+          "dial": "#D9C9A8",
+          "caseColor": "#C8CDD4",
+          "strap": "#CBB994",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/hermetique-beige-face-tropic-fkm-beige_f3c0b6fb-54e2-44b1-acc6-62099e47aff1.png?v=1696238916&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/hermetique-beige-face-tropic-fkm-beige_f3c0b6fb-54e2-44b1-acc6-62099e47aff1.png?v=1696238916&width=1200",
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/hermetique-beige-face-bor_ca4dd1d3-dd91-4308-b987-34d4784dbeaf.png?v=1696238916&width=1200",
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/hermetique-beige-face-flat-link_c67e7dc5-accf-4393-adef-cfb1f5c84866.png?v=1696238916&width=1200"
+          ]
+        },
+        {
+          "id": "bal_herm_tique_tourer_blue",
+          "name": "Tourer Blue",
+          "dial": "#1F4E79",
+          "caseColor": "#C8CDD4",
+          "strap": "#274972",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/hermetique-blue-face-tropic-fkm-blue.png?v=1696239361&width=1200"
+        },
+        {
+          "id": "bal_herm_tique_tourer_green",
+          "name": "Tourer Green",
+          "dial": "#43523B",
+          "caseColor": "#C8CDD4",
+          "strap": "#43523B",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/hermetique-green-face-tropic-fkm-green.png?v=1696240899&width=1200"
+        },
+        {
+          "id": "bal_herm_tique_tourer_brown",
+          "name": "Tourer Brown",
+          "dial": "#5B4632",
+          "caseColor": "#C8CDD4",
+          "strap": "#5B4632",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/hermetique-brown-face-tropic-fkm-brown.png?v=1696239938&width=1200"
+        },
+        {
+          "id": "bal_herm_tique_summer_pink",
+          "name": "Summer Pink",
+          "dial": "#E38FA0",
+          "caseColor": "#C8CDD4",
+          "strap": "#26282B",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/Baltic_Hermetique_Summer_Pink_Face.png?v=1750769664&width=1200"
+        },
+        {
+          "id": "bal_herm_tique_summer_turquoise",
+          "name": "Summer Turquoise",
+          "dial": "#2FA6A0",
+          "caseColor": "#C8CDD4",
+          "strap": "#26282B",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/Baltic_Hermetique_Summer_Turquoise_Face.png?v=1750769832&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Field",
+      "caseMaterial": "Stainless steel 316L",
+      "waterResistance": "150m",
+      "crystal": "Double-dome sapphire",
+      "powerReserveHours": 42,
+      "priceCents": 55000,
+      "currency": "EUR",
+      "affiliateUrl": "https://baltic-watches.com/en/products/hermetique-tourer-beige",
+      "sourceUrl": "https://baltic-watches.com/en/products/hermetique-tourer-beige",
+      "description": "Hermétique is Baltic's field/adventure watch, appearing more times than any other line in the brand's own \"Most popular\" homepage ranking. The compact 37mm stainless steel case runs a Miyota 9039 automatic movement with a 42-hour power reserve, under a double-dome sapphire crystal, with an integrated crown keeping the profile clean. It carries an unusually rugged 150m water resistance rating for a field watch. The same case and movement are sold in two dial-color families — the muted, canvas-inspired \"Tourer\" palette and the brighter, beach-toned \"Summer\" colorways."
+    },
+    {
+      "id": "bal_scalegraph_classic",
+      "brand": "Baltic",
+      "model": "Scalegraph Classic",
+      "caseSizeMm": 39.5,
+      "colorways": [
+        {
+          "id": "bal_scalegraph_classic_panda",
+          "name": "Panda",
+          "dial": "#EDE6DA",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/tricompax-panda-face-flat-link.png?v=1676367835&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/tricompax-panda-face-flat-link.png?v=1676367835&width=1200",
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/tricompax-panda-face-bor.png?v=1676367942&width=1200",
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/tricompax-panda-stitched-light-grey-face.png?v=1693488583&width=1200"
+          ]
+        },
+        {
+          "id": "bal_scalegraph_classic_reverse_panda",
+          "name": "Reverse Panda",
+          "dial": "#1B1B1B",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/tricompax-reverse-panda-face-flat-link.png?v=1676367889&width=1200"
+        }
+      ],
+      "movement": "Manual",
+      "category": "Chronograph",
+      "caseMaterial": "Stainless steel 316L",
+      "waterResistance": "50m",
+      "crystal": "Double-dome sapphire",
+      "powerReserveHours": 63,
+      "priceCents": 158500,
+      "currency": "EUR",
+      "affiliateUrl": "https://baltic-watches.com/en/products/scalegraph-classic-panda",
+      "sourceUrl": "https://baltic-watches.com/en/products/scalegraph-classic-panda",
+      "description": "Scalegraph Classic (still widely known by its earlier name, Tricompax) is Baltic's flagship three-register \"panda dial\" chronograph, the modern descendant of the twin-register Bicompax that helped launch the brand's 2017 debut. Its \"Panda\" colorway is the only chronograph to make Baltic's own \"Most popular\" homepage ranking. The 39.5mm stainless steel case is powered by a hand-wound Sellita SW510-M movement with a 63-hour power reserve, under a double-dome sapphire crystal and an aluminum tachymeter bezel, rated to 50m water resistance."
+    },
+    {
+      "id": "traf_crossroads_s",
+      "brand": "Trafford",
+      "model": "Crossroads S",
+      "caseSizeMm": 40,
+      "colorways": [
+        {
+          "id": "traf_crossroads_s_vellum",
+          "name": "Vellum",
+          "dial": "#EDE4CF",
+          "caseColor": "#C8CDD4",
+          "strap": "#5C2028",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/6a0b1d5aa9340a8282b9aee8_TWC_CrossroadsS_40_Vellum_e3b60101-ba4f-4137-9787-a73c9b749fc3.png?v=1783370467&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/6a0b1d5aa9340a8282b9aee8_TWC_CrossroadsS_40_Vellum_e3b60101-ba4f-4137-9787-a73c9b749fc3.png?v=1783370467&width=1200",
+            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/6a05ee476f940702f1140dc2_Vellum_40_01.avif?v=1783367689&width=1200",
+            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/6a05ee4753159c364226725f_Vellum_40_02_Text.avif?v=1783367689&width=1200"
+          ]
+        },
+        {
+          "id": "traf_crossroads_s_vine",
+          "name": "Vine",
+          "dial": "#6B1E2B",
+          "caseColor": "#C8CDD4",
+          "strap": "#241F1E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_CrossroadsS_40_Vine_a58cf8b8-7f82-431d-9413-03f20b9929db.png?v=1779056877&width=1200"
+        },
+        {
+          "id": "traf_crossroads_s_surf",
+          "name": "Surf",
+          "dial": "#1A3C4A",
+          "caseColor": "#C8CDD4",
+          "strap": "#C3A878",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_CrossroadsS_40_Surf_ddd5dfdb-6749-41e4-bb28-ca450c391fb2.png?v=1779056864&width=1200"
+        },
+        {
+          "id": "traf_crossroads_s_seafoam",
+          "name": "Seafoam",
+          "dial": "#9FD8C8",
+          "caseColor": "#C8CDD4",
+          "strap": "#17263A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_CrossroadsS_40_Seafoam_1e788695-0cd1-4ab4-93a7-5214b636c244.png?v=1779056841&width=1200"
+        },
+        {
+          "id": "traf_crossroads_s_fern",
+          "name": "Fern",
+          "dial": "#2E4A32",
+          "caseColor": "#C8CDD4",
+          "strap": "#6B4423",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_CrossroadsS_40_Fern_f57306e9-f028-4baa-a64d-b5e7ad4c8268.png?v=1779056634&width=1200"
+        },
+        {
+          "id": "traf_crossroads_s_flora",
+          "name": "Flora",
+          "dial": "#D9A8BE",
+          "caseColor": "#C8CDD4",
+          "strap": "#7A5233",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_CrossroadsS_40_Flora_1dfae34e-978a-495b-b368-1c300571d3ed.png?v=1779056611&width=1200"
+        }
+      ],
+      "movement": "Manual",
+      "category": "Dress",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "100m",
+      "crystal": "Double-domed sapphire, interior AR coating",
+      "powerReserveHours": 42,
+      "priceCents": 89900,
+      "currency": "USD",
+      "affiliateUrl": "https://www.traffordwatchco.com/products/crossroads-s-40-vellum",
+      "sourceUrl": "https://www.traffordwatchco.com/products/crossroads-s-40-vellum",
+      "description": "The Crossroads S is the newest generation of Trafford's flagship Crossroads line: a square case marketed as 'wears like 40mm' but actually 35mm x 36mm and just 9mm thick, with a 46mm lug-to-lug. It is powered by a hand-wound Sellita SW-210 built in La Chaux-de-Fonds and assembled in Porrentruy, the first Trafford watch to carry a Swiss Made designation, regulated to +/-5 seconds/day with a 42-hour power reserve. The 316L stainless steel case has a scratch-resistant hardening coating and a double-domed sapphire crystal with interior anti-reflective coating, rated to 10 ATM (100m). It ships on a color-matched leather strap, with an optional H-link steel bracelet available as an add-on."
+    },
+    {
+      "id": "traf_touring_gmt",
+      "brand": "Trafford",
+      "model": "Touring GMT",
+      "caseSizeMm": 39,
+      "colorways": [
+        {
+          "id": "traf_touring_gmt_slowhand",
+          "name": "Slowhand",
+          "dial": "#1C1C1C",
+          "caseColor": "#C8CDD4",
+          "strap": "#211A1B",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_TouringGMT2_Slowhand.png?v=1758734520&width=1200"
+        },
+        {
+          "id": "traf_touring_gmt_izabella",
+          "name": "Izabella",
+          "dial": "#EAE0C8",
+          "caseColor": "#C8CDD4",
+          "strap": "#5C1F2E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_TouringGMT2_Izabella.png?v=1759332701&width=1200"
+        },
+        {
+          "id": "traf_touring_gmt_lefty",
+          "name": "Lefty",
+          "dial": "#B5651D",
+          "caseColor": "#C8CDD4",
+          "strap": "#5B3A21",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_TouringGMT2_Lefty_3c9a4875-adfe-495b-9316-a2a1eba0c736.png?v=1759946687&width=1200"
+        },
+        {
+          "id": "traf_touring_gmt_daphne",
+          "name": "Daphne",
+          "dial": "#A9C7D8",
+          "caseColor": "#C8CDD4",
+          "strap": "#C3A878",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/68eeba92530c5a805d6d68e2_uuid_63106657-ACED-4701-88EB-735417D1AEF8_code_001_library_3_type_1_mode_1_loc_true_cap_true.avif?v=1760625847&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "GMT",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "100m",
+      "crystal": "Domed sapphire, interior AR coating, front and rear",
+      "powerReserveHours": 42,
+      "priceCents": 89900,
+      "currency": "USD",
+      "affiliateUrl": "https://www.traffordwatchco.com/products/touring-gmt-slowhand",
+      "sourceUrl": "https://www.traffordwatchco.com/products/touring-gmt-slowhand",
+      "description": "The Touring GMT runs on the Miyota 9075 'True GMT' automatic movement, regulated in-house to +/-10 seconds/day at 28,800 vph with a 42-hour power reserve. The 39mm 316L stainless steel case is 46mm lug-to-lug and 12mm thick, with a screw-down crown and screw-down case back rated to 10 ATM (100m), and sapphire crystal with interior anti-reflective coating front and rear. Season Two's four colorways are named for guitars/guitarists (Clapton's Slowhand, Hendrix's Izabella, McCartney's Lefty, Cobain's Daphne) and each ships on a matching leather strap with contrast stitching."
+    },
+    {
+      "id": "traf_daytripper",
+      "brand": "Trafford",
+      "model": "Daytripper",
+      "caseSizeMm": 39,
+      "colorways": [
+        {
+          "id": "traf_daytripper_eos",
+          "name": "Eos",
+          "dial": "#3E8E8A",
+          "caseColor": "#C8CDD4",
+          "strap": "#1F4F4A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/Eos_9152747d-e19b-4a09-9bc2-cf036cd43345.avif?v=1771875634&width=1200"
+        },
+        {
+          "id": "traf_daytripper_solaris",
+          "name": "Solaris",
+          "dial": "#1B4F72",
+          "caseColor": "#C8CDD4",
+          "strap": "#6B4423",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/Solaris_773180e9-630d-451a-8dcf-660185057c5a.avif?v=1771875615&width=1200"
+        },
+        {
+          "id": "traf_daytripper_eventide",
+          "name": "Eventide",
+          "dial": "#7A1F2B",
+          "caseColor": "#C8CDD4",
+          "strap": "#4B2E5A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/Eventide_a4ac1095-663d-46e6-9ad9-eaa79a6b31ea.avif?v=1771875596&width=1200"
+        },
+        {
+          "id": "traf_daytripper_vesper",
+          "name": "Vesper",
+          "dial": "#123524",
+          "caseColor": "#C8CDD4",
+          "strap": "#1C2B3A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/Vesper_74e95a3b-06b5-42eb-9069-caa3a4efa65b.avif?v=1771875573&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Field",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "100m",
+      "crystal": "Sapphire, interior AR coating, front and rear",
+      "powerReserveHours": 42,
+      "priceCents": 79900,
+      "currency": "USD",
+      "affiliateUrl": "https://www.traffordwatchco.com/products/daytripper-eos",
+      "sourceUrl": "https://www.traffordwatchco.com/products/daytripper-eos",
+      "description": "The Daytripper is powered by a Miyota 9075 automatic movement reworked to spotlight its quick-set hour hand, letting wearers jump the local hour forward or back without disturbing the running minutes or seconds, at 28,800 vph with a 42-hour power reserve. The 39mm 316L stainless steel case (12mm thick, 46mm lug-to-lug) has a scratch-resistant hardening coating and sapphire crystal front and rear, rated to 10 ATM (100m). Season Two adds a fully lumed BGW9 Super-LumiNova chapter ring and four gradient dials, each named for a different time of day, on a color-matched leather strap."
+    },
+    {
+      "id": "traf_s_o_e_roadster",
+      "brand": "Trafford",
+      "model": "S.O.E. Roadster",
+      "caseSizeMm": 43,
+      "colorways": [
+        {
+          "id": "traf_s_o_e_roadster_benoist",
+          "name": "Benoist",
+          "dial": "#1A1A1A",
+          "caseColor": "#C8CDD4",
+          "strap": "#221E1D",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_Roadster_Pose1_Benoist.png?v=1733759326&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_Roadster_Pose1_Benoist.png?v=1733759326&width=1200",
+            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/IMG_0373.jpg?v=1733759326&width=1200",
+            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/IMG_0378.jpg?v=1733759326&width=1200"
+          ]
+        },
+        {
+          "id": "traf_s_o_e_roadster_wimille",
+          "name": "Wimille",
+          "dial": "#1E3A5F",
+          "caseColor": "#C8CDD4",
+          "strap": "#20395C",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_Roadster_Pose1_Wimille.png?v=1733759355&width=1200"
+        },
+        {
+          "id": "traf_s_o_e_roadster_grover_williams",
+          "name": "Grover-Williams",
+          "dial": "#1B4D3E",
+          "caseColor": "#C8CDD4",
+          "strap": "#1B4A3C",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_Roadster_Pose1_GroverWilliams.png?v=1733759384&width=1200"
+        }
+      ],
+      "movement": "Quartz",
+      "category": "Chronograph",
+      "caseMaterial": "Stainless Steel",
+      "waterResistance": "100m",
+      "crystal": "Domed crystal (material not stated)",
+      "priceCents": 49900,
+      "currency": "USD",
+      "affiliateUrl": "https://www.traffordwatchco.com/products/soe-roadster-benoist",
+      "sourceUrl": "https://www.traffordwatchco.com/products/soe-roadster-benoist",
+      "description": "The S.O.E. Roadster was Trafford's debut model (originally Kickstarter-funded), inspired by three 1930s Grand Prix drivers -- Robert Benoist, Jean-Pierre Wimille, and William Grover-Williams -- who were recruited into Britain's WWII-era Special Operations Executive, with each colorway named for one of them and finished in his signature racing color. It runs on a Seiko VK64 meca-quartz chronograph movement with a sweeping central chronograph hand and a 24-hour subdial, visually inspired by the Bugatti Type 35 race car. The 43mm case (41mm excluding the bezel) is 48mm lug-to-lug and about 12.8mm thick, with hands and markers lumed in BGW9 Super-LumiNova, rated to 100m water resistance, and ships with both a leather strap and a matching nylon strap."
+    },
+    {
+      "id": "ww_valiant",
+      "brand": "William Wood",
+      "model": "Valiant",
+      "caseSizeMm": 41,
+      "colorways": [
+        {
+          "id": "ww_valiant_the_black_watch",
+          "name": "The Black Watch",
+          "dial": "#1A1A1A",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/84578106-A08C-4B1A-BD97-644DA42E46B9.png?v=1740859951&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/84578106-A08C-4B1A-BD97-644DA42E46B9.png?v=1740859951&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/5-min_2e23fa9e-d81b-4138-b6ca-085e3ab06a23.png?v=1740859948&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/6-min.png?v=1740859948&width=1200"
+          ]
+        },
+        {
+          "id": "ww_valiant_the_red_watch",
+          "name": "The Red Watch",
+          "dial": "#A5342E",
+          "caseColor": "#C8CDD4",
+          "strap": "#A5342E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantRedFront-min_829eda8d-346b-4965-9158-572fdffac07a.png?v=1683571549&width=1200"
+        },
+        {
+          "id": "ww_valiant_the_white_watch",
+          "name": "The White Watch",
+          "dial": "#F2F0EB",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantWhiteFront-min_7b709df6-b73c-4554-b70a-ff8df3a2e2aa.png?v=1683571692&width=1200"
+        },
+        {
+          "id": "ww_valiant_the_blue_watch",
+          "name": "The Blue Watch",
+          "dial": "#2C4A6E",
+          "caseColor": "#C8CDD4",
+          "strap": "#2C4A6E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantBlueFront-min_f8edcc58-fcf2-447a-ac7f-943825f492e1.png?v=1683571371&width=1200"
+        },
+        {
+          "id": "ww_valiant_the_green_watch",
+          "name": "The Green Watch",
+          "dial": "#2F5233",
+          "caseColor": "#C8CDD4",
+          "strap": "#2F5233",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/680767D5-FDF8-4EB1-BD6B-E1DB2E5DBC15.png?v=1772531591&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Dive",
+      "caseMaterial": "316L stainless steel",
+      "waterResistance": "100m",
+      "crystal": "Sapphire, double-domed, anti-reflective coating, blue-tinted",
+      "powerReserveHours": 41,
+      "priceCents": 82000,
+      "currency": "GBP",
+      "affiliateUrl": "https://williamwoodwatches.com/en-us/products/theblackwatch",
+      "sourceUrl": "https://williamwoodwatches.com/en-us/products/theblackwatch",
+      "description": "The Valiant is William Wood's flagship automatic diving watch, built around a 41mm 316L stainless steel case, a Seiko NH35 automatic movement with a 41-hour power reserve, and a double-domed sapphire crystal tinted blue in tribute to founder Jonny Garrett's grandfather's 'Blue Watch' shift pattern at the Newcastle & Gateshead Fire Brigade. Its crown is cast from brass melted down from a genuine 100-year-old British firefighter's helmet, and every colorway ships on a quick-release strap made from upcycled fire hose or a stainless bracelet. The dial's chequered seconds track is lifted from the livery on the side of a British fire engine, and the case is rated to 100m water resistance."
+    },
+    {
+      "id": "ww_chivalrous",
+      "brand": "William Wood",
+      "model": "Chivalrous",
+      "caseSizeMm": 41,
+      "colorways": [
+        {
+          "id": "ww_chivalrous_peacock_edition",
+          "name": "Peacock Edition",
+          "dial": "#0F4C4C",
+          "caseColor": "#C8CDD4",
+          "strap": "#0F4C4C",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalours_White_Dial_Green_Strap_96e79b37-9a4a-480e-9b54-3d7d3b76c559.png?v=1772727174&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalours_White_Dial_Green_Strap_96e79b37-9a4a-480e-9b54-3d7d3b76c559.png?v=1772727174&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/D50_5310.jpg?v=1772727174&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/D50_5314.jpg?v=1772727174&width=1200"
+          ]
+        },
+        {
+          "id": "ww_chivalrous_midnight_blue",
+          "name": "Midnight Blue",
+          "dial": "#0B1F3A",
+          "caseColor": "#C8CDD4",
+          "strap": "#0B1F3A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Blue_Dial_Blue_Strap_8e48f95c-8b5c-4d49-9627-b25c7a4d9c43.png?v=1772725020&width=1200"
+        },
+        {
+          "id": "ww_chivalrous_british_racing_green",
+          "name": "British Racing Green",
+          "dial": "#04421F",
+          "caseColor": "#B08D57",
+          "strap": "#04421F",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Gold_Green_Dial_Green_Strap_7cf4893b-43f7-4aac-891e-2537211ecf8a.png?v=1772726586&width=1200"
+        },
+        {
+          "id": "ww_chivalrous_chocolate",
+          "name": "Chocolate",
+          "dial": "#4A2E1E",
+          "caseColor": "#C8CDD4",
+          "strap": "#4A2E1E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Brown_fire_hose.png?v=1772722425&width=1200"
+        }
+      ],
+      "movement": "Quartz",
+      "category": "Dress",
+      "caseMaterial": "Brushed stainless steel (rose-gold-plated option)",
+      "waterResistance": "50m",
+      "crystal": "Sapphire, low-flush curve, anti-reflective coating, blue-tinted",
+      "priceCents": 49500,
+      "currency": "GBP",
+      "affiliateUrl": "https://williamwoodwatches.com/en-us/products/peacock-edition",
+      "sourceUrl": "https://williamwoodwatches.com/en-us/products/peacock-edition",
+      "description": "The Chivalrous is William Wood's dress-watch line, pairing a 41mm stainless (or rose-gold-plated) case with a Swiss-Made Ronda 762 quartz movement and a sunburst dial set with a Roman numeral at 12. Its signature detail is a commemorative coin let into the caseback, cast from brass melted down from an original 1920s British firefighter's helmet and sealed under its own sapphire window. Finished with a low-flush, anti-reflective sapphire crystal and offered on fire-hose, leather, or steel-bracelet straps, it carries a 50m water resistance rating."
+    },
+    {
+      "id": "ww_triumph",
+      "brand": "William Wood",
+      "model": "Triumph",
+      "caseSizeMm": 41,
+      "colorways": [
+        {
+          "id": "ww_triumph_heat_edition",
+          "name": "Heat Edition",
+          "dial": "#A5342E",
+          "caseColor": "#C8CDD4",
+          "strap": "#A5342E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Red_Red.png?v=1757633137&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Red_Red.png?v=1757633137&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/35-min.png?v=1757633137&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/36-min.png?v=1757633137&width=1200"
+          ]
+        },
+        {
+          "id": "ww_triumph_oxygen_edition",
+          "name": "Oxygen Edition",
+          "dial": "#2C4A6E",
+          "caseColor": "#C8CDD4",
+          "strap": "#2C4A6E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Blue.png?v=1757634245&width=1200"
+        },
+        {
+          "id": "ww_triumph_fuel_edition",
+          "name": "Fuel Edition",
+          "dial": "#F2F0EB",
+          "caseColor": "#C8CDD4",
+          "strap": "#D9A400",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_White_Yellow.png?v=1757633879&width=1200"
+        },
+        {
+          "id": "ww_triumph_vintage_edition",
+          "name": "Vintage Edition",
+          "dial": "#C9A24B",
+          "caseColor": "#B08D57",
+          "strap": "#4A2E1E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/1552ED84-5FAC-4C23-B675-A407841358AF.png?v=1756991442&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Chronograph",
+      "caseMaterial": "316L stainless steel (gold-plated on the Vintage Edition)",
+      "waterResistance": "100m",
+      "crystal": "Sapphire, low-flush curve, anti-reflective coating, blue-tinted",
+      "powerReserveHours": 48,
+      "priceCents": 252500,
+      "currency": "GBP",
+      "affiliateUrl": "https://williamwoodwatches.com/en-us/products/heatedition",
+      "sourceUrl": "https://williamwoodwatches.com/en-us/products/heatedition",
+      "description": "The Triumph is William Wood's chronograph collection, cased at 41mm in 316L stainless steel (gold-plated on the Vintage Edition) around a Swiss-Made Sellita SW510 chronograph movement with a 48-hour power reserve and brass chronograph pushers. Twin sub-dials at 3 and 9 o'clock are styled after fire-hose pressure-pump gauges, and the seconds track reproduces the chequered pattern from the side of a British fire engine. Rated to 100m water resistance under a double anti-reflective sapphire crystal, it ships on fire-hose, fire-gear, or steel-bracelet straps depending on colorway."
+    },
+    {
+      "id": "ww_fearless",
+      "brand": "William Wood",
+      "model": "Fearless",
+      "caseSizeMm": 39,
+      "colorways": [
+        {
+          "id": "ww_fearless_fearless_red",
+          "name": "Fearless Red",
+          "dial": "#3B3B3D",
+          "caseColor": "#2B2B2E",
+          "strap": "#A5342E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/FearlessRedFront-min.png?v=1734108691&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/FearlessRedFront-min.png?v=1734108691&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/74.png?v=1721326932&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/75.png?v=1721326932&width=1200"
+          ]
+        },
+        {
+          "id": "ww_fearless_fearless_orange",
+          "name": "Fearless Orange",
+          "dial": "#3B3B3D",
+          "caseColor": "#2B2B2E",
+          "strap": "#D2601A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/FearlessOrangeFront-min.png?v=1683569976&width=1200"
+        },
+        {
+          "id": "ww_fearless_fearless_yellow",
+          "name": "Fearless Yellow",
+          "dial": "#3B3B3D",
+          "caseColor": "#2B2B2E",
+          "strap": "#D9A400",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/FearlessYellowFront-min.png?v=1683570119&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Field",
+      "caseMaterial": "Stainless steel with black PVD coating",
+      "waterResistance": "100m",
+      "crystal": "Sapphire, anti-reflective coating, blue-tinted, exhibition caseback window",
+      "powerReserveHours": 41,
+      "priceCents": 92000,
+      "currency": "GBP",
+      "affiliateUrl": "https://williamwoodwatches.com/en-us/products/fearlessred",
+      "sourceUrl": "https://williamwoodwatches.com/en-us/products/fearlessred",
+      "description": "The Fearless is William Wood's smallest and stealthiest model, a 39mm stainless steel case finished in matte black PVD around a Seiko NH35 automatic movement with a 41-hour power reserve. Its exhibition sapphire caseback is engraved with a modern British firefighter's helmet motif, and the crown is cast from brass melted down from a genuine 100-year-old firefighter's helmet, carrying the same material story used on the Valiant. Charcoal-effect dials with rose-gold, lume-filled indices sit under an anti-reflective, blue-tinted sapphire crystal, and the case is rated to 100m water resistance."
+    },
+    {
+      "id": "brew_metric",
+      "brand": "Brew",
+      "model": "Metric",
+      "caseSizeMm": 36,
+      "colorways": [
+        {
+          "id": "brew_metric_steel_dial",
+          "name": "Steel Dial",
+          "dial": "#D6D9DD",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICFRONTSTEELDIAL-SD.jpg?v=1700672573&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICFRONTSTEELDIAL-SD.jpg?v=1700672573&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/SD-Brew-Watches-Oct-18-2022-9.jpg?v=1766005299&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/steel-dial-a-02_d87fb828-474f-4f41-820d-80df8b616b63.png?v=1782140764&width=1200"
+          ]
+        },
+        {
+          "id": "brew_metric_pvd_black",
+          "name": "PVD Black",
+          "dial": "#161616",
+          "caseColor": "#1C1C1E",
+          "strap": "#232326",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICFRONTBLACKPVDDIAL-SD.jpg?v=1700672310&width=1200"
+        },
+        {
+          "id": "brew_metric_retro_dial",
+          "name": "Retro Dial",
+          "dial": "#1A1A1A",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICFRONTRETRODIAL-SD.jpg?v=1700672505&width=1200"
+        },
+        {
+          "id": "brew_metric_gold_black",
+          "name": "Gold & Black",
+          "dial": "#1A1A1A",
+          "caseColor": "#C9A85C",
+          "strap": "#C9A85C",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Gold-Black-A.jpg?v=1768426142&width=1200"
+        },
+        {
+          "id": "brew_metric_star",
+          "name": "Star",
+          "dial": "#D9BE84",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Star-Website-SD-A.jpg?v=1767632172&width=1200"
+        },
+        {
+          "id": "brew_metric_teal_yellow",
+          "name": "Teal & Yellow",
+          "dial": "#1A1A1A",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/METRICFRONTTEAL-SS_SD.jpg?v=1766516916&width=1200"
+        }
+      ],
+      "movement": "Quartz",
+      "category": "Chronograph",
+      "caseMaterial": "Stainless Steel 316L",
+      "waterResistance": "50m",
+      "crystal": "Sapphire",
+      "priceCents": 47500,
+      "currency": "USD",
+      "affiliateUrl": "https://www.brew-watches.com/products/brew-metric-silver",
+      "sourceUrl": "https://www.brew-watches.com/products/brew-metric-silver",
+      "description": "The Metric is Brew Watch Co.'s flagship chronograph, built around a cushion-shaped case that recalls 1970s motorsport chronographs, blending brushed and polished stainless steel 316L for contrast. It runs a Hybrid VK68 meca-quartz chronograph movement behind a sapphire crystal, in a 36mm-wide by 41.5mm lug-to-lug case rated to 5ATM (50m). It anchors Brew's lineup and is offered in the widest range of colorways of any Brew model, from mirror steel and PVD black to gold-toned and patterned dials."
+    },
+    {
+      "id": "brew_metric_lite",
+      "brand": "Brew",
+      "model": "Metric Lite",
+      "caseSizeMm": 30,
+      "colorways": [
+        {
+          "id": "brew_metric_lite_silver_black",
+          "name": "Silver & Black",
+          "dial": "#161616",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-SS-Black-Dial-Front-SD.jpg?v=1749581801&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-SS-Black-Dial-Front-SD.jpg?v=1749581801&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Silver_and_Black_-_Wrist-Shot-C.jpg?v=1768414712&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Silver_and_Black_-_Wrist-Shot-B.jpg?v=1768414712&width=1200"
+          ]
+        },
+        {
+          "id": "brew_metric_lite_gold_black",
+          "name": "Gold & Black",
+          "dial": "#161616",
+          "caseColor": "#C9A85C",
+          "strap": "#C9A85C",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Gold-Black-Front-SD-002.jpg?v=1768326712&width=1200"
+        },
+        {
+          "id": "brew_metric_lite_mother_of_pearl",
+          "name": "Mother of Pearl",
+          "dial": "#EDEDE6",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-MOP-Front-SD_c4a02026-755d-47e2-99a4-93aefe76e8b2.jpg?v=1774971657&width=1200"
+        },
+        {
+          "id": "brew_metric_lite_tiger_eye",
+          "name": "Tiger Eye",
+          "dial": "#8B5A2B",
+          "caseColor": "#C9A85C",
+          "strap": "#C9A85C",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Tiger-Eye-Front-SD-B.jpg?v=1779121849&width=1200"
+        },
+        {
+          "id": "brew_metric_lite_tahitian_pearl",
+          "name": "Tahitian Pearl",
+          "dial": "#6FAF9A",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Tahitian-Pearl-Front-SD-003.jpg?v=1779121038&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Vintage",
+      "caseMaterial": "Stainless Steel 316L",
+      "waterResistance": "50m",
+      "crystal": "Sapphire",
+      "priceCents": 37500,
+      "currency": "USD",
+      "affiliateUrl": "https://www.brew-watches.com/products/metric-lite-silver-and-black",
+      "sourceUrl": "https://www.brew-watches.com/products/metric-lite-silver-and-black",
+      "description": "Metric Lite is Brew's most compact watch, reworking the Metric's tonneau case into a clean three-hand, 30mm-wide (34mm lug-to-lug) piece with no chronograph complication. It swaps the flagship's meca-quartz module for an automatic 6T27 movement, keeping the same sapphire crystal, stainless steel 316L case, and 5ATM (50m) water resistance. Colorways lean toward quieter, vintage-inspired dials: brushed steel, PVD gold, and gemstone finishes such as tiger's eye, mother-of-pearl, and Tahitian pearl."
+    },
+    {
+      "id": "brew_super_metric",
+      "brand": "Brew",
+      "model": "Super Metric",
+      "caseSizeMm": 36,
+      "colorways": [
+        {
+          "id": "brew_super_metric_electric_blue",
+          "name": "Electric Blue",
+          "dial": "#1E4D8C",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Electric-Blue-Super-Metric-Website-A.jpg?v=1767317656&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Electric-Blue-Super-Metric-Website-A.jpg?v=1767317656&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/2024_NOV_-_BREW_METRIC_1_WRIST_POCKET-SD.jpg?v=1767317656&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/ElectricBlue-SuperMetricWristshot-SD_05b6bd9e-96ce-4cee-a817-147877ebf53b.jpg?v=1767317656&width=1200"
+          ]
+        },
+        {
+          "id": "brew_super_metric_burnt_orange",
+          "name": "Burnt Orange",
+          "dial": "#1E1E1E",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Burnt-Orange-Super-Metric-Website-A.jpg?v=1767317579&width=1200"
+        },
+        {
+          "id": "brew_super_metric_royal_blue",
+          "name": "Royal Blue",
+          "dial": "#1A1A1A",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Royal-Blue-Super-Metric-Website-A.jpg?v=1767317473&width=1200"
+        },
+        {
+          "id": "brew_super_metric_lumina_yellow",
+          "name": "Lumina Yellow",
+          "dial": "#242424",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Lumina-Yellow-Super-Metric-Website-A.jpg?v=1767317517&width=1200"
+        }
+      ],
+      "movement": "Quartz",
+      "category": "Chronograph",
+      "caseMaterial": "Stainless Steel 316L",
+      "waterResistance": "50m",
+      "crystal": "Sapphire",
+      "priceCents": 47500,
+      "currency": "USD",
+      "affiliateUrl": "https://www.brew-watches.com/products/metric-super-eletric-blue",
+      "sourceUrl": "https://www.brew-watches.com/products/metric-super-eletric-blue",
+      "description": "Super Metric shares the standard Metric's 36mm by 41.5mm cushion case, Hybrid VK68 meca-quartz chronograph movement, sapphire crystal, and 5ATM (50m) water resistance, but pushes the dial design further with bold color-blocked chapter rings, dual-finish subdials, and an anodized-aluminum chronograph pusher for a spot of accent color. It reads as the more graphic, motorsport-flavored sibling to the standard Metric dials. Electric Blue, Burnt Orange, Royal Blue, and Lumina Yellow give the line a higher-contrast identity within the Metric family."
+    },
+    {
+      "id": "brew_retrograph",
+      "brand": "Brew",
+      "model": "Retrograph",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "brew_retrograph_espresso",
+          "name": "Espresso",
+          "dial": "#5C3A21",
+          "caseColor": "#B76E4A",
+          "strap": "#6F4A32",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHFRONTESPRESSODIAL-SD.jpg?v=1700672997&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHFRONTESPRESSODIAL-SD.jpg?v=1700672997&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/products/Rose-Gold-Brew-002.jpg?v=1766001432&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHANGLEESPRESSODIAL-SD.jpg?v=1766001432&width=1200"
+          ]
+        },
+        {
+          "id": "brew_retrograph_technicolor",
+          "name": "Technicolor",
+          "dial": "#1F3A5F",
+          "caseColor": "#C8CDD4",
+          "strap": "#1F3350",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREW_RETROGRAPH_FRONT_TECHNICOLOR_DIAL_-_SD-002.jpg?v=1771984784&width=1200"
+        },
+        {
+          "id": "brew_retrograph_cobalt",
+          "name": "Cobalt",
+          "dial": "#2C5B8C",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Cobalt-Retrograph-A000.jpg?v=1773328391&width=1200"
+        },
+        {
+          "id": "brew_retrograph_lumint",
+          "name": "Lumint",
+          "dial": "#D9E4C8",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Lumint-Front-1.jpg?v=1724084274&width=1200"
+        }
+      ],
+      "movement": "Quartz",
+      "category": "Chronograph",
+      "caseMaterial": "Rosegold PVD-Plated Stainless Steel 316L",
+      "waterResistance": "50m",
+      "crystal": "Sapphire",
+      "priceCents": 37500,
+      "currency": "USD",
+      "affiliateUrl": "https://www.brew-watches.com/products/retrograph-brew-rosegold-espresso-chocolate",
+      "sourceUrl": "https://www.brew-watches.com/products/retrograph-brew-rosegold-espresso-chocolate",
+      "description": "The Retrograph is Brew's most literal expression of its coffee-culture identity: Brew built its 38mm by 41.5mm meca-quartz chronograph specifically as a utilitarian, retro timing device whose 60-minute totalizer tracks a 25-35 second espresso shot, alongside other timed durations. The lead Espresso colorway pairs a rosegold PVD-plated stainless steel case with a chocolate-espresso sunburst dial and brown leather strap; sapphire crystal and 5ATM (50m) water resistance carry across the line."
     }
   ],
   "brands": [
@@ -664,6 +1775,46 @@
       "knownFor": "Chicago-assembled anti-magnetic tool watches",
       "blurb": "Named for the Gold Coast street corner where founder Andrew Perez — an Army veteran and lifelong watch nerd — got his start, Astor + Banks assembles every watch in Chicago. Hardened steel, serious anti-magnetic ratings, and clean officer's-watch design at honest prices.",
       "logoUri": "https://astorandbanks.com/cdn/shop/files/ABIcon2024Black.png?v=1710439718&width=256"
+    },
+    {
+      "brand": "Studio Underd0g",
+      "founded": 2020,
+      "country": "United Kingdom",
+      "knownFor": "Watermelon-dial chronographs with playful puns",
+      "blurb": "Studio Underd0g was founded in London in 2020 by industrial designer Richard Benc, who sketched the brand's first watch during the March 2020 lockdown and posted it to a watch-enthusiast Facebook group to an unexpectedly huge response. The name plays on \"underdog\" — a design-led challenger among the big Swiss houses — with a gamer-style \"0\" swapped in for the \"o\". Every watch is hand-assembled start-to-finish by a single technician in Great Britain, and the brand has built its following on pun-named dial colorways (Watermel0n, Pink Lem0nade) and headline collaborations with Moser, Fears, and Massena LAB.",
+      "logoUri": "https://underd0g.com/cdn/shop/files/20250903_Studio_Underd0g_Profile_Picture_2.jpg?v=1756913442&width=256"
+    },
+    {
+      "brand": "Baltic",
+      "founded": 2016,
+      "country": "France",
+      "knownFor": "Vintage-inspired, France-assembled direct-to-consumer watches",
+      "blurb": "Founded in Paris in 2016 by Etienne Malec, who grew up immersed in his late father's diary cataloguing a lifelong watch collection, Baltic takes its name from his father's roots on Poland's Baltic coast. The brand went public via a Kickstarter campaign in April 2017, pre-selling 1,200 watches of its debut Bicompax and HMS models and raising nearly 8x its goal. Baltic designs vintage-inspired watches assembled and adjusted at its own atelier in Besançon, France, and sells direct-to-consumer to avoid traditional retail markups.",
+      "logoUri": "https://baltic-watches.com/apple-icon-180x180.png"
+    },
+    {
+      "brand": "Trafford",
+      "founded": 2020,
+      "country": "United States",
+      "knownFor": "Story-driven, color-saturated Americana watch design",
+      "blurb": "Trafford Watch Co. was founded in 2020 by Nathan Trafford, a designer originally from northern England now based in Austin, Texas, who started the brand to create 'something tangible that lasts.' Its Austin-designed, overseas-manufactured watches lean on narrative color palettes drawn from Texas Hill Country wildflowers (Crossroads), classic rock guitars (Touring GMT), and WWII racing-driver spies (S.O.E. Roadster), earning coverage from Worn & Wound, Watch Clicker, and Teddy Baldassarre.",
+      "logoUri": "https://cdn.prod.website-files.com/66eb55ec003b04cef9f26c89/69d57120c1d4217e12ad5b5a_webclip_trafford.png?width=256"
+    },
+    {
+      "brand": "William Wood",
+      "founded": 2017,
+      "country": "United Kingdom",
+      "knownFor": "Firefighter-heritage watches from upcycled materials",
+      "blurb": "Founded in 2017 by Jonny Garrett and named for his grandfather William Wood, a Newcastle & Gateshead firefighter who passed away in 2009, the British independent watchmaker builds every piece from genuine upcycled firefighting materials. Straps are cut from retired fire hose, and several collections cast a coin or crown from brass melted down from a century-old firefighter's helmet.",
+      "logoUri": "https://williamwoodwatches.com/cdn/shop/files/WWW_Gold_Logo_copy_2_5fdbed59-bc49-4b97-ab90-363461451937.png?width=256"
+    },
+    {
+      "brand": "Brew",
+      "founded": 2015,
+      "country": "United States",
+      "knownFor": "Espresso-timed retro-industrial chronograph watches",
+      "blurb": "Brew Watch Co. was founded in 2015 by industrial designer Jonathan Ferrer, who launched the brand from New York City via Kickstarter after noticing how baristas timed espresso extraction. Every design decision traces back to that coffee ritual: chronograph totalizers sized to a 25-35 second espresso pour, cushion cases inspired by vintage espresso machines and Art Deco cafes, and a coffee-bean logomark on the crown and dial.",
+      "logoUri": "https://mx-orsi.github.io/watchswipe-feed/assets/brew-logomark.png"
     }
   ]
 }
