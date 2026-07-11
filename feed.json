@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
-  "edition": 6,
-  "publishedAt": 1783749792985,
+  "edition": 7,
+  "publishedAt": 1783751160598,
   "stories": [
     {
       "id": "n_four_more_arrivals",
@@ -121,7 +121,8 @@
       "currency": "USD",
       "sourceUrl": "https://astorandbanks.com/collections/fortitude-lite/products/fortitude-lite-navy-blue-pre-order",
       "affiliateUrl": "https://astorandbanks.com/collections/fortitude-lite/products/fortitude-lite-navy-blue-pre-order",
-      "description": "The civilian take on Astor + Banks' officer's-style Fortitude: slimmer case, clean no-date dial, and a Miyota 9039 automatic adjusted in-house. Applied markers and hands glow with BGW9 Super-LumiNova, and the tapered 20mm bracelet hides polished chamfers on the underside of the links. Anti-magnetic to the ISO 764 standard and water resistant to 660ft — an everyday watch that punches far above $650."
+      "description": "The civilian take on Astor + Banks' officer's-style Fortitude: slimmer case, clean no-date dial, and a Miyota 9039 automatic adjusted in-house. Applied markers and hands glow with BGW9 Super-LumiNova, and the tapered 20mm bracelet hides polished chamfers on the underside of the links. Anti-magnetic to the ISO 764 standard and water resistant to 660ft — an everyday watch that punches far above $650.",
+      "releaseYear": 2022
     },
     {
       "id": "ab_fortitude_pro",
@@ -185,7 +186,8 @@
       "currency": "USD",
       "sourceUrl": "https://astorandbanks.com/collections/fortitude/products/fortitude-pro-mint-green",
       "affiliateUrl": "https://astorandbanks.com/collections/fortitude/products/fortitude-pro-mint-green",
-      "description": "The flagship officer's watch, updated: steel hardened to HV1200 for scratch resistance, anti-magnetic to 20,000A/m — over four times the ISO requirement — and a Miyota 9015 automatic adjusted in-house. Heat-blued hands on select dials, BGW9 lume throughout, and the same perfectly tapered bracelet as the Lite. Formal to casual, 38.5mm, any day of the week."
+      "description": "The flagship officer's watch, updated: steel hardened to HV1200 for scratch resistance, anti-magnetic to 20,000A/m — over four times the ISO requirement — and a Miyota 9015 automatic adjusted in-house. Heat-blued hands on select dials, BGW9 lume throughout, and the same perfectly tapered bracelet as the Lite. Formal to casual, 38.5mm, any day of the week.",
+      "releaseYear": 2023
     },
     {
       "id": "ab_sea_ranger_m2",
@@ -241,7 +243,8 @@
       "currency": "USD",
       "sourceUrl": "https://astorandbanks.com/collections/sea-ranger-m2/products/sea-ranger-m2",
       "affiliateUrl": "https://astorandbanks.com/collections/sea-ranger-m2/products/sea-ranger-m2",
-      "description": "A dual-crown, go-anywhere tool watch two years in the making. The top crown drives an internal 12-hour rotating ring — a second time zone without a GMT movement — while the Swiss LJP G100 automatic runs a 68-hour reserve, adjusted in-house to ±8 seconds a day. Rated to 1000ft with hardened HV1200 steel and a soft-iron anti-magnetic cage. Bracelet versions include a color-matched FKM rubber strap ($1,149 on strap only)."
+      "description": "A dual-crown, go-anywhere tool watch two years in the making. The top crown drives an internal 12-hour rotating ring — a second time zone without a GMT movement — while the Swiss LJP G100 automatic runs a 68-hour reserve, adjusted in-house to ±8 seconds a day. Rated to 1000ft with hardened HV1200 steel and a soft-iron anti-magnetic cage. Bracelet versions include a color-matched FKM rubber strap ($1,149 on strap only).",
+      "releaseYear": 2024
     },
     {
       "id": "ab_terra_scout",
@@ -297,7 +300,8 @@
       "currency": "USD",
       "sourceUrl": "https://astorandbanks.com/collections/terra-scout/products/terra-scout-desert-sand-le-copy",
       "affiliateUrl": "https://astorandbanks.com/collections/terra-scout/products/terra-scout-desert-sand-le-copy",
-      "description": "A modern interpretation of the classic military field watch: tough, legible, reliable. The 3-layer matte dial sits under box sapphire, the sandblasted 38.5mm case wears 46mm lug-to-lug, and the Swiss LJP G100 automatic is adjusted in-house to ±8 seconds a day with a 68-hour reserve. Ships with both canvas and FKM rubber straps and a Horween leather watch wallet. Desert Sand limited edition $1,195; the full-lume dial option glows edge to edge."
+      "description": "A modern interpretation of the classic military field watch: tough, legible, reliable. The 3-layer matte dial sits under box sapphire, the sandblasted 38.5mm case wears 46mm lug-to-lug, and the Swiss LJP G100 automatic is adjusted in-house to ±8 seconds a day with a 68-hour reserve. Ships with both canvas and FKM rubber straps and a Horween leather watch wallet. Desert Sand limited edition $1,195; the full-lume dial option glows edge to edge.",
+      "releaseYear": 2026
     },
     {
       "id": "su_01series_gen3",
@@ -348,7 +352,8 @@
       "currency": "GBP",
       "affiliateUrl": "https://underd0g.com/products/01wmb",
       "sourceUrl": "https://underd0g.com/products/01wmb",
-      "description": "The 01Series is Studio Underd0g's third-generation flagship chronograph and the watch that put the brand on the map: a 38.5mm x 12.9mm 316L steel case driving a hand-wound Chinese Seagull ST-1901B bicompax movement (21,600vph, 50-hour power reserve with the chronograph stopped). Its lead dial, Watermel0n, uses a two-tone red-over-green dégradé finish that has been the brand's signature design since its 2020 launch. The case carries a sapphire crystal, 5 ATM (50m) water resistance, and a quick-release leather strap fitted by The Strap Tailor."
+      "description": "The 01Series is Studio Underd0g's third-generation flagship chronograph and the watch that put the brand on the map: a 38.5mm x 12.9mm 316L steel case driving a hand-wound Chinese Seagull ST-1901B bicompax movement (21,600vph, 50-hour power reserve with the chronograph stopped). Its lead dial, Watermel0n, uses a two-tone red-over-green dégradé finish that has been the brand's signature design since its 2020 launch. The case carries a sapphire crystal, 5 ATM (50m) water resistance, and a quick-release leather strap fitted by The Strap Tailor.",
+      "releaseYear": 2024
     },
     {
       "id": "su_02series_gen2",
@@ -399,7 +404,8 @@
       "currency": "GBP",
       "affiliateUrl": "https://underd0g.com/products/02nibu",
       "sourceUrl": "https://underd0g.com/products/02nibu",
-      "description": "The 02Series is Studio Underd0g's homage to WWII-era \"Dirty Dozen\" military field watches, built around a 37.5mm x 11.5mm 316L steel case and a hand-wound Swiss Sellita SW200-2 M movement with a 63-hour power reserve and hacking seconds. Its lead colorway, Nightshade, pairs a sunburst deep-purple dial with aged orange numerals and a distressed leather strap to mimic decades of wear. The multi-layer dial uses a 1mm tinted sapphire top-disc over a sunray brass base with X1 Super-LumiNova lume, and the case is rated to 10 ATM (100m)."
+      "description": "The 02Series is Studio Underd0g's homage to WWII-era \"Dirty Dozen\" military field watches, built around a 37.5mm x 11.5mm 316L steel case and a hand-wound Swiss Sellita SW200-2 M movement with a 63-hour power reserve and hacking seconds. Its lead colorway, Nightshade, pairs a sunburst deep-purple dial with aged orange numerals and a distressed leather strap to mimic decades of wear. The multi-layer dial uses a 1mm tinted sapphire top-disc over a sunray brass base with X1 Super-LumiNova lume, and the case is rated to 10 ATM (100m).",
+      "releaseYear": 2026
     },
     {
       "id": "su_03series",
@@ -434,7 +440,8 @@
       "currency": "GBP",
       "affiliateUrl": "https://underd0g.com/products/03sab",
       "sourceUrl": "https://underd0g.com/products/03sab",
-      "description": "The 03Series is Studio Underd0g's premium monopusher chronograph, cased at 38.5mm x 13.6mm in 316L steel and powered by a hand-wound Sellita SW510 M (Spécial/Élaboré grade, ±5 s/d accuracy, 63-hour reserve) operated by a single cam-actuated pusher instead of the usual two. Its lead colorway, Salm0n, sets a salmon-pink tachymeter rim against a radial-brushed grey dégradé dial. At £1,750 it is the brand's highest-priced core-range model, rated to 5 ATM (50m) water resistance with a sapphire crystal."
+      "description": "The 03Series is Studio Underd0g's premium monopusher chronograph, cased at 38.5mm x 13.6mm in 316L steel and powered by a hand-wound Sellita SW510 M (Spécial/Élaboré grade, ±5 s/d accuracy, 63-hour reserve) operated by a single cam-actuated pusher instead of the usual two. Its lead colorway, Salm0n, sets a salmon-pink tachymeter rim against a radial-brushed grey dégradé dial. At £1,750 it is the brand's highest-priced core-range model, rated to 5 ATM (50m) water resistance with a sapphire crystal.",
+      "releaseYear": 2024
     },
     {
       "id": "su_cocktail_collection",
@@ -481,7 +488,8 @@
       "currency": "GBP",
       "affiliateUrl": "https://underd0g.com/products/02gig",
       "sourceUrl": "https://underd0g.com/products/02gig",
-      "description": "The Cocktail Collection is a run of limited-edition collaborations between Studio Underd0g and historic British watchmaker Fears, sharing a 38mm x 12mm cushion-cased 316L steel case (10 ATM/100m) and a hand-wound Sellita SW200-2 M movement. Each release is named after a cocktail and sold in small batches at watch fairs: the lead colorway, Gimlet, was limited to 200 pieces at British Watchmakers' Day 2025 and reportedly caused a stampede on release, followed by the 300-piece Manhattan at WindUp Watch Fair NYC and The Mimosa. All three carry FEARS-branded dials with a sapphire crystal and typically sell out within their launch window."
+      "description": "The Cocktail Collection is a run of limited-edition collaborations between Studio Underd0g and historic British watchmaker Fears, sharing a 38mm x 12mm cushion-cased 316L steel case (10 ATM/100m) and a hand-wound Sellita SW200-2 M movement. Each release is named after a cocktail and sold in small batches at watch fairs: the lead colorway, Gimlet, was limited to 200 pieces at British Watchmakers' Day 2025 and reportedly caused a stampede on release, followed by the 300-piece Manhattan at WindUp Watch Fair NYC and The Mimosa. All three carry FEARS-branded dials with a sapphire crystal and typically sell out within their launch window.",
+      "releaseYear": 2025
     },
     {
       "id": "bal_aquascaphe_classic",
@@ -521,7 +529,8 @@
       "currency": "EUR",
       "affiliateUrl": "https://baltic-watches.com/en/products/aquascaphe-classic-blue-gilt",
       "sourceUrl": "https://baltic-watches.com/en/products/aquascaphe-classic-blue-gilt",
-      "description": "Aquascaphe Classic is Baltic's signature dive watch and, per the brand's own \"Most popular\" homepage ranking, its best-selling model. The 39mm stainless steel case runs a Miyota 9039 automatic movement with a 42-hour power reserve, backed by 200m of water resistance and a double-dome sapphire crystal. Its sandwich dial construction — a Baltic hallmark — creates deep, three-dimensional markers at 3, 6 and 9 filled with Super-LumiNova C1, finished off with a 120-click unidirectional bezel and a screwed crown."
+      "description": "Aquascaphe Classic is Baltic's signature dive watch and, per the brand's own \"Most popular\" homepage ranking, its best-selling model. The 39mm stainless steel case runs a Miyota 9039 automatic movement with a 42-hour power reserve, backed by 200m of water resistance and a double-dome sapphire crystal. Its sandwich dial construction — a Baltic hallmark — creates deep, three-dimensional markers at 3, 6 and 9 filled with Super-LumiNova C1, finished off with a 120-click unidirectional bezel and a screwed crown.",
+      "releaseYear": 2019
     },
     {
       "id": "bal_mr01",
@@ -593,7 +602,8 @@
       "currency": "EUR",
       "affiliateUrl": "https://baltic-watches.com/en/products/mr-classic-salmon",
       "sourceUrl": "https://baltic-watches.com/en/products/mr-classic-salmon",
-      "description": "MR01 is Baltic's micro-rotor dress watch, the #2 model in the brand's own \"Most popular\" homepage ranking. It is built around the Hangzhou CAL5000a automatic micro-rotor caliber — a thin, self-winding movement usually reserved for far pricier dress watches — inside a 36mm stainless steel case topped with a high-domed hesalite crystal for a vintage look. The 42-hour power reserve movement is rated to just 30m water resistance, reflecting its dress-watch brief, and ships on an Italian calf leather strap. The line also includes a guilloché-dial \"Roulette\" variant alongside the plainer railroad-track \"Classic\" dial shown here."
+      "description": "MR01 is Baltic's micro-rotor dress watch, the #2 model in the brand's own \"Most popular\" homepage ranking. It is built around the Hangzhou CAL5000a automatic micro-rotor caliber — a thin, self-winding movement usually reserved for far pricier dress watches — inside a 36mm stainless steel case topped with a high-domed hesalite crystal for a vintage look. The 42-hour power reserve movement is rated to just 30m water resistance, reflecting its dress-watch brief, and ships on an Italian calf leather strap. The line also includes a guilloché-dial \"Roulette\" variant alongside the plainer railroad-track \"Classic\" dial shown here.",
+      "releaseYear": 2020
     },
     {
       "id": "bal_herm_tique",
@@ -665,7 +675,8 @@
       "currency": "EUR",
       "affiliateUrl": "https://baltic-watches.com/en/products/hermetique-tourer-beige",
       "sourceUrl": "https://baltic-watches.com/en/products/hermetique-tourer-beige",
-      "description": "Hermétique is Baltic's field/adventure watch, appearing more times than any other line in the brand's own \"Most popular\" homepage ranking. The compact 37mm stainless steel case runs a Miyota 9039 automatic movement with a 42-hour power reserve, under a double-dome sapphire crystal, with an integrated crown keeping the profile clean. It carries an unusually rugged 150m water resistance rating for a field watch. The same case and movement are sold in two dial-color families — the muted, canvas-inspired \"Tourer\" palette and the brighter, beach-toned \"Summer\" colorways."
+      "description": "Hermétique is Baltic's field/adventure watch, appearing more times than any other line in the brand's own \"Most popular\" homepage ranking. The compact 37mm stainless steel case runs a Miyota 9039 automatic movement with a 42-hour power reserve, under a double-dome sapphire crystal, with an integrated crown keeping the profile clean. It carries an unusually rugged 150m water resistance rating for a field watch. The same case and movement are sold in two dial-color families — the muted, canvas-inspired \"Tourer\" palette and the brighter, beach-toned \"Summer\" colorways.",
+      "releaseYear": 2023
     },
     {
       "id": "bal_scalegraph_classic",
@@ -705,7 +716,8 @@
       "currency": "EUR",
       "affiliateUrl": "https://baltic-watches.com/en/products/scalegraph-classic-panda",
       "sourceUrl": "https://baltic-watches.com/en/products/scalegraph-classic-panda",
-      "description": "Scalegraph Classic (still widely known by its earlier name, Tricompax) is Baltic's flagship three-register \"panda dial\" chronograph, the modern descendant of the twin-register Bicompax that helped launch the brand's 2017 debut. Its \"Panda\" colorway is the only chronograph to make Baltic's own \"Most popular\" homepage ranking. The 39.5mm stainless steel case is powered by a hand-wound Sellita SW510-M movement with a 63-hour power reserve, under a double-dome sapphire crystal and an aluminum tachymeter bezel, rated to 50m water resistance."
+      "description": "Scalegraph Classic (still widely known by its earlier name, Tricompax) is Baltic's flagship three-register \"panda dial\" chronograph, the modern descendant of the twin-register Bicompax that helped launch the brand's 2017 debut. Its \"Panda\" colorway is the only chronograph to make Baltic's own \"Most popular\" homepage ranking. The 39.5mm stainless steel case is powered by a hand-wound Sellita SW510-M movement with a 63-hour power reserve, under a double-dome sapphire crystal and an aluminum tachymeter bezel, rated to 50m water resistance.",
+      "releaseYear": 2021
     },
     {
       "id": "traf_crossroads_s",
@@ -777,7 +789,8 @@
       "currency": "USD",
       "affiliateUrl": "https://www.traffordwatchco.com/products/crossroads-s-40-vellum",
       "sourceUrl": "https://www.traffordwatchco.com/products/crossroads-s-40-vellum",
-      "description": "The Crossroads S is the newest generation of Trafford's flagship Crossroads line: a square case marketed as 'wears like 40mm' but actually 35mm x 36mm and just 9mm thick, with a 46mm lug-to-lug. It is powered by a hand-wound Sellita SW-210 built in La Chaux-de-Fonds and assembled in Porrentruy, the first Trafford watch to carry a Swiss Made designation, regulated to +/-5 seconds/day with a 42-hour power reserve. The 316L stainless steel case has a scratch-resistant hardening coating and a double-domed sapphire crystal with interior anti-reflective coating, rated to 10 ATM (100m). It ships on a color-matched leather strap, with an optional H-link steel bracelet available as an add-on."
+      "description": "The Crossroads S is the newest generation of Trafford's flagship Crossroads line: a square case marketed as 'wears like 40mm' but actually 35mm x 36mm and just 9mm thick, with a 46mm lug-to-lug. It is powered by a hand-wound Sellita SW-210 built in La Chaux-de-Fonds and assembled in Porrentruy, the first Trafford watch to carry a Swiss Made designation, regulated to +/-5 seconds/day with a 42-hour power reserve. The 316L stainless steel case has a scratch-resistant hardening coating and a double-domed sapphire crystal with interior anti-reflective coating, rated to 10 ATM (100m). It ships on a color-matched leather strap, with an optional H-link steel bracelet available as an add-on.",
+      "releaseYear": 2026
     },
     {
       "id": "traf_touring_gmt",
@@ -828,7 +841,8 @@
       "currency": "USD",
       "affiliateUrl": "https://www.traffordwatchco.com/products/touring-gmt-slowhand",
       "sourceUrl": "https://www.traffordwatchco.com/products/touring-gmt-slowhand",
-      "description": "The Touring GMT runs on the Miyota 9075 'True GMT' automatic movement, regulated in-house to +/-10 seconds/day at 28,800 vph with a 42-hour power reserve. The 39mm 316L stainless steel case is 46mm lug-to-lug and 12mm thick, with a screw-down crown and screw-down case back rated to 10 ATM (100m), and sapphire crystal with interior anti-reflective coating front and rear. Season Two's four colorways are named for guitars/guitarists (Clapton's Slowhand, Hendrix's Izabella, McCartney's Lefty, Cobain's Daphne) and each ships on a matching leather strap with contrast stitching."
+      "description": "The Touring GMT runs on the Miyota 9075 'True GMT' automatic movement, regulated in-house to +/-10 seconds/day at 28,800 vph with a 42-hour power reserve. The 39mm 316L stainless steel case is 46mm lug-to-lug and 12mm thick, with a screw-down crown and screw-down case back rated to 10 ATM (100m), and sapphire crystal with interior anti-reflective coating front and rear. Season Two's four colorways are named for guitars/guitarists (Clapton's Slowhand, Hendrix's Izabella, McCartney's Lefty, Cobain's Daphne) and each ships on a matching leather strap with contrast stitching.",
+      "releaseYear": 2024
     },
     {
       "id": "traf_daytripper",
@@ -879,7 +893,8 @@
       "currency": "USD",
       "affiliateUrl": "https://www.traffordwatchco.com/products/daytripper-eos",
       "sourceUrl": "https://www.traffordwatchco.com/products/daytripper-eos",
-      "description": "The Daytripper is powered by a Miyota 9075 automatic movement reworked to spotlight its quick-set hour hand, letting wearers jump the local hour forward or back without disturbing the running minutes or seconds, at 28,800 vph with a 42-hour power reserve. The 39mm 316L stainless steel case (12mm thick, 46mm lug-to-lug) has a scratch-resistant hardening coating and sapphire crystal front and rear, rated to 10 ATM (100m). Season Two adds a fully lumed BGW9 Super-LumiNova chapter ring and four gradient dials, each named for a different time of day, on a color-matched leather strap."
+      "description": "The Daytripper is powered by a Miyota 9075 automatic movement reworked to spotlight its quick-set hour hand, letting wearers jump the local hour forward or back without disturbing the running minutes or seconds, at 28,800 vph with a 42-hour power reserve. The 39mm 316L stainless steel case (12mm thick, 46mm lug-to-lug) has a scratch-resistant hardening coating and sapphire crystal front and rear, rated to 10 ATM (100m). Season Two adds a fully lumed BGW9 Super-LumiNova chapter ring and four gradient dials, each named for a different time of day, on a color-matched leather strap.",
+      "releaseYear": 2025
     },
     {
       "id": "traf_s_o_e_roadster",
@@ -926,7 +941,8 @@
       "currency": "USD",
       "affiliateUrl": "https://www.traffordwatchco.com/products/soe-roadster-benoist",
       "sourceUrl": "https://www.traffordwatchco.com/products/soe-roadster-benoist",
-      "description": "The S.O.E. Roadster was Trafford's debut model (originally Kickstarter-funded), inspired by three 1930s Grand Prix drivers -- Robert Benoist, Jean-Pierre Wimille, and William Grover-Williams -- who were recruited into Britain's WWII-era Special Operations Executive, with each colorway named for one of them and finished in his signature racing color. It runs on a Seiko VK64 meca-quartz chronograph movement with a sweeping central chronograph hand and a 24-hour subdial, visually inspired by the Bugatti Type 35 race car. The 43mm case (41mm excluding the bezel) is 48mm lug-to-lug and about 12.8mm thick, with hands and markers lumed in BGW9 Super-LumiNova, rated to 100m water resistance, and ships with both a leather strap and a matching nylon strap."
+      "description": "The S.O.E. Roadster was Trafford's debut model (originally Kickstarter-funded), inspired by three 1930s Grand Prix drivers -- Robert Benoist, Jean-Pierre Wimille, and William Grover-Williams -- who were recruited into Britain's WWII-era Special Operations Executive, with each colorway named for one of them and finished in his signature racing color. It runs on a Seiko VK64 meca-quartz chronograph movement with a sweeping central chronograph hand and a 24-hour subdial, visually inspired by the Bugatti Type 35 race car. The 43mm case (41mm excluding the bezel) is 48mm lug-to-lug and about 12.8mm thick, with hands and markers lumed in BGW9 Super-LumiNova, rated to 100m water resistance, and ships with both a leather strap and a matching nylon strap.",
+      "releaseYear": 2021
     },
     {
       "id": "ww_valiant",
@@ -990,7 +1006,8 @@
       "currency": "GBP",
       "affiliateUrl": "https://williamwoodwatches.com/en-us/products/theblackwatch",
       "sourceUrl": "https://williamwoodwatches.com/en-us/products/theblackwatch",
-      "description": "The Valiant is William Wood's flagship automatic diving watch, built around a 41mm 316L stainless steel case, a Seiko NH35 automatic movement with a 41-hour power reserve, and a double-domed sapphire crystal tinted blue in tribute to founder Jonny Garrett's grandfather's 'Blue Watch' shift pattern at the Newcastle & Gateshead Fire Brigade. Its crown is cast from brass melted down from a genuine 100-year-old British firefighter's helmet, and every colorway ships on a quick-release strap made from upcycled fire hose or a stainless bracelet. The dial's chequered seconds track is lifted from the livery on the side of a British fire engine, and the case is rated to 100m water resistance."
+      "description": "The Valiant is William Wood's flagship automatic diving watch, built around a 41mm 316L stainless steel case, a Seiko NH35 automatic movement with a 41-hour power reserve, and a double-domed sapphire crystal tinted blue in tribute to founder Jonny Garrett's grandfather's 'Blue Watch' shift pattern at the Newcastle & Gateshead Fire Brigade. Its crown is cast from brass melted down from a genuine 100-year-old British firefighter's helmet, and every colorway ships on a quick-release strap made from upcycled fire hose or a stainless bracelet. The dial's chequered seconds track is lifted from the livery on the side of a British fire engine, and the case is rated to 100m water resistance.",
+      "releaseYear": 2019
     },
     {
       "id": "ww_chivalrous",
@@ -1045,7 +1062,8 @@
       "currency": "GBP",
       "affiliateUrl": "https://williamwoodwatches.com/en-us/products/peacock-edition",
       "sourceUrl": "https://williamwoodwatches.com/en-us/products/peacock-edition",
-      "description": "The Chivalrous is William Wood's dress-watch line, pairing a 41mm stainless (or rose-gold-plated) case with a Swiss-Made Ronda 762 quartz movement and a sunburst dial set with a Roman numeral at 12. Its signature detail is a commemorative coin let into the caseback, cast from brass melted down from an original 1920s British firefighter's helmet and sealed under its own sapphire window. Finished with a low-flush, anti-reflective sapphire crystal and offered on fire-hose, leather, or steel-bracelet straps, it carries a 50m water resistance rating."
+      "description": "The Chivalrous is William Wood's dress-watch line, pairing a 41mm stainless (or rose-gold-plated) case with a Swiss-Made Ronda 762 quartz movement and a sunburst dial set with a Roman numeral at 12. Its signature detail is a commemorative coin let into the caseback, cast from brass melted down from an original 1920s British firefighter's helmet and sealed under its own sapphire window. Finished with a low-flush, anti-reflective sapphire crystal and offered on fire-hose, leather, or steel-bracelet straps, it carries a 50m water resistance rating.",
+      "releaseYear": 2024
     },
     {
       "id": "ww_triumph",
@@ -1101,7 +1119,8 @@
       "currency": "GBP",
       "affiliateUrl": "https://williamwoodwatches.com/en-us/products/heatedition",
       "sourceUrl": "https://williamwoodwatches.com/en-us/products/heatedition",
-      "description": "The Triumph is William Wood's chronograph collection, cased at 41mm in 316L stainless steel (gold-plated on the Vintage Edition) around a Swiss-Made Sellita SW510 chronograph movement with a 48-hour power reserve and brass chronograph pushers. Twin sub-dials at 3 and 9 o'clock are styled after fire-hose pressure-pump gauges, and the seconds track reproduces the chequered pattern from the side of a British fire engine. Rated to 100m water resistance under a double anti-reflective sapphire crystal, it ships on fire-hose, fire-gear, or steel-bracelet straps depending on colorway."
+      "description": "The Triumph is William Wood's chronograph collection, cased at 41mm in 316L stainless steel (gold-plated on the Vintage Edition) around a Swiss-Made Sellita SW510 chronograph movement with a 48-hour power reserve and brass chronograph pushers. Twin sub-dials at 3 and 9 o'clock are styled after fire-hose pressure-pump gauges, and the seconds track reproduces the chequered pattern from the side of a British fire engine. Rated to 100m water resistance under a double anti-reflective sapphire crystal, it ships on fire-hose, fire-gear, or steel-bracelet straps depending on colorway.",
+      "releaseYear": 2021
     },
     {
       "id": "ww_fearless",
@@ -1149,7 +1168,8 @@
       "currency": "GBP",
       "affiliateUrl": "https://williamwoodwatches.com/en-us/products/fearlessred",
       "sourceUrl": "https://williamwoodwatches.com/en-us/products/fearlessred",
-      "description": "The Fearless is William Wood's smallest and stealthiest model, a 39mm stainless steel case finished in matte black PVD around a Seiko NH35 automatic movement with a 41-hour power reserve. Its exhibition sapphire caseback is engraved with a modern British firefighter's helmet motif, and the crown is cast from brass melted down from a genuine 100-year-old firefighter's helmet, carrying the same material story used on the Valiant. Charcoal-effect dials with rose-gold, lume-filled indices sit under an anti-reflective, blue-tinted sapphire crystal, and the case is rated to 100m water resistance."
+      "description": "The Fearless is William Wood's smallest and stealthiest model, a 39mm stainless steel case finished in matte black PVD around a Seiko NH35 automatic movement with a 41-hour power reserve. Its exhibition sapphire caseback is engraved with a modern British firefighter's helmet motif, and the crown is cast from brass melted down from a genuine 100-year-old firefighter's helmet, carrying the same material story used on the Valiant. Charcoal-effect dials with rose-gold, lume-filled indices sit under an anti-reflective, blue-tinted sapphire crystal, and the case is rated to 100m water resistance.",
+      "releaseYear": 2022
     },
     {
       "id": "brew_metric",
@@ -1220,7 +1240,8 @@
       "currency": "USD",
       "affiliateUrl": "https://www.brew-watches.com/products/brew-metric-silver",
       "sourceUrl": "https://www.brew-watches.com/products/brew-metric-silver",
-      "description": "The Metric is Brew Watch Co.'s flagship chronograph, built around a cushion-shaped case that recalls 1970s motorsport chronographs, blending brushed and polished stainless steel 316L for contrast. It runs a Hybrid VK68 meca-quartz chronograph movement behind a sapphire crystal, in a 36mm-wide by 41.5mm lug-to-lug case rated to 5ATM (50m). It anchors Brew's lineup and is offered in the widest range of colorways of any Brew model, from mirror steel and PVD black to gold-toned and patterned dials."
+      "description": "The Metric is Brew Watch Co.'s flagship chronograph, built around a cushion-shaped case that recalls 1970s motorsport chronographs, blending brushed and polished stainless steel 316L for contrast. It runs a Hybrid VK68 meca-quartz chronograph movement behind a sapphire crystal, in a 36mm-wide by 41.5mm lug-to-lug case rated to 5ATM (50m). It anchors Brew's lineup and is offered in the widest range of colorways of any Brew model, from mirror steel and PVD black to gold-toned and patterned dials.",
+      "releaseYear": 2023
     },
     {
       "id": "brew_metric_lite",
@@ -1283,7 +1304,8 @@
       "currency": "USD",
       "affiliateUrl": "https://www.brew-watches.com/products/metric-lite-silver-and-black",
       "sourceUrl": "https://www.brew-watches.com/products/metric-lite-silver-and-black",
-      "description": "Metric Lite is Brew's most compact watch, reworking the Metric's tonneau case into a clean three-hand, 30mm-wide (34mm lug-to-lug) piece with no chronograph complication. It swaps the flagship's meca-quartz module for an automatic 6T27 movement, keeping the same sapphire crystal, stainless steel 316L case, and 5ATM (50m) water resistance. Colorways lean toward quieter, vintage-inspired dials: brushed steel, PVD gold, and gemstone finishes such as tiger's eye, mother-of-pearl, and Tahitian pearl."
+      "description": "Metric Lite is Brew's most compact watch, reworking the Metric's tonneau case into a clean three-hand, 30mm-wide (34mm lug-to-lug) piece with no chronograph complication. It swaps the flagship's meca-quartz module for an automatic 6T27 movement, keeping the same sapphire crystal, stainless steel 316L case, and 5ATM (50m) water resistance. Colorways lean toward quieter, vintage-inspired dials: brushed steel, PVD gold, and gemstone finishes such as tiger's eye, mother-of-pearl, and Tahitian pearl.",
+      "releaseYear": 2025
     },
     {
       "id": "brew_super_metric",
@@ -1338,7 +1360,8 @@
       "currency": "USD",
       "affiliateUrl": "https://www.brew-watches.com/products/metric-super-eletric-blue",
       "sourceUrl": "https://www.brew-watches.com/products/metric-super-eletric-blue",
-      "description": "Super Metric shares the standard Metric's 36mm by 41.5mm cushion case, Hybrid VK68 meca-quartz chronograph movement, sapphire crystal, and 5ATM (50m) water resistance, but pushes the dial design further with bold color-blocked chapter rings, dual-finish subdials, and an anodized-aluminum chronograph pusher for a spot of accent color. It reads as the more graphic, motorsport-flavored sibling to the standard Metric dials. Electric Blue, Burnt Orange, Royal Blue, and Lumina Yellow give the line a higher-contrast identity within the Metric family."
+      "description": "Super Metric shares the standard Metric's 36mm by 41.5mm cushion case, Hybrid VK68 meca-quartz chronograph movement, sapphire crystal, and 5ATM (50m) water resistance, but pushes the dial design further with bold color-blocked chapter rings, dual-finish subdials, and an anodized-aluminum chronograph pusher for a spot of accent color. It reads as the more graphic, motorsport-flavored sibling to the standard Metric dials. Electric Blue, Burnt Orange, Royal Blue, and Lumina Yellow give the line a higher-contrast identity within the Metric family.",
+      "releaseYear": 2024
     },
     {
       "id": "brew_retrograph",
@@ -1393,7 +1416,8 @@
       "currency": "USD",
       "affiliateUrl": "https://www.brew-watches.com/products/retrograph-brew-rosegold-espresso-chocolate",
       "sourceUrl": "https://www.brew-watches.com/products/retrograph-brew-rosegold-espresso-chocolate",
-      "description": "The Retrograph is Brew's most literal expression of its coffee-culture identity: Brew built its 38mm by 41.5mm meca-quartz chronograph specifically as a utilitarian, retro timing device whose 60-minute totalizer tracks a 25-35 second espresso shot, alongside other timed durations. The lead Espresso colorway pairs a rosegold PVD-plated stainless steel case with a chocolate-espresso sunburst dial and brown leather strap; sapphire crystal and 5ATM (50m) water resistance carry across the line."
+      "description": "The Retrograph is Brew's most literal expression of its coffee-culture identity: Brew built its 38mm by 41.5mm meca-quartz chronograph specifically as a utilitarian, retro timing device whose 60-minute totalizer tracks a 25-35 second espresso shot, alongside other timed durations. The lead Espresso colorway pairs a rosegold PVD-plated stainless steel case with a chocolate-espresso sunburst dial and brown leather strap; sapphire crystal and 5ATM (50m) water resistance carry across the line.",
+      "releaseYear": 2023
     },
     {
       "id": "hp_totem_cipher",
@@ -1425,7 +1449,8 @@
       "currency": "USD",
       "affiliateUrl": "https://www.horapictor.com/product/totem-cipher/",
       "sourceUrl": "https://www.horapictor.com/product/totem-cipher/",
-      "description": "Totem Cipher pairs a cloisonné enamel dial with Ancient Greek numerals inspired by the Rosetta Stone, its abstract totem shapes outlined in fine silver wire, hand-filled with enamel, and fired at high temperature. It runs a Swiss Sellita SW200 Elaboré automatic movement (28,800 vph, 41-hour power reserve) in the brand's standard 38mm 316L steel case with sapphire crystal front and back and 50m water resistance. At $4,092 it is Hora Pictor's most expensive model and headlines the \"Totem\" section of the brand's Watches page. It is offered in a single dial colorway."
+      "description": "Totem Cipher pairs a cloisonné enamel dial with Ancient Greek numerals inspired by the Rosetta Stone, its abstract totem shapes outlined in fine silver wire, hand-filled with enamel, and fired at high temperature. It runs a Swiss Sellita SW200 Elaboré automatic movement (28,800 vph, 41-hour power reserve) in the brand's standard 38mm 316L steel case with sapphire crystal front and back and 50m water resistance. At $4,092 it is Hora Pictor's most expensive model and headlines the \"Totem\" section of the brand's Watches page. It is offered in a single dial colorway.",
+      "releaseYear": 2025
     },
     {
       "id": "hp_volcano_grey",
@@ -1481,7 +1506,8 @@
       "currency": "USD",
       "affiliateUrl": "https://www.horapictor.com/product/volcano-grey/",
       "sourceUrl": "https://www.horapictor.com/product/volcano-grey/",
-      "description": "Volcano Grey layers grey enamel over hand-applied silver leaf, inspired by submarine volcanic eruptions where molten rock meets the ocean floor; the same silver-leaf enamel styling (site-marketed as \"Smoked Ocean\") is shared across its Twilight Violet, Sunlit Wheat and Starshine Ocean siblings. All four share the Sellita SW200 Elaboré automatic movement (41h power reserve) in the brand's 38mm 316L steel case, sapphire crystal front and back, and 50m water resistance. At research time all four colorways were in stock at $2,592, the brand's current top-selling price tier."
+      "description": "Volcano Grey layers grey enamel over hand-applied silver leaf, inspired by submarine volcanic eruptions where molten rock meets the ocean floor; the same silver-leaf enamel styling (site-marketed as \"Smoked Ocean\") is shared across its Twilight Violet, Sunlit Wheat and Starshine Ocean siblings. All four share the Sellita SW200 Elaboré automatic movement (41h power reserve) in the brand's 38mm 316L steel case, sapphire crystal front and back, and 50m water resistance. At research time all four colorways were in stock at $2,592, the brand's current top-selling price tier.",
+      "releaseYear": 2026
     },
     {
       "id": "hp_track_compass",
@@ -1521,7 +1547,8 @@
       "currency": "USD",
       "affiliateUrl": "https://www.horapictor.com/product/yellow-track/",
       "sourceUrl": "https://www.horapictor.com/product/yellow-track/",
-      "description": "Track Compass revives a vintage track/compass dial layout — dry-sifted opaque enamel fired to a uniform matte finish, with a printed railway minute track — and both colorways print \"Track Compass\" directly on the dial. Yellow Track uses a mustard enamel face while Galaxy uses a mineral-flecked black enamel mixed with crushed minerals for a subtle cosmic shimmer. Both share the brand's 38mm 316L steel case, Sellita SW200 Elaboré automatic movement (41h reserve), sapphire crystal front and back, and 50m water resistance; at $1,592 this is Hora Pictor's most affordable current model."
+      "description": "Track Compass revives a vintage track/compass dial layout — dry-sifted opaque enamel fired to a uniform matte finish, with a printed railway minute track — and both colorways print \"Track Compass\" directly on the dial. Yellow Track uses a mustard enamel face while Galaxy uses a mineral-flecked black enamel mixed with crushed minerals for a subtle cosmic shimmer. Both share the brand's 38mm 316L steel case, Sellita SW200 Elaboré automatic movement (41h reserve), sapphire crystal front and back, and 50m water resistance; at $1,592 this is Hora Pictor's most affordable current model.",
+      "releaseYear": 2026
     },
     {
       "id": "hp_desert_brown",
@@ -1569,7 +1596,8 @@
       "currency": "USD",
       "affiliateUrl": "https://www.horapictor.com/product/desert-brown/",
       "sourceUrl": "https://www.horapictor.com/product/desert-brown/",
-      "description": "Desert Brown uses the traditional Grand Feu enamel-over-silver-leaf technique in warm brown tones with authentic Ancient Greek numeral markers, part of the same \"Smoked Ocean\" enamel styling used across its Glacier Blue and Seagrass Green siblings (Seagrass Green's dial is literally printed \"Smoked Ocean\"). All three share the brand's 38mm 316L steel case, sapphire crystal front and back, 50m water resistance, and Sellita SW200 automatic movement. Seagrass Green is currently sold out while Desert Brown and Glacier Blue remain in stock, priced from $2,092."
+      "description": "Desert Brown uses the traditional Grand Feu enamel-over-silver-leaf technique in warm brown tones with authentic Ancient Greek numeral markers, part of the same \"Smoked Ocean\" enamel styling used across its Glacier Blue and Seagrass Green siblings (Seagrass Green's dial is literally printed \"Smoked Ocean\"). All three share the brand's 38mm 316L steel case, sapphire crystal front and back, 50m water resistance, and Sellita SW200 automatic movement. Seagrass Green is currently sold out while Desert Brown and Glacier Blue remain in stock, priced from $2,092.",
+      "releaseYear": 2025
     },
     {
       "id": "fm_havana",
@@ -1640,7 +1668,8 @@
       "currency": "CHF",
       "affiliateUrl": "https://www.furlanmarri.com/products/havana-salmon-1031-a",
       "sourceUrl": "https://www.furlanmarri.com/products/havana-salmon-1031-a",
-      "description": "The Havana is Furlan Marri's flagship mecha-quartz chronograph and the design that won the brand the GPHG \"Horological Revelation\" prize in 2021, only seven months after its Kickstarter launch. Its 38mm 316L steel case pairs a Seiko VK64 mecha-quartz movement — sweeping like a mechanical, accurate like a quartz — with a decagonal screwed caseback, engraved 'Tasti Tondi' pushers, and deep case engravings. The Havana Salmon colorway became the brand's signature piece and a fast riser on the secondary market; newer dial variants such as Castagna, Rosso Grigio, Nero Sabbia, Sabbia Rosa, and Ardesia Blu remain in current production."
+      "description": "The Havana is Furlan Marri's flagship mecha-quartz chronograph and the design that won the brand the GPHG \"Horological Revelation\" prize in 2021, only seven months after its Kickstarter launch. Its 38mm 316L steel case pairs a Seiko VK64 mecha-quartz movement — sweeping like a mechanical, accurate like a quartz — with a decagonal screwed caseback, engraved 'Tasti Tondi' pushers, and deep case engravings. The Havana Salmon colorway became the brand's signature piece and a fast riser on the secondary market; newer dial variants such as Castagna, Rosso Grigio, Nero Sabbia, Sabbia Rosa, and Ardesia Blu remain in current production.",
+      "releaseYear": 2021
     },
     {
       "id": "fm_sector",
@@ -1704,7 +1733,8 @@
       "currency": "CHF",
       "affiliateUrl": "https://www.furlanmarri.com/products/black-sector-2116-a",
       "sourceUrl": "https://www.furlanmarri.com/products/black-sector-2116-a",
-      "description": "The Sector line is Furlan Marri's move into automatic three-hand watchmaking, built around 'cow horns'/Cornes de Vache-style lugs borrowed from classic vintage dress-watch design. Each 37.5mm 316L steel case houses a Swiss-made La Joux-Perret G100 automatic movement with a tungsten rotor, palladium coating, hacking seconds, and a 68-hour power reserve. Every Sector ships with two interchangeable straps, one curved and one straight, fitted through twin lug holes."
+      "description": "The Sector line is Furlan Marri's move into automatic three-hand watchmaking, built around 'cow horns'/Cornes de Vache-style lugs borrowed from classic vintage dress-watch design. Each 37.5mm 316L steel case houses a Swiss-made La Joux-Perret G100 automatic movement with a tungsten rotor, palladium coating, hacking seconds, and a 68-hour power reserve. Every Sector ships with two interchangeable straps, one curved and one straight, fitted through twin lug holes.",
+      "releaseYear": 2023
     },
     {
       "id": "fm_flyback",
@@ -1752,7 +1782,8 @@
       "currency": "CHF",
       "affiliateUrl": "https://www.furlanmarri.com/products/salmon-flyback-3188-a",
       "sourceUrl": "https://www.furlanmarri.com/products/salmon-flyback-3188-a",
-      "description": "The Flyback collection is Furlan Marri's mechanical chronograph statement, developed with Revolution Watch and collector Auro Montanari and limited to 300 pieces per colorway. Its 38mm steel case houses a manually wound, column-wheel flyback chronograph caliber based on the Sellita 5100, delivering a 63-hour power reserve and a pulsometer scale on the dial. Salmon Flyback, Honey Blue Flyback, and Taupe Flyback each sold out shortly after release, making the series one of the brand's most collectible mechanical drops."
+      "description": "The Flyback collection is Furlan Marri's mechanical chronograph statement, developed with Revolution Watch and collector Auro Montanari and limited to 300 pieces per colorway. Its 38mm steel case houses a manually wound, column-wheel flyback chronograph caliber based on the Sellita 5100, delivering a 63-hour power reserve and a pulsometer scale on the dial. Salmon Flyback, Honey Blue Flyback, and Taupe Flyback each sold out shortly after release, making the series one of the brand's most collectible mechanical drops.",
+      "releaseYear": 2023
     },
     {
       "id": "fm_disco_volante",
@@ -1808,7 +1839,8 @@
       "currency": "CHF",
       "affiliateUrl": "https://www.furlanmarri.com/products/disco-celeste-20205",
       "sourceUrl": "https://www.furlanmarri.com/products/disco-celeste-20205",
-      "description": "Disco Volante is Furlan Marri's manually wound dress watch, its rounded 38mm steel case with hidden lugs and a curved bezel nodding to mid-century 'flying saucer' case design. It runs on a Peseux 7001 hand-wound movement, redesigned and finished entirely by hand in Geneva, delivering a 42-hour power reserve in an ultra-thin build. Gem-set editions such as Disco Onyx Diamonds, and one-off art collaborations like Disco Stromatolite, have since extended the line beyond its original three-color run."
+      "description": "Disco Volante is Furlan Marri's manually wound dress watch, its rounded 38mm steel case with hidden lugs and a curved bezel nodding to mid-century 'flying saucer' case design. It runs on a Peseux 7001 hand-wound movement, redesigned and finished entirely by hand in Geneva, delivering a 42-hour power reserve in an ultra-thin build. Gem-set editions such as Disco Onyx Diamonds, and one-off art collaborations like Disco Stromatolite, have since extended the line beyond its original three-color run.",
+      "releaseYear": 2024
     },
     {
       "id": "vero_smokey_bear_watch",
@@ -1880,7 +1912,8 @@
       "currency": "USD",
       "affiliateUrl": "https://vero-watch.com/products/smokey-44",
       "sourceUrl": "https://vero-watch.com/products/smokey-44",
-      "description": "The Smokey Bear Watch is VERO's officially licensed collaboration with the U.S. Forest Service and the Smokey Bear mascot, with 10% of every sale going back to wildfire prevention and forest conservation. The debut Smokey '44 references 1944, the year Smokey Bear's ad campaign began, while later editions reuse the same 38mm field-watch case in different finishes: the '64, bronze-cased 80th Anniversary pieces, the Campfire Edition, and the Blue Skies Edition. Every version runs a Seiko NH38A automatic movement with a 41-hour power reserve behind an AR-coated sapphire crystal, with a screw-down crown and case back rated to 120m."
+      "description": "The Smokey Bear Watch is VERO's officially licensed collaboration with the U.S. Forest Service and the Smokey Bear mascot, with 10% of every sale going back to wildfire prevention and forest conservation. The debut Smokey '44 references 1944, the year Smokey Bear's ad campaign began, while later editions reuse the same 38mm field-watch case in different finishes: the '64, bronze-cased 80th Anniversary pieces, the Campfire Edition, and the Blue Skies Edition. Every version runs a Seiko NH38A automatic movement with a 41-hour power reserve behind an AR-coated sapphire crystal, with a screw-down crown and case back rated to 120m.",
+      "releaseYear": 2023
     },
     {
       "id": "vero_workhorse_chrono",
@@ -1935,7 +1968,8 @@
       "currency": "USD",
       "affiliateUrl": "https://vero-watch.com/products/workhorse-backcountry",
       "sourceUrl": "https://vero-watch.com/products/workhorse-backcountry",
-      "description": "The Workhorse Chrono is VERO's standalone field chronograph, built around a 44.5mm stainless steel case finished in color-tinted, scratch-resistant Cerakote and wrapped in rubberized steel bullhorn guards. It runs a Miyota 6S21 left-handed quartz chronograph movement with a one-hour timer, behind an AR-coated sapphire crystal, with a triple-gasket screw-down crown and 120m water resistance. The same case was reissued for the VERO x Scout Motors collaboration in Terra Cotta and Moonstone Blue, colors drawn from the Scout II and Scout 80's original paint codes."
+      "description": "The Workhorse Chrono is VERO's standalone field chronograph, built around a 44.5mm stainless steel case finished in color-tinted, scratch-resistant Cerakote and wrapped in rubberized steel bullhorn guards. It runs a Miyota 6S21 left-handed quartz chronograph movement with a one-hour timer, behind an AR-coated sapphire crystal, with a triple-gasket screw-down crown and 120m water resistance. The same case was reissued for the VERO x Scout Motors collaboration in Terra Cotta and Moonstone Blue, colors drawn from the Scout II and Scout 80's original paint codes.",
+      "releaseYear": 2022
     },
     {
       "id": "vero_realtree_tide_tracker",
@@ -1983,7 +2017,8 @@
       "currency": "USD",
       "affiliateUrl": "https://vero-watch.com/products/tide-tracker-realtree-outpost-black",
       "sourceUrl": "https://vero-watch.com/products/tide-tracker-realtree-outpost-black",
-      "description": "The VERO x Realtree Tide Tracker pairs a 39.5mm case with a dual 120-click bezel that tracks high and low tides up to 14 days out. Each colorway comes on a canvas strap printed with an original Realtree camouflage pattern and is powered by a Japanese-made Seiko NH38A automatic movement regulated to +/-10 seconds per day. Cases are 316L stainless steel (matte black DLC-coated steel on the Midnight Edition) with an AR-coated flat sapphire crystal and 120m water resistance."
+      "description": "The VERO x Realtree Tide Tracker pairs a 39.5mm case with a dual 120-click bezel that tracks high and low tides up to 14 days out. Each colorway comes on a canvas strap printed with an original Realtree camouflage pattern and is powered by a Japanese-made Seiko NH38A automatic movement regulated to +/-10 seconds per day. Cases are 316L stainless steel (matte black DLC-coated steel on the Midnight Edition) with an AR-coated flat sapphire crystal and 120m water resistance.",
+      "releaseYear": 2025
     },
     {
       "id": "vero_one_moto_solar",
@@ -2023,7 +2058,8 @@
       "currency": "USD",
       "affiliateUrl": "https://vero-watch.com/products/one-moto-solar?variant=46288721510627",
       "sourceUrl": "https://vero-watch.com/products/one-moto-solar?variant=46288721510627",
-      "description": "The One Moto Solar was built as the official timepiece of the 16th annual One Motorcycle Show in Portland, Oregon, where VERO served as timekeeper. Its 38mm stainless steel case has a scratch-resistant DLC coating and houses a Seiko solar-powered movement rated for roughly a four-month power reserve on a full UV charge. It ships on a perforated leather racing strap in dark brown or light tan, with an AR-coated flat sapphire crystal and 100m water resistance."
+      "description": "The One Moto Solar was built as the official timepiece of the 16th annual One Motorcycle Show in Portland, Oregon, where VERO served as timekeeper. Its 38mm stainless steel case has a scratch-resistant DLC coating and houses a Seiko solar-powered movement rated for roughly a four-month power reserve on a full UV charge. It ships on a perforated leather racing strap in dark brown or light tan, with an AR-coated flat sapphire crystal and 100m water resistance.",
+      "releaseYear": 2025
     },
     {
       "id": "vero_wildwood_studio_edition",
@@ -2063,7 +2099,8 @@
       "currency": "USD",
       "affiliateUrl": "https://vero-watch.com/products/vero-x-wildwood-studio-edition-bronze",
       "sourceUrl": "https://vero-watch.com/products/vero-x-wildwood-studio-edition-bronze",
-      "description": "The Studio Edition is VERO's first collaboration with Portland custom tailor Wildwood & Company, designed to pair with bespoke suits while keeping VERO's usual durability standards. It uses a 38mm case in bronze or stainless steel on a cross-stitched Italian Saffiano leather strap with a deployant clasp, powered by a Seiko NH38A automatic movement with a 41-hour power reserve. The case backs and crowns screw down for 120m water resistance behind an AR-coated flat sapphire crystal, and the run was limited to 200 units online."
+      "description": "The Studio Edition is VERO's first collaboration with Portland custom tailor Wildwood & Company, designed to pair with bespoke suits while keeping VERO's usual durability standards. It uses a 38mm case in bronze or stainless steel on a cross-stitched Italian Saffiano leather strap with a deployant clasp, powered by a Seiko NH38A automatic movement with a 41-hour power reserve. The case backs and crowns screw down for 120m water resistance behind an AR-coated flat sapphire crystal, and the run was limited to 200 units online.",
+      "releaseYear": 2025
     },
     {
       "id": "clem_photic_mkii",
@@ -2135,7 +2172,8 @@
       "currency": "GBP",
       "affiliateUrl": "https://www.clemencewatches.com/product-page/photic-mkii",
       "sourceUrl": "https://www.clemencewatches.com/product-page/photic-mkii",
-      "description": "The Photic MKII is Clemence's dive watch, built around a 38.5mm 316L steel case (39mm across the bezel) with a 904L bezel ring, precision ball-bearing click and domed sapphire insert, driven by a high-beat automatic Miyota 9039 regulated to +/-12 seconds a day. It is rated to 200m water resistance, shielded against magnetic fields over 25,000 A/m, and finished with an antiglare box sapphire crystal and Grade A BGW9 lume. The watch has drawn wide praise from watch press including Fratello Watches, Worn & Wound and The Deep Track for its finishing and value."
+      "description": "The Photic MKII is Clemence's dive watch, built around a 38.5mm 316L steel case (39mm across the bezel) with a 904L bezel ring, precision ball-bearing click and domed sapphire insert, driven by a high-beat automatic Miyota 9039 regulated to +/-12 seconds a day. It is rated to 200m water resistance, shielded against magnetic fields over 25,000 A/m, and finished with an antiglare box sapphire crystal and Grade A BGW9 lume. The watch has drawn wide praise from watch press including Fratello Watches, Worn & Wound and The Deep Track for its finishing and value.",
+      "releaseYear": 2025
     },
     {
       "id": "clem_munro",
@@ -2191,7 +2229,8 @@
       "currency": "GBP",
       "affiliateUrl": "https://www.clemencewatches.com/product-page/munro",
       "sourceUrl": "https://www.clemencewatches.com/product-page/munro",
-      "description": "The Munro is Clemence's field watch, hand-assembled in Britain with a 37.5mm, 9.25mm-thick 316L steel case and a high-beat automatic Miyota 9039 movement regulated to +/-12 seconds a day. It carries an antiglare box sapphire crystal with 8 internal AR-coating layers, Grade A BGW9 lume-filled hands and markers, and is rated to 150m water resistance. Reviewers have singled out its tapering, tool-less micro-adjust steel bracelet as exceptional value at the price."
+      "description": "The Munro is Clemence's field watch, hand-assembled in Britain with a 37.5mm, 9.25mm-thick 316L steel case and a high-beat automatic Miyota 9039 movement regulated to +/-12 seconds a day. It carries an antiglare box sapphire crystal with 8 internal AR-coating layers, Grade A BGW9 lume-filled hands and markers, and is rated to 150m water resistance. Reviewers have singled out its tapering, tool-less micro-adjust steel bracelet as exceptional value at the price.",
+      "releaseYear": 2023
     }
   ],
   "brands": [
@@ -2209,7 +2248,8 @@
       "country": "United Kingdom",
       "knownFor": "Watermelon-dial chronographs with playful puns",
       "blurb": "Studio Underd0g was founded in London in 2020 by industrial designer Richard Benc, who sketched the brand's first watch during the March 2020 lockdown and posted it to a watch-enthusiast Facebook group to an unexpectedly huge response. The name plays on \"underdog\" — a design-led challenger among the big Swiss houses — with a gamer-style \"0\" swapped in for the \"o\". Every watch is hand-assembled start-to-finish by a single technician in Great Britain, and the brand has built its following on pun-named dial colorways (Watermel0n, Pink Lem0nade) and headline collaborations with Moser, Fears, and Massena LAB.",
-      "logoUri": "https://underd0g.com/cdn/shop/files/20250903_Studio_Underd0g_Profile_Picture_2.jpg?v=1756913442&width=256"
+      "logoUri": "https://underd0g.com/cdn/shop/files/20250903_Studio_Underd0g_Profile_Picture_2.jpg?v=1756913442&width=256",
+      "logoFill": true
     },
     {
       "brand": "Baltic",
@@ -2217,7 +2257,8 @@
       "country": "France",
       "knownFor": "Vintage-inspired, France-assembled direct-to-consumer watches",
       "blurb": "Founded in Paris in 2016 by Etienne Malec, who grew up immersed in his late father's diary cataloguing a lifelong watch collection, Baltic takes its name from his father's roots on Poland's Baltic coast. The brand went public via a Kickstarter campaign in April 2017, pre-selling 1,200 watches of its debut Bicompax and HMS models and raising nearly 8x its goal. Baltic designs vintage-inspired watches assembled and adjusted at its own atelier in Besançon, France, and sells direct-to-consumer to avoid traditional retail markups.",
-      "logoUri": "https://baltic-watches.com/apple-icon-180x180.png"
+      "logoUri": "https://baltic-watches.com/apple-icon-180x180.png",
+      "logoFill": true
     },
     {
       "brand": "Trafford",
@@ -2257,7 +2298,8 @@
       "country": "Switzerland",
       "knownFor": "Award-winning neo-vintage mecha-quartz chronographs",
       "blurb": "Founded in Geneva in 2021 by Swiss designer Andrea Furlan and Saudi Arabian collector Hamad Al Marri, Furlan Marri won the GPHG \"Horological Revelation\" prize just seven months after its Kickstarter launch for its neo-vintage mecha-quartz chronographs. The brand has since expanded from mecha-quartz into automatic and hand-wound mechanical watches while keeping its 1940s-1950s-inspired design language.",
-      "logoUri": "https://www.furlanmarri.com/favicon/apple-touch-icon.png?width=256"
+      "logoUri": "https://www.furlanmarri.com/favicon/apple-touch-icon.png?width=256",
+      "logoFill": true
     },
     {
       "brand": "Vero",
