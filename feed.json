@@ -1,8 +1,23 @@
 {
   "formatVersion": 1,
-  "edition": 5,
-  "publishedAt": 1783642671784,
+  "edition": 6,
+  "publishedAt": 1783749792985,
   "stories": [
+    {
+      "id": "n_four_more_arrivals",
+      "title": "Furlan Marri, Hora Pictor, Vero & Clemence complete the roster",
+      "summary": "Four more independents land on WatchSwipe — GPHG-recognized neo-vintage from Geneva, Portland-built tool watches, and two of Britain’s most talked-about young brands.",
+      "body": "The WatchSwipe roster is complete: ten independent brands, every one hand-picked.\n\nFurlan Marri (Geneva, 2021) needs little introduction — seven months after launching on Kickstarter, its neo-vintage Havana chronograph won the GPHG Horological Revelation prize, and the Havana Salmon became an instant collector favorite. The mechanical Flyback and hand-wound Disco Volante now sit above it in the range.\n\nHora Pictor (Hong Kong, 2024) brings true metier d'art to the deck: every dial is hand-fired Grand Feu or cloisonne enamel over silver leaf, one at a time, by founding enamel artist Eriks.\n\nVero (Portland, 2015) assembles, services, and warranties every watch out of its Oregon shop, and its collaborations keep the catalog unmistakably American — 10% of every Smokey Bear watch funds wildfire prevention with the U.S. Forest Service.\n\nClemence (Edinburgh, 2021) is the climate-positive pick: founder Tom Clemence plants a native Scottish tree for every watch sold, and the Photic MKII diver has drawn praise from Fratello and Worn & Wound.\n\nEvery model and colorway is live in the deck now. Happy swiping.",
+      "publishedAt": 1783749792985,
+      "tag": "Industry",
+      "topStory": true,
+      "image": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Havana_Salmon_-_Shopify.png?v=1769533685&width=1200",
+      "art": {
+        "dial": "#D9A28E",
+        "caseColor": "#C8CDD4",
+        "strap": "#2E2A26"
+      }
+    },
     {
       "id": "n_five_independents",
       "title": "Five independents join the deck",
@@ -33,353 +48,9 @@
         "caseColor": "#C8CDD4",
         "strap": "#AEB4BC"
       }
-    },
-    {
-      "id": "n_prx_powermatic",
-      "title": "Why the PRX Powermatic 80 is the gateway mechanical",
-      "summary": "Integrated bracelet, waffle dial, 80-hour reserve — how Tissot built the most recommended first automatic of the decade.",
-      "body": "Ask ten collectors what a first automatic should be and the Tissot PRX Powermatic 80 shows up on most lists. The formula is simple: 1970s integrated-bracelet styling that reads far above its price, and the Powermatic 80 movement, whose 80-hour power reserve means the watch is still running on Monday morning after a weekend off the wrist.\n\nThe waffle-pattern dial nods to the 1978 original, while the slim 40mm case wears flat and comfortable under a cuff. It is not a small watch, but it is an easy one.\n\nFor swipe-happy WatchSwipe users: if your taste profile leans Sports, this is the one to try on first. The hardest part is picking a dial — ice blue has become the signature, but the green rewards a second look.",
-      "brand": "Tissot",
-      "tag": "Guide",
-      "topStory": true,
-      "publishedAt": 1782604800000,
-      "art": {
-        "dial": "#A9C7D6",
-        "caseColor": "#CDD2D8",
-        "strap": "#CDD2D8"
-      }
-    },
-    {
-      "id": "n_moonwatch_legacy",
-      "title": "The Moonwatch at 57: why the Speedmaster never changes",
-      "summary": "Omega's hand-wound chronograph is horology's least-changed icon. That's a feature, not a bug.",
-      "body": "The Speedmaster Professional that flew on Apollo 11 is, in every way that matters, the watch Omega sells today. Hesalite crystal, hand-wound chronograph, tachymeter bezel — the Moonwatch resists updates the way other icons resist discontinuation.\n\nCollectors argue about hesalite versus sapphire, but the acrylic crystal is the purist's pick: it is what NASA flight-qualified, and a tube of PolyWatch keeps it clear.\n\nIf the 42mm case and manual winding sound like commitment, that is rather the point. Few watches connect you to a specific human achievement every time you wind the crown.",
-      "brand": "Omega",
-      "tag": "Guide",
-      "topStory": true,
-      "publishedAt": 1782259200000,
-      "art": {
-        "dial": "#0E0F12",
-        "caseColor": "#C9CDD3",
-        "strap": "#1A1B1F"
-      }
-    },
-    {
-      "id": "n_casioak_phenomenon",
-      "title": "How the CasiOak became the default first G-Shock",
-      "summary": "The GA-2100 stripped the G-Shock to its essentials — and accidentally created a hype watch.",
-      "body": "When Casio released the GA-2100 in 2019, the octagonal bezel earned it an instant nickname — the \"CasiOak\" — and an audience far beyond G-Shock loyalists. The carbon core guard let Casio shrink the case to its slimmest profile ever, so the watch finally slid under a shirt cuff.\n\nAt around $99 it became the answer to \"what watch should I actually beat up?\" The all-black colorway disappears on the wrist; the sand and red-accent versions have become the enthusiast picks.\n\nModders took it further with metal bezels and straps, but the stock resin version remains the purest expression: a tough, accurate, genuinely stylish watch for a dinner-for-two price.",
-      "brand": "Casio",
-      "tag": "Guide",
-      "topStory": true,
-      "publishedAt": 1781913600000,
-      "art": {
-        "dial": "#0B0B0D",
-        "caseColor": "#1A1A1D",
-        "strap": "#0F0F11",
-        "variant": "digital"
-      }
-    },
-    {
-      "id": "n_seiko_62mas_line",
-      "title": "Prospex SPB143: the 62MAS reissue that got it right",
-      "summary": "Seiko's modern take on its 1965 first diver balances vintage proportions with a modern movement.",
-      "body": "Seiko has reissued its 1965 62MAS diver many times, but the SPB143 is the version enthusiasts kept. At 40.5mm with a slim bezel and drilled lugs, it wears like the vintage original while the 6R35 movement brings a 70-hour reserve.\n\nThe sunburst grey dial shifts from charcoal to silver in changing light — subtle in a category that often shouts. 200m of water resistance and a sapphire crystal make it a genuine tool watch, not a costume.\n\nIt sits in a crowded Seiko dive lineup, but if you want one Seiko diver that does everything, this is the consensus pick.",
-      "brand": "Seiko",
-      "tag": "Guide",
-      "publishedAt": 1781568000000,
-      "art": {
-        "dial": "#5A6068",
-        "caseColor": "#C7CBD1",
-        "strap": "#9AA0A8"
-      }
-    },
-    {
-      "id": "n_khaki_field_manual",
-      "title": "The case for hand-wound: living with the Khaki Field Mechanical",
-      "summary": "No date, no rotor, 38mm — Hamilton's field watch argues that less watch is more watch.",
-      "body": "The Khaki Field Mechanical asks you to do something almost no modern product does: participate. Wind it in the morning — about thirty seconds of ritual — and it repays you with a full day of timekeeping and a case so light you forget it.\n\nAt 38mm with fixed bars and a matte dial, it is the closest thing to the original military spec watches Hamilton supplied. The 80-hour hand-wound movement is modern; everything else is 1965.\n\nIt has become the enthusiast consensus for \"watch you keep forever under $600\" — and the sage-strap version is quietly the best of them.",
-      "brand": "Hamilton",
-      "tag": "Guide",
-      "publishedAt": 1781222400000,
-      "art": {
-        "dial": "#101114",
-        "caseColor": "#BFC2C7",
-        "strap": "#3B3A33"
-      }
-    },
-    {
-      "id": "n_tank_must_return",
-      "title": "Tank Must: how Cartier made its icon attainable again",
-      "summary": "The Must line revives Cartier's 1970s idea — the Tank as an accessible design object.",
-      "body": "In the 1970s, Cartier's \"Les Must de Cartier\" line put the Tank silhouette within reach of a much wider audience. The modern Tank Must repeats the trick: quartz movements, steel cases, and those unmistakable Roman numerals, at a fraction of the price of the Louis Cartier.\n\nThe colored-dial versions — deep green, burgundy — sell out repeatedly, but the silver dial is the forever pick. It is not a sports watch, and 30m of water resistance means it should never see a pool.\n\nWorn slim under a jacket, nothing else at the price signals design literacy quite like it.",
-      "brand": "Cartier",
-      "tag": "Guide",
-      "publishedAt": 1780876800000,
-      "art": {
-        "dial": "#26402F",
-        "caseColor": "#D9C27A",
-        "strap": "#243227"
-      }
-    },
-    {
-      "id": "n_size_guide",
-      "title": "Case size, decoded: finding your millimeter",
-      "summary": "From 33mm Tanks to 45mm G-Shocks — how to read case size, lug-to-lug, and what actually fits.",
-      "body": "Case diameter is the most quoted and least useful number in watches. What determines fit is lug-to-lug — the top-to-bottom span — and case thickness.\n\nA rough guide: a 6.5-inch wrist comfortably takes a lug-to-lug up to about 48mm. A 40mm diver with short lugs can wear smaller than a 38mm field watch with long ones. Shaped watches like a rectangular Tank read even smaller than their numbers.\n\nYour WatchSwipe taste profile tracks the average case size of watches you like — check Profile to see where your eye actually lands, then try that size on before buying up or down.",
-      "tag": "Guide",
-      "publishedAt": 1780531200000,
-      "art": {
-        "dial": "#1B1B1F",
-        "caseColor": "#C9A85C",
-        "strap": "#22242A"
-      }
-    },
-    {
-      "id": "n_mechanical_resurgence",
-      "title": "Why mechanical watches keep growing in a smartwatch world",
-      "summary": "A decade after the smartwatch was supposed to kill it, the mechanical watch is thriving. The reasons say a lot about what people want on their wrists.",
-      "body": "Every year since the Apple Watch launched, mechanical watch exports have set new records. The explanation is not nostalgia — it is differentiation. A smartwatch is a screen; a mechanical watch is a signature.\n\nYounger buyers arrive through integrated-bracelet sports watches and reissued divers, then move up the ladder. Entry Swiss and Japanese brands — Tissot, Seiko, Hamilton — have never had stronger lineups, which is precisely why they anchor the WatchSwipe catalog.\n\nThe smartwatch did kill something: the boring quartz watch. What survived is everything with a point of view.",
-      "tag": "Industry",
-      "topStory": true,
-      "publishedAt": 1780272000000,
-      "art": {
-        "dial": "#E7E7E2",
-        "caseColor": "#C9A85C",
-        "strap": "#1C1A17"
-      }
     }
   ],
   "watches": [
-    {
-      "id": "seed_diver",
-      "brand": "Seiko",
-      "model": "Prospex Diver",
-      "reference": "SPB143",
-      "caseSizeMm": 40.5,
-      "colorways": [
-        {
-          "id": "seed_diver-c1",
-          "name": "Sunburst Grey · Steel",
-          "dial": "#5A6068",
-          "caseColor": "#C7CBD1",
-          "strap": "#9AA0A8"
-        },
-        {
-          "id": "seed_diver-c2",
-          "name": "Midnight Blue · Steel",
-          "dial": "#1E3A5F",
-          "caseColor": "#C7CBD1",
-          "strap": "#1E3A5F"
-        },
-        {
-          "id": "seed_diver-c3",
-          "name": "Black · Steel",
-          "dial": "#15161A",
-          "caseColor": "#C7CBD1",
-          "strap": "#22242A"
-        }
-      ],
-      "movement": "Automatic",
-      "caseMaterial": "Stainless Steel",
-      "waterResistance": "200m",
-      "crystal": "Sapphire",
-      "powerReserveHours": 70,
-      "priceCents": 125000,
-      "currency": "USD",
-      "description": "A modern reissue of the 1960s 62MAS dive watch. Slim case, high-legibility dial, and a 70-hour automatic movement.",
-      "sourceUrl": "https://www.seikowatches.com",
-      "isSeed": true,
-      "createdAt": 1700000000000,
-      "updatedAt": 1700000000000
-    },
-    {
-      "id": "seed_prx",
-      "brand": "Tissot",
-      "model": "PRX Powermatic 80",
-      "reference": "T137.407",
-      "caseSizeMm": 40,
-      "colorways": [
-        {
-          "id": "seed_prx-c1",
-          "name": "Ice Blue · Steel",
-          "dial": "#A9C7D6",
-          "caseColor": "#CDD2D8",
-          "strap": "#CDD2D8"
-        },
-        {
-          "id": "seed_prx-c2",
-          "name": "Green · Steel",
-          "dial": "#2F4A3A",
-          "caseColor": "#CDD2D8",
-          "strap": "#CDD2D8"
-        },
-        {
-          "id": "seed_prx-c3",
-          "name": "Black · Steel",
-          "dial": "#17181C",
-          "caseColor": "#CDD2D8",
-          "strap": "#CDD2D8"
-        }
-      ],
-      "movement": "Automatic",
-      "caseMaterial": "Stainless Steel",
-      "waterResistance": "100m",
-      "crystal": "Sapphire",
-      "powerReserveHours": 80,
-      "priceCents": 71500,
-      "currency": "USD",
-      "description": "Integrated-bracelet sports watch with a waffle-pattern dial and an 80-hour Powermatic movement.",
-      "sourceUrl": "https://www.tissotwatches.com",
-      "isSeed": true,
-      "createdAt": 1700000000000,
-      "updatedAt": 1700000000000
-    },
-    {
-      "id": "seed_field",
-      "brand": "Hamilton",
-      "model": "Khaki Field Mechanical",
-      "reference": "H69439931",
-      "caseSizeMm": 38,
-      "colorways": [
-        {
-          "id": "seed_field-c1",
-          "name": "Black · Canvas",
-          "dial": "#101114",
-          "caseColor": "#BfC2C7",
-          "strap": "#3B3A33"
-        },
-        {
-          "id": "seed_field-c2",
-          "name": "Sage · Canvas",
-          "dial": "#3A4031",
-          "caseColor": "#BfC2C7",
-          "strap": "#5A5B4A"
-        }
-      ],
-      "movement": "Manual",
-      "caseMaterial": "Stainless Steel",
-      "waterResistance": "50m",
-      "crystal": "Sapphire",
-      "powerReserveHours": 80,
-      "priceCents": 59500,
-      "currency": "USD",
-      "description": "A hand-wound military field watch with a clean 24-hour dial and matte finish. Tool-watch heritage in a wearable size.",
-      "sourceUrl": "https://www.hamiltonwatch.com",
-      "isSeed": true,
-      "createdAt": 1700000000000,
-      "updatedAt": 1700000000000
-    },
-    {
-      "id": "seed_chrono",
-      "brand": "Omega",
-      "model": "Speedmaster Professional",
-      "reference": "310.30.42",
-      "caseSizeMm": 42,
-      "colorways": [
-        {
-          "id": "seed_chrono-c1",
-          "name": "Black · Steel",
-          "dial": "#0E0F12",
-          "caseColor": "#C9CDD3",
-          "strap": "#1A1B1F"
-        }
-      ],
-      "movement": "Manual",
-      "caseMaterial": "Stainless Steel",
-      "waterResistance": "50m",
-      "crystal": "Hesalite",
-      "powerReserveHours": 50,
-      "priceCents": 720000,
-      "currency": "USD",
-      "description": "The Moonwatch. A hand-wound chronograph with a tachymeter bezel and a history that reaches the lunar surface.",
-      "sourceUrl": "https://www.omegawatches.com",
-      "isSeed": true,
-      "createdAt": 1700000000000,
-      "updatedAt": 1700000000000
-    },
-    {
-      "id": "seed_gshock",
-      "brand": "Casio",
-      "model": "G-Shock GA-2100",
-      "reference": "GA-2100-1A1",
-      "caseSizeMm": 45.4,
-      "colorways": [
-        {
-          "id": "seed_gshock-c1",
-          "name": "All Black",
-          "dial": "#0B0B0D",
-          "caseColor": "#1A1A1D",
-          "strap": "#0F0F11"
-        },
-        {
-          "id": "seed_gshock-c2",
-          "name": "Red Accent",
-          "dial": "#101114",
-          "caseColor": "#7E1620",
-          "strap": "#16171A"
-        },
-        {
-          "id": "seed_gshock-c3",
-          "name": "Sand",
-          "dial": "#1B1A16",
-          "caseColor": "#B8A988",
-          "strap": "#C9BC9B"
-        }
-      ],
-      "movement": "Quartz",
-      "caseMaterial": "Carbon Core / Resin",
-      "waterResistance": "200m",
-      "crystal": "Mineral",
-      "priceCents": 9900,
-      "currency": "USD",
-      "description": "The \"CasiOak\" — an octagonal-bezel G-Shock with a slim carbon-core build, shock resistance, and 200m water resistance.",
-      "sourceUrl": "https://www.gshock.com",
-      "isSeed": true,
-      "createdAt": 1700000000000,
-      "updatedAt": 1700000000000
-    },
-    {
-      "id": "seed_dress",
-      "brand": "Cartier",
-      "model": "Tank Must",
-      "reference": "WSTA0041",
-      "caseSizeMm": 33.7,
-      "colorways": [
-        {
-          "id": "seed_dress-c1",
-          "name": "Silver · Leather",
-          "dial": "#E7E7E2",
-          "caseColor": "#D9C27A",
-          "strap": "#1C1A17"
-        },
-        {
-          "id": "seed_dress-c2",
-          "name": "Green · Leather",
-          "dial": "#26402F",
-          "caseColor": "#D9C27A",
-          "strap": "#243227"
-        },
-        {
-          "id": "seed_dress-c3",
-          "name": "Burgundy · Leather",
-          "dial": "#4A1F26",
-          "caseColor": "#D9C27A",
-          "strap": "#3A1A1F"
-        }
-      ],
-      "movement": "Quartz",
-      "caseMaterial": "Steel / Gold-tone",
-      "waterResistance": "30m",
-      "crystal": "Sapphire",
-      "priceCents": 320000,
-      "currency": "USD",
-      "description": "An icon of dress watchmaking. The rectangular Tank silhouette with Roman numerals and a slim leather strap.",
-      "sourceUrl": "https://www.cartier.com",
-      "isSeed": true,
-      "createdAt": 1700000000000,
-      "updatedAt": 1700000000000
-    },
     {
       "id": "ab_fortitude_lite",
       "brand": "Astor + Banks",
@@ -1723,51 +1394,807 @@
       "affiliateUrl": "https://www.brew-watches.com/products/retrograph-brew-rosegold-espresso-chocolate",
       "sourceUrl": "https://www.brew-watches.com/products/retrograph-brew-rosegold-espresso-chocolate",
       "description": "The Retrograph is Brew's most literal expression of its coffee-culture identity: Brew built its 38mm by 41.5mm meca-quartz chronograph specifically as a utilitarian, retro timing device whose 60-minute totalizer tracks a 25-35 second espresso shot, alongside other timed durations. The lead Espresso colorway pairs a rosegold PVD-plated stainless steel case with a chocolate-espresso sunburst dial and brown leather strap; sapphire crystal and 5ATM (50m) water resistance carry across the line."
+    },
+    {
+      "id": "hp_totem_cipher",
+      "brand": "Hora Pictor",
+      "model": "Totem Cipher",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "hp_totem_cipher_totem_cipher",
+          "name": "Totem Cipher",
+          "dial": "#F2F0E8",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2025/02/Totem-Cipher-2.jpg",
+          "images": [
+            "https://www.horapictor.com/wp-content/uploads/2025/02/Totem-Cipher-2.jpg",
+            "https://www.horapictor.com/wp-content/uploads/2025/02/totem-x_03.jpg",
+            "https://www.horapictor.com/wp-content/uploads/2026/01/TOTEM-CIPHER_06.jpg"
+          ]
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Dress",
+      "caseMaterial": "316L stainless steel",
+      "waterResistance": "50m",
+      "crystal": "Sapphire crystal, front and caseback",
+      "powerReserveHours": 41,
+      "priceCents": 409200,
+      "currency": "USD",
+      "affiliateUrl": "https://www.horapictor.com/product/totem-cipher/",
+      "sourceUrl": "https://www.horapictor.com/product/totem-cipher/",
+      "description": "Totem Cipher pairs a cloisonné enamel dial with Ancient Greek numerals inspired by the Rosetta Stone, its abstract totem shapes outlined in fine silver wire, hand-filled with enamel, and fired at high temperature. It runs a Swiss Sellita SW200 Elaboré automatic movement (28,800 vph, 41-hour power reserve) in the brand's standard 38mm 316L steel case with sapphire crystal front and back and 50m water resistance. At $4,092 it is Hora Pictor's most expensive model and headlines the \"Totem\" section of the brand's Watches page. It is offered in a single dial colorway."
+    },
+    {
+      "id": "hp_volcano_grey",
+      "brand": "Hora Pictor",
+      "model": "Volcano Grey",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "hp_volcano_grey_volcano_grey",
+          "name": "Volcano Grey",
+          "dial": "#232B38",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/04/Volcano-Grey-01_02.jpg",
+          "images": [
+            "https://www.horapictor.com/wp-content/uploads/2026/04/Volcano-Grey-01_02.jpg",
+            "https://www.horapictor.com/wp-content/uploads/2026/04/Volcano-Grey1-1.jpg",
+            "https://www.horapictor.com/wp-content/uploads/2026/04/Volcano-Grey5-1.jpg"
+          ]
+        },
+        {
+          "id": "hp_volcano_grey_twilight_violet",
+          "name": "Twilight Violet",
+          "dial": "#5B1F49",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/01/Twilight-Violet-Origin-03.jpg"
+        },
+        {
+          "id": "hp_volcano_grey_sunlit_wheat",
+          "name": "Sunlit Wheat",
+          "dial": "#D8A63D",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/01/Sunlit-Wheat-Origin-01.jpg"
+        },
+        {
+          "id": "hp_volcano_grey_starshine_ocean",
+          "name": "Starshine Ocean",
+          "dial": "#1D3F7A",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/01/Starshine-Ocean-Origin-04.jpg"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Dress",
+      "caseMaterial": "316L stainless steel",
+      "waterResistance": "50m",
+      "crystal": "Sapphire crystal, front and caseback",
+      "powerReserveHours": 41,
+      "priceCents": 259200,
+      "currency": "USD",
+      "affiliateUrl": "https://www.horapictor.com/product/volcano-grey/",
+      "sourceUrl": "https://www.horapictor.com/product/volcano-grey/",
+      "description": "Volcano Grey layers grey enamel over hand-applied silver leaf, inspired by submarine volcanic eruptions where molten rock meets the ocean floor; the same silver-leaf enamel styling (site-marketed as \"Smoked Ocean\") is shared across its Twilight Violet, Sunlit Wheat and Starshine Ocean siblings. All four share the Sellita SW200 Elaboré automatic movement (41h power reserve) in the brand's 38mm 316L steel case, sapphire crystal front and back, and 50m water resistance. At research time all four colorways were in stock at $2,592, the brand's current top-selling price tier."
+    },
+    {
+      "id": "hp_track_compass",
+      "brand": "Hora Pictor",
+      "model": "Track Compass",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "hp_track_compass_yellow_track",
+          "name": "Yellow Track",
+          "dial": "#EDA83A",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/01/Track-Compass-Yellow-Track-04.jpg",
+          "images": [
+            "https://www.horapictor.com/wp-content/uploads/2026/01/Track-Compass-Yellow-Track-04.jpg",
+            "https://www.horapictor.com/wp-content/uploads/2026/03/yellow-track.jpg",
+            "https://www.horapictor.com/wp-content/uploads/2026/03/yellow-track7.jpg"
+          ]
+        },
+        {
+          "id": "hp_track_compass_galaxy",
+          "name": "Galaxy",
+          "dial": "#12141C",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/01/Track-Compass-Galaxy-04.jpg"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Vintage",
+      "caseMaterial": "316L stainless steel",
+      "waterResistance": "50m",
+      "crystal": "Sapphire crystal, front and caseback",
+      "powerReserveHours": 41,
+      "priceCents": 159200,
+      "currency": "USD",
+      "affiliateUrl": "https://www.horapictor.com/product/yellow-track/",
+      "sourceUrl": "https://www.horapictor.com/product/yellow-track/",
+      "description": "Track Compass revives a vintage track/compass dial layout — dry-sifted opaque enamel fired to a uniform matte finish, with a printed railway minute track — and both colorways print \"Track Compass\" directly on the dial. Yellow Track uses a mustard enamel face while Galaxy uses a mineral-flecked black enamel mixed with crushed minerals for a subtle cosmic shimmer. Both share the brand's 38mm 316L steel case, Sellita SW200 Elaboré automatic movement (41h reserve), sapphire crystal front and back, and 50m water resistance; at $1,592 this is Hora Pictor's most affordable current model."
+    },
+    {
+      "id": "hp_desert_brown",
+      "brand": "Hora Pictor",
+      "model": "Desert Brown",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "hp_desert_brown_desert_brown",
+          "name": "Desert Brown",
+          "dial": "#A85A2E",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2025/02/Desert-Brown-Black-Crocodile-Leather-2.png",
+          "images": [
+            "https://www.horapictor.com/wp-content/uploads/2025/02/Desert-Brown-Black-Crocodile-Leather-2.png",
+            "https://www.horapictor.com/wp-content/uploads/2025/02/desert-brown01-3.jpg",
+            "https://www.horapictor.com/wp-content/uploads/2025/02/desert-brown02-2.jpg"
+          ]
+        },
+        {
+          "id": "hp_desert_brown_glacier_blue",
+          "name": "Glacier Blue",
+          "dial": "#17AEC9",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2025/03/glacier-blue-Black-Japanese-Cordovan-Leather.png"
+        },
+        {
+          "id": "hp_desert_brown_seagrass_green",
+          "name": "Seagrass Green",
+          "dial": "#1E7A3E",
+          "caseColor": "#C8CDD4",
+          "strap": "#3B5C3A",
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2025/03/Seagrass-Green.png"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Vintage",
+      "caseMaterial": "316L stainless steel",
+      "waterResistance": "50m",
+      "crystal": "Sapphire crystal, front and caseback",
+      "powerReserveHours": 41,
+      "priceCents": 209200,
+      "currency": "USD",
+      "affiliateUrl": "https://www.horapictor.com/product/desert-brown/",
+      "sourceUrl": "https://www.horapictor.com/product/desert-brown/",
+      "description": "Desert Brown uses the traditional Grand Feu enamel-over-silver-leaf technique in warm brown tones with authentic Ancient Greek numeral markers, part of the same \"Smoked Ocean\" enamel styling used across its Glacier Blue and Seagrass Green siblings (Seagrass Green's dial is literally printed \"Smoked Ocean\"). All three share the brand's 38mm 316L steel case, sapphire crystal front and back, 50m water resistance, and Sellita SW200 automatic movement. Seagrass Green is currently sold out while Desert Brown and Glacier Blue remain in stock, priced from $2,092."
+    },
+    {
+      "id": "fm_havana",
+      "brand": "Furlan Marri",
+      "model": "Havana",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "fm_havana_havana_salmon",
+          "name": "Havana Salmon",
+          "dial": "#D9A28E",
+          "caseColor": "#C8CDD4",
+          "strap": "#6B4226",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Havana_Salmon_-_Shopify.png?v=1769533685&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Havana_Salmon_-_Shopify.png?v=1769533685&width=1200",
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/products/havanasalmon-ref1031A-02-white.jpg?v=1769533685&width=1200",
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/products/watch-havana2_2x_6498961d-9fbf-4261-9b9b-582020ea9221.png?v=1769533685&width=1200"
+          ]
+        },
+        {
+          "id": "fm_havana_castagna",
+          "name": "Castagna",
+          "dial": "#6B4226",
+          "caseColor": "#C8CDD4",
+          "strap": "#4A2F1D",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/castagna-2025-shopify-2.png?v=1751297170&width=1200"
+        },
+        {
+          "id": "fm_havana_rosso_grigio",
+          "name": "Rosso Grigio",
+          "dial": "#A13A3A",
+          "caseColor": "#C8CDD4",
+          "strap": "#8C8F92",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Rosso_Grigio_Shopify.png?v=1779456990&width=1200"
+        },
+        {
+          "id": "fm_havana_nero_sabbia",
+          "name": "Nero Sabbia",
+          "dial": "#1A1A1A",
+          "caseColor": "#C8CDD4",
+          "strap": "#D8C6A3",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Shopify-nerosabbia-2025_e5c1915e-5b6c-41be-b99f-bd6d334f9289.png?v=1742398851&width=1200"
+        },
+        {
+          "id": "fm_havana_sabbia_rosa",
+          "name": "Sabbia Rosa",
+          "dial": "#E3B7B0",
+          "caseColor": "#C48B7B",
+          "strap": "#D8C6A3",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/sabbia-rosa-shopify.png?v=1749631679&width=1200"
+        },
+        {
+          "id": "fm_havana_ardesia_blu",
+          "name": "Ardesia Blu",
+          "dial": "#46545C",
+          "caseColor": "#C8CDD4",
+          "strap": "#2B4C6F",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/ardesia-blu-shopify.png?v=1749631663&width=1200"
+        }
+      ],
+      "movement": "Quartz",
+      "category": "Chronograph",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "50m",
+      "crystal": "Sapphire crystal (front, AR-coated)",
+      "priceCents": 58500,
+      "currency": "CHF",
+      "affiliateUrl": "https://www.furlanmarri.com/products/havana-salmon-1031-a",
+      "sourceUrl": "https://www.furlanmarri.com/products/havana-salmon-1031-a",
+      "description": "The Havana is Furlan Marri's flagship mecha-quartz chronograph and the design that won the brand the GPHG \"Horological Revelation\" prize in 2021, only seven months after its Kickstarter launch. Its 38mm 316L steel case pairs a Seiko VK64 mecha-quartz movement — sweeping like a mechanical, accurate like a quartz — with a decagonal screwed caseback, engraved 'Tasti Tondi' pushers, and deep case engravings. The Havana Salmon colorway became the brand's signature piece and a fast riser on the secondary market; newer dial variants such as Castagna, Rosso Grigio, Nero Sabbia, Sabbia Rosa, and Ardesia Blu remain in current production."
+    },
+    {
+      "id": "fm_sector",
+      "brand": "Furlan Marri",
+      "model": "Sector",
+      "caseSizeMm": 37.5,
+      "colorways": [
+        {
+          "id": "fm_sector_black_sector",
+          "name": "Black Sector",
+          "dial": "#1A1A1A",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Black_Sector_-_Shopify.png?v=1769532996&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Black_Sector_-_Shopify.png?v=1769532996&width=1200",
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/products/blacksector-ref2116A-01-grey.jpg?v=1769532996&width=1200",
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/products/blacksector-ref2116A-02-white.jpg?v=1769532996&width=1200"
+          ]
+        },
+        {
+          "id": "fm_sector_white_sector",
+          "name": "White Sector",
+          "dial": "#F2F0EB",
+          "caseColor": "#C8CDD4",
+          "strap": "#2B4C6F",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/whitesector-bluestrap-ref2161A-01-white.png?v=1708083696&width=1200"
+        },
+        {
+          "id": "fm_sector_blue_sector",
+          "name": "Blue Sector",
+          "dial": "#2B4C6F",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Blue_Sector_Header_6e779320-f31c-41a5-a8d9-4ba874c03a6a.png?v=1762271062&width=1200"
+        },
+        {
+          "id": "fm_sector_grey_sector",
+          "name": "Grey Sector",
+          "dial": "#8C8F92",
+          "caseColor": "#C8CDD4",
+          "strap": "#8A5A34",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/greysector-caramelstrap-ref2145A-01-white_581525a5-de1e-490f-afd3-33c247885f4b.png?v=1707994676&width=1200"
+        },
+        {
+          "id": "fm_sector_salmon_sector",
+          "name": "Salmon Sector",
+          "dial": "#D9A28E",
+          "caseColor": "#C8CDD4",
+          "strap": "#3F5D4E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/salmonsector-greenstrap-ref2154A-01-white_3e9fd757-bb91-4ed0-94d1-909a3c4d4a90.png?v=1741384049&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Dress",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "50m",
+      "crystal": "Sapphire crystal (front & back, AR-coated)",
+      "powerReserveHours": 68,
+      "priceCents": 125000,
+      "currency": "CHF",
+      "affiliateUrl": "https://www.furlanmarri.com/products/black-sector-2116-a",
+      "sourceUrl": "https://www.furlanmarri.com/products/black-sector-2116-a",
+      "description": "The Sector line is Furlan Marri's move into automatic three-hand watchmaking, built around 'cow horns'/Cornes de Vache-style lugs borrowed from classic vintage dress-watch design. Each 37.5mm 316L steel case houses a Swiss-made La Joux-Perret G100 automatic movement with a tungsten rotor, palladium coating, hacking seconds, and a 68-hour power reserve. Every Sector ships with two interchangeable straps, one curved and one straight, fitted through twin lug holes."
+    },
+    {
+      "id": "fm_flyback",
+      "brand": "Furlan Marri",
+      "model": "Flyback",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "fm_flyback_salmon_flyback",
+          "name": "Salmon Flyback",
+          "dial": "#D9A28E",
+          "caseColor": "#C8CDD4",
+          "strap": "#1A1A1A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/aurorevo-ref3188A-01-white.png?v=1727104089&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/aurorevo-ref3188A-01-white.png?v=1727104089&width=1200",
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/aurorevo-ref3188A-01-grey_48b69729-f1e0-4729-ae7b-dc3b6a36993e.jpg?v=1701438058&width=1200",
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/aurorevo-ref31A-02-white_90f5d0bd-1965-417d-8349-97c38b0bdad3.jpg?v=1701438058&width=1200"
+          ]
+        },
+        {
+          "id": "fm_flyback_honey_blue_flyback",
+          "name": "Honey Blue Flyback",
+          "dial": "#2B4C6F",
+          "caseColor": "#C8CDD4",
+          "strap": "#D9A441",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/aurorevo-ref3199A-01-white.png?v=1719841482&width=1200"
+        },
+        {
+          "id": "fm_flyback_taupe_flyback",
+          "name": "Taupe Flyback",
+          "dial": "#8B7D6B",
+          "caseColor": "#C8CDD4",
+          "strap": "#8B7D6B",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Taupe_Flyback_-_Shopify_1095ec90-85cf-44ae-aff3-e45512f4f8cc.png?v=1769532289&width=1200"
+        }
+      ],
+      "movement": "Manual",
+      "category": "Chronograph",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "50m",
+      "crystal": "Sapphire crystal (front & back, AR-coated)",
+      "powerReserveHours": 63,
+      "priceCents": 275000,
+      "currency": "CHF",
+      "affiliateUrl": "https://www.furlanmarri.com/products/salmon-flyback-3188-a",
+      "sourceUrl": "https://www.furlanmarri.com/products/salmon-flyback-3188-a",
+      "description": "The Flyback collection is Furlan Marri's mechanical chronograph statement, developed with Revolution Watch and collector Auro Montanari and limited to 300 pieces per colorway. Its 38mm steel case houses a manually wound, column-wheel flyback chronograph caliber based on the Sellita 5100, delivering a 63-hour power reserve and a pulsometer scale on the dial. Salmon Flyback, Honey Blue Flyback, and Taupe Flyback each sold out shortly after release, making the series one of the brand's most collectible mechanical drops."
+    },
+    {
+      "id": "fm_disco_volante",
+      "brand": "Furlan Marri",
+      "model": "Disco Volante",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "fm_disco_volante_disco_celeste",
+          "name": "Disco Celeste",
+          "dial": "#A9CBE8",
+          "caseColor": "#C8CDD4",
+          "strap": "#A9CBE8",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/discoceleste-20205-01-white.png?v=1721028864&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/discoceleste-20205-01-white.png?v=1721028864&width=1200",
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Disco_Celeste_Closeup.png?v=1779373342&width=1200",
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Disco_Celeste_Lifestyle_9_1.png?v=1779373342&width=1200"
+          ]
+        },
+        {
+          "id": "fm_disco_volante_disco_verde",
+          "name": "Disco Verde",
+          "dial": "#3F5D4E",
+          "caseColor": "#C8CDD4",
+          "strap": "#3F5D4E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/discoverde-20205-01-white.png?v=1721028670&width=1200"
+        },
+        {
+          "id": "fm_disco_volante_disco_havana",
+          "name": "Disco Havana",
+          "dial": "#8A5A34",
+          "caseColor": "#C8CDD4",
+          "strap": "#8A5A34",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/discohavana-20205-01-white.png?v=1721028831&width=1200"
+        },
+        {
+          "id": "fm_disco_volante_disco_onyx_diamonds",
+          "name": "Disco Onyx Diamonds",
+          "dial": "#0E0E0E",
+          "caseColor": "#C8CDD4",
+          "strap": "#0E0E0E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/disco-onyx-diamonds-shopify.png?v=1756474948&width=1200"
+        }
+      ],
+      "movement": "Manual",
+      "category": "Dress",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "50m",
+      "crystal": "Sapphire crystal (front & back, AR-coated)",
+      "powerReserveHours": 42,
+      "priceCents": 250000,
+      "currency": "CHF",
+      "affiliateUrl": "https://www.furlanmarri.com/products/disco-celeste-20205",
+      "sourceUrl": "https://www.furlanmarri.com/products/disco-celeste-20205",
+      "description": "Disco Volante is Furlan Marri's manually wound dress watch, its rounded 38mm steel case with hidden lugs and a curved bezel nodding to mid-century 'flying saucer' case design. It runs on a Peseux 7001 hand-wound movement, redesigned and finished entirely by hand in Geneva, delivering a 42-hour power reserve in an ultra-thin build. Gem-set editions such as Disco Onyx Diamonds, and one-off art collaborations like Disco Stromatolite, have since extended the line beyond its original three-color run."
+    },
+    {
+      "id": "vero_smokey_bear_watch",
+      "brand": "Vero",
+      "model": "Smokey Bear Watch",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "vero_smokey_bear_watch_the_smokey_44",
+          "name": "The Smokey '44",
+          "dial": "#2E2620",
+          "caseColor": "#C8CDD4",
+          "strap": "#B9793E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-44vero-watch-company-908742.png?v=1771559580&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-44vero-watch-company-908742.png?v=1771559580&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-44-preordervero-watch-company-835804.webp?v=1773170059&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-44vero-watch-company-604001.webp?v=1773170059&width=1200"
+          ]
+        },
+        {
+          "id": "vero_smokey_bear_watch_the_smokey_64",
+          "name": "The Smokey '64",
+          "dial": "#2E2620",
+          "caseColor": "#C8CDD4",
+          "strap": "#B9793E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-64vero-watch-company-561686.png?v=1773772181&width=1200"
+        },
+        {
+          "id": "vero_smokey_bear_watch_80th_anniversary_forest_green",
+          "name": "80th Anniversary Forest Green",
+          "dial": "#1E4630",
+          "caseColor": "#8A6642",
+          "strap": "#B9793E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-80th-anniversary-edition-watch-forest-greenvero-watch-company-502063.png?v=1767659521&width=1200"
+        },
+        {
+          "id": "vero_smokey_bear_watch_80th_anniversary_brilliant_blue",
+          "name": "80th Anniversary Brilliant Blue",
+          "dial": "#1B3A63",
+          "caseColor": "#8A6642",
+          "strap": "#B9793E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-80th-anniversary-edition-watch-brilliant-bluevero-watch-company-221272.png?v=1749846732&width=1200"
+        },
+        {
+          "id": "vero_smokey_bear_watch_campfire_edition",
+          "name": "Campfire Edition",
+          "dial": "#3A3632",
+          "caseColor": "#4B4B4E",
+          "strap": "#C08A4E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-campfire-edition-early-accessvero-watch-company-6772005.png?v=1753501393&width=1200"
+        },
+        {
+          "id": "vero_smokey_bear_watch_blue_skies_edition",
+          "name": "Blue Skies Edition",
+          "dial": "#1F4E79",
+          "caseColor": "#2E5D8A",
+          "strap": "#B9793E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-blue-skies-editionvero-watch-company-4442319.png?v=1781651235&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Field",
+      "caseMaterial": "Stainless Steel",
+      "waterResistance": "120m",
+      "crystal": "AR-coated flat sapphire",
+      "powerReserveHours": 41,
+      "priceCents": 52500,
+      "currency": "USD",
+      "affiliateUrl": "https://vero-watch.com/products/smokey-44",
+      "sourceUrl": "https://vero-watch.com/products/smokey-44",
+      "description": "The Smokey Bear Watch is VERO's officially licensed collaboration with the U.S. Forest Service and the Smokey Bear mascot, with 10% of every sale going back to wildfire prevention and forest conservation. The debut Smokey '44 references 1944, the year Smokey Bear's ad campaign began, while later editions reuse the same 38mm field-watch case in different finishes: the '64, bronze-cased 80th Anniversary pieces, the Campfire Edition, and the Blue Skies Edition. Every version runs a Seiko NH38A automatic movement with a 41-hour power reserve behind an AR-coated sapphire crystal, with a screw-down crown and case back rated to 120m."
+    },
+    {
+      "id": "vero_workhorse_chrono",
+      "brand": "Vero",
+      "model": "Workhorse Chrono",
+      "caseSizeMm": 44.5,
+      "colorways": [
+        {
+          "id": "vero_workhorse_chrono_backcountry",
+          "name": "Backcountry",
+          "dial": "#17181A",
+          "caseColor": "#5B5D42",
+          "strap": "#5B5D42",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-backcountryvero-watch-company-1396942.png?v=1781899813&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-backcountryvero-watch-company-1396942.png?v=1781899813&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-backcountryvero-watch-company-934380.webp?v=1740811201&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-backcountryvero-watch-company-975230.png?v=1780352968&width=1200"
+          ]
+        },
+        {
+          "id": "vero_workhorse_chrono_canyon",
+          "name": "Canyon",
+          "dial": "#17181A",
+          "caseColor": "#C2A878",
+          "strap": "#D9C9A3",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-canyonvero-watch-company-4474586.png?v=1781899813&width=1200"
+        },
+        {
+          "id": "vero_workhorse_chrono_scout_motors_terra_cotta",
+          "name": "Scout Motors Terra Cotta",
+          "dial": "#17181A",
+          "caseColor": "#C1552C",
+          "strap": "#D9622B",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/Vero_Scout_orange_hero_web.png?v=1764626435&width=1200"
+        },
+        {
+          "id": "vero_workhorse_chrono_scout_motors_moonstone_blue",
+          "name": "Scout Motors Moonstone Blue",
+          "dial": "#17233A",
+          "caseColor": "#1D3A5F",
+          "strap": "#22406B",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-scout-motors-moonstone-blue-workhorsevero-watch-company-5574431.png?v=1781899806&width=1200"
+        }
+      ],
+      "movement": "Quartz",
+      "category": "Chronograph",
+      "caseMaterial": "Stainless Steel with Cerakote Coating",
+      "waterResistance": "120m",
+      "crystal": "AR-coated sapphire",
+      "priceCents": 42500,
+      "currency": "USD",
+      "affiliateUrl": "https://vero-watch.com/products/workhorse-backcountry",
+      "sourceUrl": "https://vero-watch.com/products/workhorse-backcountry",
+      "description": "The Workhorse Chrono is VERO's standalone field chronograph, built around a 44.5mm stainless steel case finished in color-tinted, scratch-resistant Cerakote and wrapped in rubberized steel bullhorn guards. It runs a Miyota 6S21 left-handed quartz chronograph movement with a one-hour timer, behind an AR-coated sapphire crystal, with a triple-gasket screw-down crown and 120m water resistance. The same case was reissued for the VERO x Scout Motors collaboration in Terra Cotta and Moonstone Blue, colors drawn from the Scout II and Scout 80's original paint codes."
+    },
+    {
+      "id": "vero_realtree_tide_tracker",
+      "brand": "Vero",
+      "model": "Realtree Tide Tracker",
+      "caseSizeMm": 39.5,
+      "colorways": [
+        {
+          "id": "vero_realtree_tide_tracker_outpost_black",
+          "name": "Outpost Black",
+          "dial": "#1A1A1A",
+          "caseColor": "#C8CDD4",
+          "strap": "#6B6547",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-outpost-black-tide-trackervero-watch-company-1625586.png?v=1776712756&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-outpost-black-tide-trackervero-watch-company-1625586.png?v=1776712756&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-tide-tracker-outpost-black-early-accessvero-watch-company-5162549.jpg?v=1757943814&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-outpost-black-tide-trackervero-watch-company-2064543.jpg?v=1758047554&width=1200"
+          ]
+        },
+        {
+          "id": "vero_realtree_tide_tracker_compass_blue",
+          "name": "Compass Blue",
+          "dial": "#1B3A5C",
+          "caseColor": "#C8CDD4",
+          "strap": "#7FA8C9",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-compass-blue-tide-trackervero-watch-company-5837436.png?v=1776712735&width=1200"
+        },
+        {
+          "id": "vero_realtree_tide_tracker_midnight_edition",
+          "name": "Midnight Edition",
+          "dial": "#1A1A1A",
+          "caseColor": "#2A2A2A",
+          "strap": "#4A4A48",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-tide-tracker-midnight-blackvero-watch-company-2095844.png?v=1774028535&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Field",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "120m",
+      "crystal": "AR-coated flat sapphire",
+      "powerReserveHours": 41,
+      "priceCents": 55000,
+      "currency": "USD",
+      "affiliateUrl": "https://vero-watch.com/products/tide-tracker-realtree-outpost-black",
+      "sourceUrl": "https://vero-watch.com/products/tide-tracker-realtree-outpost-black",
+      "description": "The VERO x Realtree Tide Tracker pairs a 39.5mm case with a dual 120-click bezel that tracks high and low tides up to 14 days out. Each colorway comes on a canvas strap printed with an original Realtree camouflage pattern and is powered by a Japanese-made Seiko NH38A automatic movement regulated to +/-10 seconds per day. Cases are 316L stainless steel (matte black DLC-coated steel on the Midnight Edition) with an AR-coated flat sapphire crystal and 120m water resistance."
+    },
+    {
+      "id": "vero_one_moto_solar",
+      "brand": "Vero",
+      "model": "One Moto Solar",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "vero_one_moto_solar_dark_brown",
+          "name": "Dark Brown",
+          "dial": "#101010",
+          "caseColor": "#1E1E1E",
+          "strap": "#3B2A1E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-818871.png?v=1745559836&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-818871.png?v=1745559836&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-154570.png?v=1748158788&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-914782.jpg?v=1746637059&width=1200"
+          ]
+        },
+        {
+          "id": "vero_one_moto_solar_light_tan",
+          "name": "Light Tan",
+          "dial": "#101010",
+          "caseColor": "#1E1E1E",
+          "strap": "#B98A56",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-122082.png?v=1746637059&width=1200"
+        }
+      ],
+      "movement": "Solar",
+      "category": "Sports",
+      "caseMaterial": "Stainless Steel with DLC Coating",
+      "waterResistance": "100m",
+      "crystal": "AR-coated flat sapphire",
+      "powerReserveHours": 2880,
+      "priceCents": 42500,
+      "currency": "USD",
+      "affiliateUrl": "https://vero-watch.com/products/one-moto-solar?variant=46288721510627",
+      "sourceUrl": "https://vero-watch.com/products/one-moto-solar?variant=46288721510627",
+      "description": "The One Moto Solar was built as the official timepiece of the 16th annual One Motorcycle Show in Portland, Oregon, where VERO served as timekeeper. Its 38mm stainless steel case has a scratch-resistant DLC coating and houses a Seiko solar-powered movement rated for roughly a four-month power reserve on a full UV charge. It ships on a perforated leather racing strap in dark brown or light tan, with an AR-coated flat sapphire crystal and 100m water resistance."
+    },
+    {
+      "id": "vero_wildwood_studio_edition",
+      "brand": "Vero",
+      "model": "Wildwood Studio Edition",
+      "caseSizeMm": 38,
+      "colorways": [
+        {
+          "id": "vero_wildwood_studio_edition_bronze",
+          "name": "Bronze",
+          "dial": "#C9A66B",
+          "caseColor": "#8A6642",
+          "strap": "#1A1A1A",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-bronze-preordervero-watch-company-671369.png?v=1729858021&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-bronze-preordervero-watch-company-671369.png?v=1729858021&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-studio-edition-bronzevero-watch-company-477457.jpg?v=1744979807&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-studio-edition-bronzevero-watch-company-269048.jpg?v=1744979807&width=1200"
+          ]
+        },
+        {
+          "id": "vero_wildwood_studio_edition_steel",
+          "name": "Steel",
+          "dial": "#D8D9DB",
+          "caseColor": "#C8CDD4",
+          "strap": "#A9702E",
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-stainless-steel-preordervero-watch-company-164000.png?v=1729858028&width=1200"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Dress",
+      "caseMaterial": "Bronze",
+      "waterResistance": "120m",
+      "crystal": "AR-coated flat sapphire",
+      "powerReserveHours": 41,
+      "priceCents": 65000,
+      "currency": "USD",
+      "affiliateUrl": "https://vero-watch.com/products/vero-x-wildwood-studio-edition-bronze",
+      "sourceUrl": "https://vero-watch.com/products/vero-x-wildwood-studio-edition-bronze",
+      "description": "The Studio Edition is VERO's first collaboration with Portland custom tailor Wildwood & Company, designed to pair with bespoke suits while keeping VERO's usual durability standards. It uses a 38mm case in bronze or stainless steel on a cross-stitched Italian Saffiano leather strap with a deployant clasp, powered by a Seiko NH38A automatic movement with a 41-hour power reserve. The case backs and crowns screw down for 120m water resistance behind an AR-coated flat sapphire crystal, and the run was limited to 200 units online."
+    },
+    {
+      "id": "clem_photic_mkii",
+      "brand": "Clemence",
+      "model": "Photic MKII",
+      "caseSizeMm": 38.5,
+      "colorways": [
+        {
+          "id": "clem_photic_mkii_moray",
+          "name": "Moray",
+          "dial": "#34373D",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://static.wixstatic.com/media/a3a033_c54be8db51a94b9b9f16fdfcde136cf5~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg",
+          "images": [
+            "https://static.wixstatic.com/media/a3a033_c54be8db51a94b9b9f16fdfcde136cf5~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg",
+            "https://static.wixstatic.com/media/a3a033_3352e2232ca54a15ad2886ef7499ed96~mv2.jpg/v1/fit/w_1463,h_2048,q_90/file.jpg",
+            "https://static.wixstatic.com/media/a3a033_2e62264c4cd44e56b60ac89150deea98~mv2.jpg/v1/fit/w_1464,h_1765,q_90/file.jpg"
+          ]
+        },
+        {
+          "id": "clem_photic_mkii_shoal",
+          "name": "Shoal",
+          "dial": "#E3E2E1",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://static.wixstatic.com/media/a3a033_fed1efe482e547d6ad36b9a3e10189a2~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg"
+        },
+        {
+          "id": "clem_photic_mkii_nemo",
+          "name": "Nemo",
+          "dial": "#E8862E",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://static.wixstatic.com/media/a3a033_1ff437b368474a2d83a012c7bd0ca701~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg"
+        },
+        {
+          "id": "clem_photic_mkii_kraken",
+          "name": "Kraken",
+          "dial": "#0D0D0E",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://static.wixstatic.com/media/a3a033_d729ca32bd984b0ca69c3ce7f0282a50~mv2.jpg/v1/fit/w_1081,h_1350,q_90/file.jpg"
+        },
+        {
+          "id": "clem_photic_mkii_photic_gilt",
+          "name": "Photic - Gilt",
+          "dial": "#164C74",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://static.wixstatic.com/media/a3a033_0a1f7db326c44c1d9e0efcc8d186a703~mv2.jpg/v1/fit/w_1081,h_1350,q_90/file.jpg"
+        },
+        {
+          "id": "clem_photic_mkii_breakwater_anachronist_limited_edition",
+          "name": "Breakwater (Anachronist Limited Edition)",
+          "dial": "#4B4B4E",
+          "caseColor": "#C8CDD4",
+          "strap": "#3A3A3C",
+          "imageUri": "https://static.wixstatic.com/media/a3a033_9ef3aac7c6ea45b4a946f0da57e59732~mv2.jpg/v1/fit/w_1639,h_2048,q_90/file.jpg"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Dive",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "200m",
+      "crystal": "Box sapphire crystal, antiglare with 8-layer AR coating",
+      "powerReserveHours": 42,
+      "priceCents": 57500,
+      "currency": "GBP",
+      "affiliateUrl": "https://www.clemencewatches.com/product-page/photic-mkii",
+      "sourceUrl": "https://www.clemencewatches.com/product-page/photic-mkii",
+      "description": "The Photic MKII is Clemence's dive watch, built around a 38.5mm 316L steel case (39mm across the bezel) with a 904L bezel ring, precision ball-bearing click and domed sapphire insert, driven by a high-beat automatic Miyota 9039 regulated to +/-12 seconds a day. It is rated to 200m water resistance, shielded against magnetic fields over 25,000 A/m, and finished with an antiglare box sapphire crystal and Grade A BGW9 lume. The watch has drawn wide praise from watch press including Fratello Watches, Worn & Wound and The Deep Track for its finishing and value."
+    },
+    {
+      "id": "clem_munro",
+      "brand": "Clemence",
+      "model": "Munro",
+      "caseSizeMm": 37.5,
+      "colorways": [
+        {
+          "id": "clem_munro_pitch_black",
+          "name": "Pitch Black",
+          "dial": "#000000",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://static.wixstatic.com/media/ee575c_881eb884ac864d92a55c968ffec16730~mv2.jpg/v1/fit/w_1600,h_2000,q_90/file.jpg",
+          "images": [
+            "https://static.wixstatic.com/media/ee575c_881eb884ac864d92a55c968ffec16730~mv2.jpg/v1/fit/w_1600,h_2000,q_90/file.jpg",
+            "https://static.wixstatic.com/media/ee575c_0b37699c487746c3b58368be029139d3~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg",
+            "https://static.wixstatic.com/media/ee575c_a255cc5c738a4b48b282712612fb33e7~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg"
+          ]
+        },
+        {
+          "id": "clem_munro_spindrift",
+          "name": "Spindrift",
+          "dial": "#F2F1EC",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://static.wixstatic.com/media/ee575c_336a2e300fff4348ae179a5f30b54f1c~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg"
+        },
+        {
+          "id": "clem_munro_highland_amber",
+          "name": "Highland Amber",
+          "dial": "#DE8B2E",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://static.wixstatic.com/media/ee575c_9377aeeec9b14c75b21c5bf63c405c2b~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg"
+        },
+        {
+          "id": "clem_munro_ridgeline",
+          "name": "Ridgeline",
+          "dial": "#238C86",
+          "caseColor": "#C8CDD4",
+          "strap": "#AEB4BC",
+          "imageUri": "https://static.wixstatic.com/media/ee575c_a02c9932e2f74049a653f2000a299f27~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg"
+        }
+      ],
+      "movement": "Automatic",
+      "category": "Field",
+      "caseMaterial": "316L Stainless Steel",
+      "waterResistance": "150m",
+      "crystal": "Box sapphire crystal, antiglare with 8-layer AR coating",
+      "powerReserveHours": 42,
+      "priceCents": 52500,
+      "currency": "GBP",
+      "affiliateUrl": "https://www.clemencewatches.com/product-page/munro",
+      "sourceUrl": "https://www.clemencewatches.com/product-page/munro",
+      "description": "The Munro is Clemence's field watch, hand-assembled in Britain with a 37.5mm, 9.25mm-thick 316L steel case and a high-beat automatic Miyota 9039 movement regulated to +/-12 seconds a day. It carries an antiglare box sapphire crystal with 8 internal AR-coating layers, Grade A BGW9 lume-filled hands and markers, and is rated to 150m water resistance. Reviewers have singled out its tapering, tool-less micro-adjust steel bracelet as exceptional value at the price."
     }
   ],
   "brands": [
-    {
-      "brand": "Seiko",
-      "founded": 1881,
-      "country": "Japan",
-      "knownFor": "Dive watches & everyday automatics",
-      "blurb": "From the first Japanese wristwatch to the first quartz watch, Seiko has spent more than a century making horology accessible. Its Prospex divers and in-house movements deliver tool-watch credibility at every price."
-    },
-    {
-      "brand": "Tissot",
-      "founded": 1853,
-      "country": "Switzerland",
-      "knownFor": "Swiss value & the PRX",
-      "blurb": "A Le Locle original and one of the largest Swiss makers, Tissot pairs traditional Swiss manufacturing with aggressive pricing. The integrated-bracelet PRX made 1970s style a modern entry point into mechanical watches."
-    },
-    {
-      "brand": "Hamilton",
-      "founded": 1892,
-      "country": "USA / Switzerland",
-      "knownFor": "Field watches & Hollywood cameos",
-      "blurb": "Born in Lancaster, Pennsylvania and now Swiss-made, Hamilton supplied U.S. military watches through both world wars. The Khaki Field carries that GI heritage, while its movie credits run from 2001 to Interstellar."
-    },
-    {
-      "brand": "Omega",
-      "founded": 1848,
-      "country": "Switzerland",
-      "knownFor": "The Moonwatch & Olympic timing",
-      "blurb": "Omega timed the first lunar landing and every Olympics for decades. The Speedmaster Professional remains the only watch flight-qualified by NASA for spacewalks, and the co-axial escapement keeps its movements ahead of the pack."
-    },
-    {
-      "brand": "Casio",
-      "founded": 1946,
-      "country": "Japan",
-      "knownFor": "G-Shock toughness",
-      "blurb": "Casio built the indestructible watch. Since 1983 the G-Shock has survived drops, mud, and decades of fashion cycles — the octagonal GA-2100 \"CasiOak\" turned shock resistance into a style statement."
-    },
-    {
-      "brand": "Cartier",
-      "founded": 1847,
-      "country": "France",
-      "knownFor": "The Tank & dress-watch icons",
-      "blurb": "The jeweler of kings put watches on wrists before most: the Santos (1904) and Tank (1917) defined shaped dress watches. A Cartier is as much design object as timekeeper — which is exactly the point."
-    },
     {
       "brand": "Astor + Banks",
       "founded": 2012,
@@ -1815,6 +2242,38 @@
       "knownFor": "Espresso-timed retro-industrial chronograph watches",
       "blurb": "Brew Watch Co. was founded in 2015 by industrial designer Jonathan Ferrer, who launched the brand from New York City via Kickstarter after noticing how baristas timed espresso extraction. Every design decision traces back to that coffee ritual: chronograph totalizers sized to a 25-35 second espresso pour, cushion cases inspired by vintage espresso machines and Art Deco cafes, and a coffee-bean logomark on the crown and dial.",
       "logoUri": "https://mx-orsi.github.io/watchswipe-feed/assets/brew-logomark.png"
+    },
+    {
+      "brand": "Hora Pictor",
+      "founded": 2024,
+      "country": "Hong Kong",
+      "knownFor": "Hand-fired enamel dial watchmaking",
+      "blurb": "O&HoraPictor (Latin: 'painter of time') was founded in Hong Kong in 2024 by enamel artist Eriks, growing out of his enamel atelier Studio Orodol, established in 2017. Every dial is individually hand-fired Grand Feu or cloisonné enamel over silver leaf, paired with a Swiss Sellita SW200 automatic movement in a 38mm steel case.",
+      "logoUri": "https://www.horapictor.com/wp-content/uploads/2024/01/cropped-orodol-logo-icon-270x270.png"
+    },
+    {
+      "brand": "Furlan Marri",
+      "founded": 2021,
+      "country": "Switzerland",
+      "knownFor": "Award-winning neo-vintage mecha-quartz chronographs",
+      "blurb": "Founded in Geneva in 2021 by Swiss designer Andrea Furlan and Saudi Arabian collector Hamad Al Marri, Furlan Marri won the GPHG \"Horological Revelation\" prize just seven months after its Kickstarter launch for its neo-vintage mecha-quartz chronographs. The brand has since expanded from mecha-quartz into automatic and hand-wound mechanical watches while keeping its 1940s-1950s-inspired design language.",
+      "logoUri": "https://www.furlanmarri.com/favicon/apple-touch-icon.png?width=256"
+    },
+    {
+      "brand": "Vero",
+      "founded": 2015,
+      "country": "United States",
+      "knownFor": "US-assembled field watches, brand collaborations",
+      "blurb": "VERO Watch Company was founded in Portland, Oregon in 2015 by watch enthusiasts Chris Boudreaux and Danny Recordon, who wanted well-made watches without a luxury price tag. The brand still assembles, services, and warranties every watch out of its Portland shop, and its current catalog leans heavily on licensed and brand collaborations, including Smokey Bear/US Forest Service, Realtree, and Scout Motors.",
+      "logoUri": "https://mx-orsi.github.io/watchswipe-feed/assets/vero-logomark.png"
+    },
+    {
+      "brand": "Clemence",
+      "founded": 2021,
+      "country": "United Kingdom",
+      "knownFor": "climate-positive British field and dive watches",
+      "blurb": "Founded in Edinburgh in 2021 by ecologist Tom Clemence, whose late grandfather's Universal Genève watch sparked his love of horology, Clemence designs and hand-assembles its watches in Britain. The brand plants a native Scottish tree for every watch sold and offsets at least twice each watch's carbon footprint, funded by accepting smaller margins rather than raising prices.",
+      "logoUri": "https://static.wixstatic.com/media/a3a033_1aabc49c2b2a487c8df539f33ccfe4f2~mv2.png/v1/fill/w_180,h_180,lg_1,usm_0.66_1.00_0.01/a3a033_1aabc49c2b2a487c8df539f33ccfe4f2~mv2.png"
     }
   ]
 }
