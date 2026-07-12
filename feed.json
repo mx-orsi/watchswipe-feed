@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
-  "edition": 10,
-  "publishedAt": 1783897221984,
+  "edition": 11,
+  "publishedAt": 1783898139157,
   "stories": [
     {
       "id": "n_four_more_arrivals",
@@ -66,8 +66,10 @@
           "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_NavyBLue_lowres_0972cb2d-0ef4-48d6-a840-dad73c94a4db.jpg?v=1656618793&width=1200",
           "images": [
             "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_NavyBLue_lowres_0972cb2d-0ef4-48d6-a840-dad73c94a4db.jpg?v=1656618793&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Lumes_lowres_4c4b6498-f97a-41bc-8f65-481a5f9ea4ec.jpg?v=1656619072&width=1200",
             "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Angle_NoDate_NavyBlue_lowres_6b8d06c3-b708-4230-8a77-c4fba64f6f92.jpg?v=1656618794&width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_20bad2aa-9c61-4e4a-bd6d-67610db95e61.jpg?v=1656619065&width=1200"
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_20bad2aa-9c61-4e4a-bd6d-67610db95e61.jpg?v=1656619065&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/IMG_3907.jpg?v=1736377314&width=1200"
           ]
         },
         {
@@ -76,7 +78,13 @@
           "dial": "#F2F4F5",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_White_lowres_c3166bd7-beaf-4ab2-9aa1-7076511955b9.jpg?v=1656618816&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_White_lowres_c3166bd7-beaf-4ab2-9aa1-7076511955b9.jpg?v=1656618816&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_White_lowres_c3166bd7-beaf-4ab2-9aa1-7076511955b9.jpg?v=1656618816&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Lumes_lowres_5e027695-fb21-4786-a6f6-246d62c0b734.jpg?v=1656619167&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_abb6c037-9e5f-4ab4-b2d2-a6160531b7ee.jpg?v=1656619160&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/IMG_3907.jpg?v=1736377314&width=1200"
+          ]
         },
         {
           "id": "ab_fl_silver",
@@ -84,7 +92,14 @@
           "dial": "#C9CDD2",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Grey_lowres_97961af0-090a-4edc-9e69-04a9446b1331.jpg?v=1656618836&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Grey_lowres_97961af0-090a-4edc-9e69-04a9446b1331.jpg?v=1656618836&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Grey_lowres_97961af0-090a-4edc-9e69-04a9446b1331.jpg?v=1656618836&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Lumes_lowres_d25eb474-6822-4046-b030-66a9fa987b50.jpg?v=1656619253&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Angle_NoDate_NewCase_Grey_lowres_7b81096d-cc69-4217-bd18-8526f16764ed.jpg?v=1656618836&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_312a7176-a353-4dea-9315-ed70dd6ca5d8.jpg?v=1656619245&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/IMG_3907.jpg?v=1736377314&width=1200"
+          ]
         },
         {
           "id": "ab_fl_maiz",
@@ -92,7 +107,14 @@
           "dial": "#E8B93C",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Yellow_lowres.jpg?v=1652108704&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Yellow_lowres.jpg?v=1652108704&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Yellow_lowres.jpg?v=1652108704&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Lumes_lowres_4c4b6498-f97a-41bc-8f65-481a5f9ea4ec.jpg?v=1656619072&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Angle_NoDate_NewCase_Yellow_lowres.jpg?v=1652108704&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_20bad2aa-9c61-4e4a-bd6d-67610db95e61.jpg?v=1656619065&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/IMG_3907.jpg?v=1736377314&width=1200"
+          ]
         },
         {
           "id": "ab_fl_mint",
@@ -100,7 +122,14 @@
           "dial": "#9FD8C4",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Turquoise_lowres_6196ed40-fde6-4e7f-afd7-3461974e4e66.jpg?v=1656620036&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Turquoise_lowres_6196ed40-fde6-4e7f-afd7-3461974e4e66.jpg?v=1656620036&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Turquoise_lowres_6196ed40-fde6-4e7f-afd7-3461974e4e66.jpg?v=1656620036&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_Lumes_lowres_8723d7ec-1330-454b-b942-2d86cb2038b5.jpg?v=1656620036&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Angle_NoDate_NewCaseTurquoise_lowres_a603cb48-f194-41aa-85ea-f0df8c525fca.jpg?v=1656620036&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_a7f27fe8-8b7e-4018-9c50-5fa4cb104f1c.jpg?v=1656620036&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/FortitudeLiteWebSize-19.jpg?v=1656620036&width=1200"
+          ]
         },
         {
           "id": "ab_fl_mop",
@@ -108,7 +137,14 @@
           "dial": "#E9E2EC",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_MOP_lowres_63dc1c88-f8db-46ae-8ac2-3cbf687e9c2c.jpg?v=1670507404&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_MOP_lowres_63dc1c88-f8db-46ae-8ac2-3cbf687e9c2c.jpg?v=1670507404&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_NoDate_MOP_lowres_63dc1c88-f8db-46ae-8ac2-3cbf687e9c2c.jpg?v=1670507404&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_NoDate_Lumes_lowres.jpg?v=1734577771&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Angle_NoDate_NewCase_MotherOfPearl_lowres_9c78cb85-e778-44c6-8f63-a590bda4237b.jpg?v=1670507427&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres.jpg?v=1734577771&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/IMG_3907.jpg?v=1736377314&width=1200"
+          ]
         }
       ],
       "movement": "Automatic",
@@ -122,7 +158,8 @@
       "sourceUrl": "https://astorandbanks.com/collections/fortitude-lite/products/fortitude-lite-navy-blue-pre-order",
       "affiliateUrl": "https://astorandbanks.com/collections/fortitude-lite/products/fortitude-lite-navy-blue-pre-order",
       "description": "The civilian take on Astor + Banks' officer's-style Fortitude: slimmer case, clean no-date dial, and a Miyota 9039 automatic adjusted in-house. Applied markers and hands glow with BGW9 Super-LumiNova, and the tapered 20mm bracelet hides polished chamfers on the underside of the links. Anti-magnetic to the ISO 764 standard and water resistant to 660ft \u2014 an everyday watch that punches far above $650.",
-      "releaseYear": 2022
+      "releaseYear": 2022,
+      "photoBg": "light"
     },
     {
       "id": "ab_fortitude_pro",
@@ -136,11 +173,13 @@
           "dial": "#9FD8C4",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_Turquoise_lowres_6263df91-a9b5-4bcc-97f3-5aff5b8ece6a.jpg?v=1708570031&width=1200",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_Turquoise_lowres_fbad9935-d074-456f-b196-5e51fd771d1c.jpg?v=1734578388&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_Turquoise_lowres_6263df91-a9b5-4bcc-97f3-5aff5b8ece6a.jpg?v=1708570031&width=1200",
             "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_Turquoise_lowres_fbad9935-d074-456f-b196-5e51fd771d1c.jpg?v=1734578388&width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_6632ec80-f788-4b7c-a06a-1aa1fa8e9c2a.jpg?v=1734578388&width=1200"
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_Turquoise_lowres_6263df91-a9b5-4bcc-97f3-5aff5b8ece6a.jpg?v=1708570031&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_6632ec80-f788-4b7c-a06a-1aa1fa8e9c2a.jpg?v=1734578388&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/Astor_and_Banks_017.jpg?v=1734578388&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/IMG_3907.jpg?v=1736377314&width=1200"
           ]
         },
         {
@@ -149,7 +188,14 @@
           "dial": "#D8C29A",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Angle_Sand_lowres.jpg?v=1698270560&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_Sand_lowres.jpg?v=1734579088&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Straight_Sand_lowres.jpg?v=1734579088&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_Fortitude_Angle_Sand_lowres.jpg?v=1698270560&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_2cf5da0b-ac2f-43b0-882c-d5347caf528a.jpg?v=1734579088&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/Astor_and_Banks_SandPro.jpg?v=1734579088&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/Astor_and_Banks_038_copy.jpg?v=1734579593&width=1200"
+          ]
         },
         {
           "id": "ab_fp_navy",
@@ -157,7 +203,14 @@
           "dial": "#1E2A4A",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_DarkBlue_lowres.jpg?v=1698430218&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_DarkBlueLowres.png?v=1734578661&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_DarkBlueLowres.png?v=1734578661&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_DarkBlue_lowres.jpg?v=1698430218&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_de72f2ef-4faf-4660-92ba-163d2773a9e7.jpg?v=1734578661&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/Astor_and_Banks_027_copyweb.jpg?v=1735495883&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/IMG_3907.jpg?v=1736377314&width=1200"
+          ]
         },
         {
           "id": "ab_fp_silver",
@@ -165,7 +218,14 @@
           "dial": "#C9CDD2",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_White_1200_77d5d4bd-77d1-4385-ad0d-343b91f347b3.jpg?v=1698270569&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_White_1200_5ccdc3d0-5e1c-4e33-ba44-3e2f6fc7a5bd.jpg?v=1734579178&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_White_1200_5ccdc3d0-5e1c-4e33-ba44-3e2f6fc7a5bd.jpg?v=1734579178&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_White_1200_77d5d4bd-77d1-4385-ad0d-343b91f347b3.jpg?v=1698270569&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_7ee4d9f1-d784-402d-a358-4443743d9fce.jpg?v=1734579178&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/Astor_and_Banks_Fortitude_Silver.jpg?v=1734579178&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/IMG_3907.jpg?v=1736377314&width=1200"
+          ]
         },
         {
           "id": "ab_fp_polar",
@@ -173,7 +233,13 @@
           "dial": "#F2F4F5",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_Date_White.jpg?v=1701204272&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_Date_White.jpg?v=1734578743&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_Date_White.jpg?v=1734578743&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_Date_White.jpg?v=1701204272&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_5ec42647-0fa4-47fe-9876-8907547642af.jpg?v=1734578743&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/IMG_3907.jpg?v=1736377314&width=1200"
+          ]
         }
       ],
       "movement": "Automatic",
@@ -187,7 +253,8 @@
       "sourceUrl": "https://astorandbanks.com/collections/fortitude/products/fortitude-pro-mint-green",
       "affiliateUrl": "https://astorandbanks.com/collections/fortitude/products/fortitude-pro-mint-green",
       "description": "The flagship officer's watch, updated: steel hardened to HV1200 for scratch resistance, anti-magnetic to 20,000A/m \u2014 over four times the ISO requirement \u2014 and a Miyota 9015 automatic adjusted in-house. Heat-blued hands on select dials, BGW9 lume throughout, and the same perfectly tapered bracelet as the Lite. Formal to casual, 38.5mm, any day of the week.",
-      "releaseYear": 2023
+      "releaseYear": 2023,
+      "photoBg": "light"
     },
     {
       "id": "ab_sea_ranger_m2",
@@ -205,7 +272,9 @@
           "images": [
             "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Black_lowres.jpg?v=1720630450&width=1200",
             "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_3Quarters_Black_lowres.jpg?v=1720756802&width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_SeaRanger_M2_Lifestyle_185504_Black_lowres.jpg?v=1720630453&width=1200"
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_SeaRanger_M2_Lifestyle_185504_Black_lowres.jpg?v=1720630453&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_SeaRanger_M2_Lifestyle_185504_Lumes_lowres.jpg?v=1770091075&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Side_lowres_82bb7892-7d98-44c0-8ad0-e35e907826bb.jpg?v=1770091075&width=1200"
           ]
         },
         {
@@ -214,7 +283,14 @@
           "dial": "#1B3A5C",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Blue_lowres.jpg?v=1720630808&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Blue_lowres.jpg?v=1720630808&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Blue_lowres.jpg?v=1720630808&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_3Quarters_Blue_lowres.jpg?v=1720756802&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_SeaRanger_M2_Lifestyle_185504_Blue_lowres.jpg?v=1736377292&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_SeaRanger_M2_Lifestyle_185504_Lumes_lowres.jpg?v=1770091075&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/Compressor6copy.jpg?v=1736377292&width=1200"
+          ]
         },
         {
           "id": "ab_srm2_green",
@@ -222,7 +298,14 @@
           "dial": "#4A5442",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Green_lowres.jpg?v=1720630305&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Green_lowres.jpg?v=1720630305&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Green_lowres.jpg?v=1720630305&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_3Quarters_Green_lowres.jpg?v=1720756802&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorandBanks-SeaRanger2-ArmyGreen2Web.jpg?v=1722712573&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_SeaRanger_M2_Lifestyle_185504_Green_lowres.jpg?v=1720630314&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_SeaRanger_M2_Lifestyle_185504_Lumes_lowres.jpg?v=1770091075&width=1200"
+          ]
         },
         {
           "id": "ab_srm2_tobacco",
@@ -230,7 +313,14 @@
           "dial": "#6B4A2F",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Brown_lowres.jpg?v=1720630970&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Brown_lowres.jpg?v=1720630970&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_Straight_Brown_lowres.jpg?v=1720630970&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstrorBanks_SeaRangerM2_3Quarters_Brown_lowres.jpg?v=1720756780&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorandBanks-SeaRanger2-TobaccoWeb.jpg?v=1722712835&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_SeaRanger_M2_Lifestyle_185504_Brown_lowres.jpg?v=1720630978&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/products/AstorBanks_SeaRanger_M2_Lifestyle_185504_Lumes_lowres.jpg?v=1770091075&width=1200"
+          ]
         }
       ],
       "movement": "Automatic",
@@ -244,7 +334,8 @@
       "sourceUrl": "https://astorandbanks.com/collections/sea-ranger-m2/products/sea-ranger-m2",
       "affiliateUrl": "https://astorandbanks.com/collections/sea-ranger-m2/products/sea-ranger-m2",
       "description": "A dual-crown, go-anywhere tool watch two years in the making. The top crown drives an internal 12-hour rotating ring \u2014 a second time zone without a GMT movement \u2014 while the Swiss LJP G100 automatic runs a 68-hour reserve, adjusted in-house to \u00b18 seconds a day. Rated to 1000ft with hardened HV1200 steel and a soft-iron anti-magnetic cage. Bracelet versions include a color-matched FKM rubber strap ($1,149 on strap only).",
-      "releaseYear": 2024
+      "releaseYear": 2024,
+      "photoBg": "light"
     },
     {
       "id": "ab_terra_scout",
@@ -258,12 +349,13 @@
           "dial": "#C9B187",
           "caseColor": "#C6CBD1",
           "strap": "#8A7D63",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-2.jpg?v=1769408170&width=1200",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-31.jpg?v=1769408216&width=1200",
           "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-31.jpg?v=1769408216&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-42.jpg?v=1769408216&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-39.jpg?v=1769408170&width=1200",
             "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-2.jpg?v=1769408170&width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-31.jpg?v=1769408216&width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-31.jpg?v=1769408216&width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-42.jpg?v=1769408216&width=1200"
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-20.jpg?v=1769408170&width=1200"
           ]
         },
         {
@@ -272,10 +364,13 @@
           "dial": "#16181B",
           "caseColor": "#C6CBD1",
           "strap": "#2E3134",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-5.jpg?v=1769408531&width=1200",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-33.jpg?v=1771214989&width=1200",
           "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-33.jpg?v=1771214989&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-26.jpg?v=1771214989&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-41.jpg?v=1771214989&width=1200",
             "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-5.jpg?v=1769408531&width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-33.jpg?v=1771214989&width=1200"
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-21.jpg?v=1769408531&width=1200"
           ]
         },
         {
@@ -284,10 +379,13 @@
           "dial": "#EDEFE7",
           "caseColor": "#C6CBD1",
           "strap": "#43464A",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-7_f9d6ba2e-242d-4173-8d87-bad5fd1eedb7.jpg?v=1769408712&width=1200",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-32_44472d4d-7378-435d-b5c6-b7726f3a6c08.jpg?v=1769408712&width=1200",
           "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-32_44472d4d-7378-435d-b5c6-b7726f3a6c08.jpg?v=1769408712&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-43.jpg?v=1769408712&width=1200",
             "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-7_f9d6ba2e-242d-4173-8d87-bad5fd1eedb7.jpg?v=1769408712&width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-32_44472d4d-7378-435d-b5c6-b7726f3a6c08.jpg?v=1769408712&width=1200"
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-21_c442108d-146e-4664-861a-48d38554bf69.jpg?v=1769408712&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-30.jpg?v=1769408712&width=1200"
           ]
         },
         {
@@ -296,10 +394,13 @@
           "dial": "#131518",
           "caseColor": "#26292E",
           "strap": "#26292E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-10.jpg?v=1769408560&width=1200",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-34.jpg?v=1769407975&width=1200",
           "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-34.jpg?v=1769407975&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-44.jpg?v=1769407975&width=1200",
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-24.jpg?v=1769408560&width=1200",
             "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-10.jpg?v=1769408560&width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-34.jpg?v=1769407975&width=1200"
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-22.jpg?v=1769408560&width=1200"
           ]
         }
       ],
@@ -440,7 +541,11 @@
           "dial": "#D9BE85",
           "caseColor": "#C8CDD4",
           "strap": "#2E2A26",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB.png?v=1762274785&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB.png?v=1762274785&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB.png?v=1762274785&width=1200",
+            "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB_Back.png?v=1762274785&width=1200"
+          ]
         }
       ],
       "movement": "Manual",
@@ -480,7 +585,11 @@
           "dial": "#D9691E",
           "caseColor": "#C8CDD4",
           "strap": "#3E2A1E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAOX_Manhattan.png?v=1759159664&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAOX_Manhattan.png?v=1759159664&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAOX_Manhattan.png?v=1759159664&width=1200",
+            "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MIG_Mimosa_Back.png?v=1758535253&width=1200"
+          ]
         },
         {
           "id": "su_cocktail_collection_mimosa",
@@ -488,7 +597,11 @@
           "dial": "#F2B33D",
           "caseColor": "#C8CDD4",
           "strap": "#8A8078",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MIG_Mimosa.png?v=1760435309&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MIG_Mimosa.png?v=1760435309&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MIG_Mimosa.png?v=1760435309&width=1200",
+            "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/02MAOX_Manhattan_Back_fd366176-c761-40a8-994e-5f6259910998.png?v=1760435329&width=1200"
+          ]
         }
       ],
       "movement": "Manual",
@@ -969,11 +1082,13 @@
           "dial": "#1A1A1A",
           "caseColor": "#C8CDD4",
           "strap": "#1A1A1A",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/84578106-A08C-4B1A-BD97-644DA42E46B9.png?v=1740859951&width=1200",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantBlackFront-min.png?v=1740859948&width=1200",
           "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantBlackFront-min.png?v=1740859948&width=1200",
             "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/84578106-A08C-4B1A-BD97-644DA42E46B9.png?v=1740859951&width=1200",
             "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/5-min_2e23fa9e-d81b-4138-b6ca-085e3ab06a23.png?v=1740859948&width=1200",
-            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/6-min.png?v=1740859948&width=1200"
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/6-min.png?v=1740859948&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/7-min.png?v=1740859948&width=1200"
           ]
         },
         {
@@ -982,7 +1097,14 @@
           "dial": "#A5342E",
           "caseColor": "#C8CDD4",
           "strap": "#A5342E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantRedFront-min_829eda8d-346b-4965-9158-572fdffac07a.png?v=1683571549&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantRedFront-min_829eda8d-346b-4965-9158-572fdffac07a.png?v=1683571549&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantRedFront-min_829eda8d-346b-4965-9158-572fdffac07a.png?v=1683571549&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/1-min_4d597e14-812c-4568-a6a8-535c86d82e6f.png?v=1771263261&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/3-min_8d410c92-46cb-44ca-9bc0-297853f82ed1.png?v=1771263261&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/4-min_d49ceb09-fe5e-4342-aee6-287e04ff1a6a.png?v=1771263261&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/2-min_dc32e9c0-39d2-48cf-834d-4175e1cb5bb4.png?v=1771263261&width=1200"
+          ]
         },
         {
           "id": "ww_valiant_the_white_watch",
@@ -990,7 +1112,14 @@
           "dial": "#F2F0EB",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantWhiteFront-min_7b709df6-b73c-4554-b70a-ff8df3a2e2aa.png?v=1683571692&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantWhiteFront-min_7b709df6-b73c-4554-b70a-ff8df3a2e2aa.png?v=1683571692&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantWhiteFront-min_7b709df6-b73c-4554-b70a-ff8df3a2e2aa.png?v=1683571692&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/10-min.png?v=1721326865&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/9-min.png?v=1721326865&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/11-min.png?v=1721326865&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/12-min_17a527cb-7007-4524-9514-9b073bbb3af3.png?v=1721326865&width=1200"
+          ]
         },
         {
           "id": "ww_valiant_the_blue_watch",
@@ -998,7 +1127,14 @@
           "dial": "#2C4A6E",
           "caseColor": "#C8CDD4",
           "strap": "#2C4A6E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantBlueFront-min_f8edcc58-fcf2-447a-ac7f-943825f492e1.png?v=1683571371&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantBlueFront-min_f8edcc58-fcf2-447a-ac7f-943825f492e1.png?v=1683571371&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantBlueFront-min_f8edcc58-fcf2-447a-ac7f-943825f492e1.png?v=1683571371&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/20-min_489a1134-3258-4b83-9fe8-30a8604e5098.png?v=1721324008&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/21-min.png?v=1721324008&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/22-min.png?v=1721324008&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantBlueAngled_1_-min.png?v=1721324008&width=1200"
+          ]
         },
         {
           "id": "ww_valiant_the_green_watch",
@@ -1006,7 +1142,14 @@
           "dial": "#2F5233",
           "caseColor": "#C8CDD4",
           "strap": "#2F5233",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/680767D5-FDF8-4EB1-BD6B-E1DB2E5DBC15.png?v=1772531591&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantGreenFront-min_38bbb2a1-bb4b-40bf-84db-6544d451cc0d.png?v=1772531591&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/ValiantGreenFront-min_38bbb2a1-bb4b-40bf-84db-6544d451cc0d.png?v=1772531591&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/680767D5-FDF8-4EB1-BD6B-E1DB2E5DBC15.png?v=1772531591&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/15-min.png?v=1772531591&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/17-min.png?v=1772531591&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/16-min.png?v=1772531591&width=1200"
+          ]
         }
       ],
       "movement": "Automatic",
@@ -1034,11 +1177,13 @@
           "dial": "#0F4C4C",
           "caseColor": "#C8CDD4",
           "strap": "#0F4C4C",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalours_White_Dial_Green_Strap_96e79b37-9a4a-480e-9b54-3d7d3b76c559.png?v=1772727174&width=1200",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Peacock_FRONT_b1104694-496f-4cef-a67a-86a306cab318.png?v=1772727174&width=1200",
           "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Peacock_FRONT_b1104694-496f-4cef-a67a-86a306cab318.png?v=1772727174&width=1200",
             "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalours_White_Dial_Green_Strap_96e79b37-9a4a-480e-9b54-3d7d3b76c559.png?v=1772727174&width=1200",
             "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/D50_5310.jpg?v=1772727174&width=1200",
-            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/D50_5314.jpg?v=1772727174&width=1200"
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/D50_5314.jpg?v=1772727174&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/D50_5315.jpg?v=1772727174&width=1200"
           ]
         },
         {
@@ -1047,7 +1192,14 @@
           "dial": "#0B1F3A",
           "caseColor": "#C8CDD4",
           "strap": "#0B1F3A",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Blue_Dial_Blue_Strap_8e48f95c-8b5c-4d49-9627-b25c7a4d9c43.png?v=1772725020&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Midnight_Blue_FRONT_a84639ef-76cb-4fa0-9ef8-dfb3f2c32f77.png?v=1772725476&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Midnight_Blue_FRONT_a84639ef-76cb-4fa0-9ef8-dfb3f2c32f77.png?v=1772725476&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Blue_Dial_Blue_Strap_8e48f95c-8b5c-4d49-9627-b25c7a4d9c43.png?v=1772725020&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/D50_5195.jpg?v=1772725020&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/D50_5200.jpg?v=1772725020&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/85CCC075-8032-401F-AC22-F68198BE3927.jpg?v=1772725020&width=1200"
+          ]
         },
         {
           "id": "ww_chivalrous_british_racing_green",
@@ -1055,7 +1207,14 @@
           "dial": "#04421F",
           "caseColor": "#B08D57",
           "strap": "#04421F",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Gold_Green_Dial_Green_Strap_7cf4893b-43f7-4aac-891e-2537211ecf8a.png?v=1772726586&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_British_Racing_Green_FRONT_142eb017-269b-4bae-aa1d-53c5a361baef.png?v=1772726586&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_British_Racing_Green_FRONT_142eb017-269b-4bae-aa1d-53c5a361baef.png?v=1772726586&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Gold_Green_Dial_Green_Strap_7cf4893b-43f7-4aac-891e-2537211ecf8a.png?v=1772726586&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/D50_5249.jpg?v=1772726586&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/D50_5233.jpg?v=1772726586&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/D50_5238.jpg?v=1772726586&width=1200"
+          ]
         },
         {
           "id": "ww_chivalrous_chocolate",
@@ -1063,7 +1222,14 @@
           "dial": "#4A2E1E",
           "caseColor": "#C8CDD4",
           "strap": "#4A2E1E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Brown_fire_hose.png?v=1772722425&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Brown_Front.png?v=1772722188&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Brown_Front.png?v=1772722188&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Chivalrous_Brown_fire_hose.png?v=1772722425&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/61.png?v=1772722425&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/62.png?v=1772722425&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/63.png?v=1772722425&width=1200"
+          ]
         }
       ],
       "movement": "Quartz",
@@ -1090,11 +1256,13 @@
           "dial": "#A5342E",
           "caseColor": "#C8CDD4",
           "strap": "#A5342E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Red_Red.png?v=1757633137&width=1200",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Red_Blue_Strap_Front.png?v=1757633137&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Red_Red.png?v=1757633137&width=1200",
-            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/35-min.png?v=1757633137&width=1200",
-            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/36-min.png?v=1757633137&width=1200"
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Red_Blue_Strap_Front.png?v=1757633137&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Red_Yellow_Strap_Front.png?v=1757633137&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Red_Green_Strap_Front.png?v=1757633137&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Red_Purple_Strap_Front.png?v=1757633137&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Red_Racing_Green_Strap_Front.png?v=1757633137&width=1200"
           ]
         },
         {
@@ -1103,7 +1271,14 @@
           "dial": "#2C4A6E",
           "caseColor": "#C8CDD4",
           "strap": "#2C4A6E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Blue.png?v=1757634245&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Blue_red_front.png?v=1757634245&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Blue_red_front.png?v=1757634245&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Blue_yellow_front.png?v=1757634245&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Blue_green_front.png?v=1757634245&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Blue_purple_front.png?v=1757634245&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_Blue_orange_front.png?v=1757634245&width=1200"
+          ]
         },
         {
           "id": "ww_triumph_fuel_edition",
@@ -1111,7 +1286,14 @@
           "dial": "#F2F0EB",
           "caseColor": "#C8CDD4",
           "strap": "#D9A400",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_White_Yellow.png?v=1757633879&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_White_red_front.png?v=1757633879&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_White_red_front.png?v=1757633879&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_White_blue_front.png?v=1757633879&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_White_purple_front.png?v=1757633879&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_White_green_front.png?v=1757633879&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/Triumph_White_fire_hose_front.png?v=1757633879&width=1200"
+          ]
         },
         {
           "id": "ww_triumph_vintage_edition",
@@ -1119,7 +1301,14 @@
           "dial": "#C9A24B",
           "caseColor": "#B08D57",
           "strap": "#4A2E1E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/1552ED84-5FAC-4C23-B675-A407841358AF.png?v=1756991442&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/1552ED84-5FAC-4C23-B675-A407841358AF.png?v=1756991442&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/1552ED84-5FAC-4C23-B675-A407841358AF.png?v=1756991442&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/E35A8948-70EC-42DC-8692-155D44AAB564.png?v=1756991442&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/61891BBF-1634-46CF-86A3-8C5C6FB6E2AC.jpg?v=1756992422&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/FCE5EDDD-C7B2-4215-BBFD-E5A15C1AE484.jpg?v=1756992422&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/E1A0EDD8-5050-417C-957D-1241797646C9.jpg?v=1756992422&width=1200"
+          ]
         }
       ],
       "movement": "Automatic",
@@ -1151,7 +1340,9 @@
           "images": [
             "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/FearlessRedFront-min.png?v=1734108691&width=1200",
             "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/74.png?v=1721326932&width=1200",
-            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/75.png?v=1721326932&width=1200"
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/75.png?v=1721326932&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/76.png?v=1721326932&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/77.png?v=1721326932&width=1200"
           ]
         },
         {
@@ -1160,7 +1351,14 @@
           "dial": "#3B3B3D",
           "caseColor": "#2B2B2E",
           "strap": "#D2601A",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/FearlessOrangeFront-min.png?v=1683569976&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/FearlessOrangeFront-min.png?v=1683569976&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/FearlessOrangeFront-min.png?v=1683569976&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/78.png?v=1721325777&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/79.png?v=1721325777&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/80.png?v=1721325777&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/81.png?v=1721325777&width=1200"
+          ]
         },
         {
           "id": "ww_fearless_fearless_yellow",
@@ -1168,7 +1366,14 @@
           "dial": "#3B3B3D",
           "caseColor": "#2B2B2E",
           "strap": "#D9A400",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/FearlessYellowFront-min.png?v=1683570119&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/FearlessYellowFront-min.png?v=1683570119&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/FearlessYellowFront-min.png?v=1683570119&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/82.png?v=1721325560&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/83.png?v=1721325560&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/84.png?v=1721325560&width=1200",
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/85.png?v=1721325560&width=1200"
+          ]
         }
       ],
       "movement": "Automatic",
@@ -1200,7 +1405,9 @@
           "images": [
             "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICFRONTSTEELDIAL-SD.jpg?v=1700672573&width=1200",
             "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/SD-Brew-Watches-Oct-18-2022-9.jpg?v=1766005299&width=1200",
-            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/steel-dial-a-02_d87fb828-474f-4f41-820d-80df8b616b63.png?v=1782140764&width=1200"
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/steel-dial-a-02_d87fb828-474f-4f41-820d-80df8b616b63.png?v=1782140764&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICANGLESTEELDIAL-SD.jpg?v=1766005299&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICSTEELREAR-SD2_1e12acf1-318b-4480-980d-5f2f9039f954.jpg?v=1766005299&width=1200"
           ]
         },
         {
@@ -1209,7 +1416,14 @@
           "dial": "#161616",
           "caseColor": "#1C1C1E",
           "strap": "#232326",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICFRONTBLACKPVDDIAL-SD.jpg?v=1700672310&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICFRONTBLACKPVDDIAL-SD.jpg?v=1700672310&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICFRONTBLACKPVDDIAL-SD.jpg?v=1700672310&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/HK-Brew-Watches-Metric-Black-DLC-2023--SD.jpg?v=1766003045&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICANGLEPVDBLACK-SD.jpg?v=1766003045&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICBLACKREAR-SD.jpg?v=1766003045&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/products/Brew_PVD-Metric_Back_SD.jpg?v=1766003045&width=1200"
+          ]
         },
         {
           "id": "brew_metric_retro_dial",
@@ -1217,7 +1431,14 @@
           "dial": "#1A1A1A",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICFRONTRETRODIAL-SD.jpg?v=1700672505&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICFRONTRETRODIAL-SD.jpg?v=1700672505&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICFRONTRETRODIAL-SD.jpg?v=1700672505&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew-Metric-Retro-001.jpg?v=1771518727&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Retro-Dial-Metric-Wrist-Shot-A1-01.jpg?v=1771518727&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICANGLERETRODIAL-SD.jpg?v=1771518727&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICSTEELREAR-SD2.jpg?v=1771518727&width=1200"
+          ]
         },
         {
           "id": "brew_metric_gold_black",
@@ -1225,7 +1446,14 @@
           "dial": "#1A1A1A",
           "caseColor": "#C9A85C",
           "strap": "#C9A85C",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Gold-Black-A.jpg?v=1768426142&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Gold-Black-A.jpg?v=1768426142&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Gold-Black-A.jpg?v=1768426142&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREW_-_METRIC_GOLD_WRIST_SD_2.jpg?v=1768426142&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICANGLEGOLDANDBLACKDIAL-SD.jpg?v=1768426142&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRICGOLDREAR-SD.jpg?v=1768426142&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/products/Metric-Gold-Macro-SD.jpg?v=1768426142&width=1200"
+          ]
         },
         {
           "id": "brew_metric_star",
@@ -1233,7 +1461,14 @@
           "dial": "#D9BE84",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Star-Website-SD-A.jpg?v=1767632172&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/METRIC_FRONT_GOLD_RED_BLUE_Angle.jpg?v=1767632172&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/METRIC_FRONT_GOLD_RED_BLUE_Angle.jpg?v=1767632172&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Star-Website-SD-A.jpg?v=1767632172&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/METRIC-STAR-SD.jpg?v=1767632172&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/METRIC-Star-Wrist-Shots-Final-01.jpg?v=1767632172&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREW_METRIC_STEEL_REAR_-_SD.jpg?v=1767632172&width=1200"
+          ]
         },
         {
           "id": "brew_metric_teal_yellow",
@@ -1241,7 +1476,14 @@
           "dial": "#1A1A1A",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/METRICFRONTTEAL-SS_SD.jpg?v=1766516916&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/METRICFRONTTEAL-SS_SD.jpg?v=1766516916&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/METRICFRONTTEAL-SS_SD.jpg?v=1766516916&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWMETRIC-Teal-WRISTPOCKET-SD.jpg?v=1766517645&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/2025_DEC_-_BREW_METRIC_CHRONO_SILVER_TEAL_SD.jpg?v=1766517645&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Teal-Yellow-Metric-1.jpg?v=1768239028&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/METRICFRONTTEAL-SS-Angle_SD.jpg?v=1768239028&width=1200"
+          ]
         }
       ],
       "movement": "Quartz",
@@ -1254,7 +1496,8 @@
       "affiliateUrl": "https://www.brew-watches.com/products/brew-metric-silver",
       "sourceUrl": "https://www.brew-watches.com/products/brew-metric-silver",
       "description": "The Metric is Brew Watch Co.'s flagship chronograph, built around a cushion-shaped case that recalls 1970s motorsport chronographs, blending brushed and polished stainless steel 316L for contrast. It runs a Hybrid VK68 meca-quartz chronograph movement behind a sapphire crystal, in a 36mm-wide by 41.5mm lug-to-lug case rated to 5ATM (50m). It anchors Brew's lineup and is offered in the widest range of colorways of any Brew model, from mirror steel and PVD black to gold-toned and patterned dials.",
-      "releaseYear": 2023
+      "releaseYear": 2023,
+      "photoBg": "light"
     },
     {
       "id": "brew_metric_lite",
@@ -1272,7 +1515,9 @@
           "images": [
             "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-SS-Black-Dial-Front-SD.jpg?v=1749581801&width=1200",
             "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Silver_and_Black_-_Wrist-Shot-C.jpg?v=1768414712&width=1200",
-            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Silver_and_Black_-_Wrist-Shot-B.jpg?v=1768414712&width=1200"
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Silver_and_Black_-_Wrist-Shot-B.jpg?v=1768414712&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-SS-Black-Dial-Angle-SD.jpg?v=1768414712&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-SS-Rear-SD_6779291e-44f7-4cfd-b0ef-a9cf298892ed.jpg?v=1768414712&width=1200"
           ]
         },
         {
@@ -1281,7 +1526,14 @@
           "dial": "#161616",
           "caseColor": "#C9A85C",
           "strap": "#C9A85C",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Gold-Black-Front-SD-002.jpg?v=1768326712&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Gold-Black-Front-SD-002.jpg?v=1768326712&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Gold-Black-Front-SD-002.jpg?v=1768326712&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-lite-Gold-SD.jpg?v=1768326712&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Gold-Wrist-A.jpg?v=1768404297&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Gold-Black-Angle-SD.jpg?v=1768404297&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Gold-Rear-SD.jpg?v=1768404297&width=1200"
+          ]
         },
         {
           "id": "brew_metric_lite_mother_of_pearl",
@@ -1289,7 +1541,12 @@
           "dial": "#EDEDE6",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-MOP-Front-SD_c4a02026-755d-47e2-99a4-93aefe76e8b2.jpg?v=1774971657&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-MOP-Front-SD_c4a02026-755d-47e2-99a4-93aefe76e8b2.jpg?v=1774971657&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-MOP-Front-SD_c4a02026-755d-47e2-99a4-93aefe76e8b2.jpg?v=1774971657&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-MOP-Angle-SD_e5e50e7f-9d05-420b-9c2c-f165af48cf07.jpg?v=1774971657&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-SS-Rear-SD_438908f9-d26a-4d45-8ec0-c4cc25a0f421.jpg?v=1774971657&width=1200"
+          ]
         },
         {
           "id": "brew_metric_lite_tiger_eye",
@@ -1297,7 +1554,14 @@
           "dial": "#8B5A2B",
           "caseColor": "#C9A85C",
           "strap": "#C9A85C",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Tiger-Eye-Front-SD-B.jpg?v=1779121849&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Tiger-Eye-Front-SD-B.jpg?v=1779121849&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Tiger-Eye-Front-SD-B.jpg?v=1779121849&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Metric_Lite_TigerEye_Front-SD.jpg?v=1779121179&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Metric_Lite_TigerEye_3quarters-SD.jpg?v=1779121179&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Metric_Lite_TigerEye_Side-SD.jpg?v=1779121179&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Gold-Rear-SD-tiger-eye.jpg?v=1779121914&width=1200"
+          ]
         },
         {
           "id": "brew_metric_lite_tahitian_pearl",
@@ -1305,7 +1569,14 @@
           "dial": "#6FAF9A",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Tahitian-Pearl-Front-SD-003.jpg?v=1779121038&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Tahitian-Pearl-Front-SD-003.jpg?v=1779121038&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Tahitian-Pearl-Front-SD-003.jpg?v=1779121038&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Metric_Lite_TahitianPearl_Front-SD.jpg?v=1779121027&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Metric_Lite_TahitianPearl_3quarters-SD.jpg?v=1779121027&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Metric_Lite_TaihtianPearl_Side-SD.jpg?v=1779121027&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-SS-Rear-SD_6779291e-44f7-4cfd-b0ef-a9cf298892ed.jpg?v=1768414712&width=1200"
+          ]
         }
       ],
       "movement": "Automatic",
@@ -1318,7 +1589,8 @@
       "affiliateUrl": "https://www.brew-watches.com/products/metric-lite-silver-and-black",
       "sourceUrl": "https://www.brew-watches.com/products/metric-lite-silver-and-black",
       "description": "Metric Lite is Brew's most compact watch, reworking the Metric's tonneau case into a clean three-hand, 30mm-wide (34mm lug-to-lug) piece with no chronograph complication. It swaps the flagship's meca-quartz module for an automatic 6T27 movement, keeping the same sapphire crystal, stainless steel 316L case, and 5ATM (50m) water resistance. Colorways lean toward quieter, vintage-inspired dials: brushed steel, PVD gold, and gemstone finishes such as tiger's eye, mother-of-pearl, and Tahitian pearl.",
-      "releaseYear": 2025
+      "releaseYear": 2025,
+      "photoBg": "light"
     },
     {
       "id": "brew_super_metric",
@@ -1336,7 +1608,9 @@
           "images": [
             "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Electric-Blue-Super-Metric-Website-A.jpg?v=1767317656&width=1200",
             "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/2024_NOV_-_BREW_METRIC_1_WRIST_POCKET-SD.jpg?v=1767317656&width=1200",
-            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/ElectricBlue-SuperMetricWristshot-SD_05b6bd9e-96ce-4cee-a817-147877ebf53b.jpg?v=1767317656&width=1200"
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/ElectricBlue-SuperMetricWristshot-SD_05b6bd9e-96ce-4cee-a817-147877ebf53b.jpg?v=1767317656&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/ElectricBlueSuperMetricA.jpg?v=1767317656&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/SUPER-METRIC-Wrist-Shots-Final-04.jpg?v=1767399248&width=1200"
           ]
         },
         {
@@ -1345,7 +1619,14 @@
           "dial": "#1E1E1E",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Burnt-Orange-Super-Metric-Website-A.jpg?v=1767317579&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Burnt-Orange-Super-Metric-Website-A.jpg?v=1767317579&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Burnt-Orange-Super-Metric-Website-A.jpg?v=1767317579&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/2024_NOV_-_BREW_METRIC_4_WRIST_POCKET_-_SD.jpg?v=1767317579&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BurntOrange-SuperMetricWristshot-SD_8b4ef838-2a1a-4f60-ba28-cacd8258b7c3.jpg?v=1767317579&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/OrangeSDSuperMetric.jpg?v=1767317579&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/SUPER-METRIC-Wrist-Shots-Final-02.jpg?v=1767399155&width=1200"
+          ]
         },
         {
           "id": "brew_super_metric_royal_blue",
@@ -1353,7 +1634,14 @@
           "dial": "#1A1A1A",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Royal-Blue-Super-Metric-Website-A.jpg?v=1767317473&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Royal-Blue-Super-Metric-Website-A.jpg?v=1767317473&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Royal-Blue-Super-Metric-Website-A.jpg?v=1767317473&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/2024_NOV_-_BREW_METRIC_3_WRIST_POCKET-SD.jpg?v=1767317473&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/RoyalBlue-SuperMetricWristshot-SD_2de942e5-c3a4-44a3-885f-4d92b7b35b02.jpg?v=1767317473&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/RoyalBlueSuperMetricB.jpg?v=1767317473&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/SUPER-METRIC-Wrist-Shots-Final-01.jpg?v=1767399196&width=1200"
+          ]
         },
         {
           "id": "brew_super_metric_lumina_yellow",
@@ -1361,7 +1649,14 @@
           "dial": "#242424",
           "caseColor": "#C8CDD4",
           "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Lumina-Yellow-Super-Metric-Website-A.jpg?v=1767317517&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Lumina-Yellow-Super-Metric-Website-A.jpg?v=1767317517&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Lumina-Yellow-Super-Metric-Website-A.jpg?v=1767317517&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/2024_NOV_-_BREW_METRIC_2_WRIST_POCKET-SD.jpg?v=1767317517&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/LuminaYellow-SuperMetricWristshot-SD_11da969a-1b83-42d4-b378-08c855db96d7.jpg?v=1767317517&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Lumina_Yellow_SD_2.jpg?v=1767317517&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/SUPER-METRIC-Wrist-Shots-Final-03.jpg?v=1767399224&width=1200"
+          ]
         }
       ],
       "movement": "Quartz",
@@ -1374,7 +1669,8 @@
       "affiliateUrl": "https://www.brew-watches.com/products/metric-super-eletric-blue",
       "sourceUrl": "https://www.brew-watches.com/products/metric-super-eletric-blue",
       "description": "Super Metric shares the standard Metric's 36mm by 41.5mm cushion case, Hybrid VK68 meca-quartz chronograph movement, sapphire crystal, and 5ATM (50m) water resistance, but pushes the dial design further with bold color-blocked chapter rings, dual-finish subdials, and an anodized-aluminum chronograph pusher for a spot of accent color. It reads as the more graphic, motorsport-flavored sibling to the standard Metric dials. Electric Blue, Burnt Orange, Royal Blue, and Lumina Yellow give the line a higher-contrast identity within the Metric family.",
-      "releaseYear": 2024
+      "releaseYear": 2024,
+      "photoBg": "light"
     },
     {
       "id": "brew_retrograph",
@@ -1392,7 +1688,9 @@
           "images": [
             "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHFRONTESPRESSODIAL-SD.jpg?v=1700672997&width=1200",
             "https://cdn.shopify.com/s/files/1/0565/5029/3573/products/Rose-Gold-Brew-002.jpg?v=1766001432&width=1200",
-            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHANGLEESPRESSODIAL-SD.jpg?v=1766001432&width=1200"
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHANGLEESPRESSODIAL-SD.jpg?v=1766001432&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHANGLEDOWNESPRESSODIAL-SD.jpg?v=1766001432&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHBACK-ESPRESSOBROWNLEATHER-SD.jpg?v=1766001432&width=1200"
           ]
         },
         {
@@ -1401,7 +1699,14 @@
           "dial": "#1F3A5F",
           "caseColor": "#C8CDD4",
           "strap": "#1F3350",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREW_RETROGRAPH_FRONT_TECHNICOLOR_DIAL_-_SD-002.jpg?v=1771984784&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREW_RETROGRAPH_FRONT_TECHNICOLOR_DIAL_-_SD-002.jpg?v=1771984784&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREW_RETROGRAPH_FRONT_TECHNICOLOR_DIAL_-_SD-002.jpg?v=1771984784&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREW_-_RETROGRAPH_TECHNICOLOR_2-SD.jpg?v=1771984784&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHANGLETECHNICOLORDIAL-SD.jpg?v=1771984784&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHANGLEDOWNTECHNICOLORDIAL-SD.jpg?v=1771984784&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHBACK-BLUENAVYLEATHER-SD.jpg?v=1771984784&width=1200"
+          ]
         },
         {
           "id": "brew_retrograph_cobalt",
@@ -1409,7 +1714,14 @@
           "dial": "#2C5B8C",
           "caseColor": "#C8CDD4",
           "strap": "#1A1A1A",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Cobalt-Retrograph-A000.jpg?v=1773328391&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Cobalt-Retrograph-A000.jpg?v=1773328391&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Cobalt-Retrograph-A000.jpg?v=1773328391&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/products/BREW_-_COBALT_RETRO_28WRIST_1_29_28SD_29.jpg?v=1773328391&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREW-COBALTRETRO_CREATIVE_SD.jpg?v=1773328391&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHANGLECOBALTDIAL-SD.jpg?v=1773328391&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHBACK-BLACKLEATHER-SD_0d378147-a50b-46e2-b3e0-3f083d70f4b1.jpg?v=1773328391&width=1200"
+          ]
         },
         {
           "id": "brew_retrograph_lumint",
@@ -1417,7 +1729,14 @@
           "dial": "#D9E4C8",
           "caseColor": "#C8CDD4",
           "strap": "#1A1A1A",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Lumint-Front-1.jpg?v=1724084274&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Lumint-Front-1.jpg?v=1724084274&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Lumint-Front-1.jpg?v=1724084274&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Lumint_-_Front_870e3bad-d053-4f78-a256-26501f7a86ef.png?v=1724084327&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Luminescent_Layflat_SQ.jpg?v=1766003445&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Lumint-Angle-2.jpg?v=1766003445&width=1200",
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/BREWRETROGRAPHBACK-BLACKLEATHER-SD_95fcf069-f132-444f-8588-565d20b90153.jpg?v=1766003445&width=1200"
+          ]
         }
       ],
       "movement": "Quartz",
@@ -1430,7 +1749,8 @@
       "affiliateUrl": "https://www.brew-watches.com/products/retrograph-brew-rosegold-espresso-chocolate",
       "sourceUrl": "https://www.brew-watches.com/products/retrograph-brew-rosegold-espresso-chocolate",
       "description": "The Retrograph is Brew's most literal expression of its coffee-culture identity: Brew built its 38mm by 41.5mm meca-quartz chronograph specifically as a utilitarian, retro timing device whose 60-minute totalizer tracks a 25-35 second espresso shot, alongside other timed durations. The lead Espresso colorway pairs a rosegold PVD-plated stainless steel case with a chocolate-espresso sunburst dial and brown leather strap; sapphire crystal and 5ATM (50m) water resistance carry across the line.",
-      "releaseYear": 2023
+      "releaseYear": 2023,
+      "photoBg": "light"
     },
     {
       "id": "hp_totem_cipher",
@@ -1872,7 +2192,9 @@
           "images": [
             "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-44vero-watch-company-908742.png?v=1771559580&width=1200",
             "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-44-preordervero-watch-company-835804.webp?v=1773170059&width=1200",
-            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-44vero-watch-company-604001.webp?v=1773170059&width=1200"
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-44vero-watch-company-604001.webp?v=1773170059&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-44vero-watch-company-862901.png?v=1773170059&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-44vero-watch-company-190538.png?v=1773170059&width=1200"
           ]
         },
         {
@@ -1881,7 +2203,14 @@
           "dial": "#2E2620",
           "caseColor": "#C8CDD4",
           "strap": "#B9793E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-64vero-watch-company-561686.png?v=1773772181&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-64vero-watch-company-561686.png?v=1773772181&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-64vero-watch-company-561686.png?v=1773772181&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-64vero-watch-company-582923.webp?v=1737155629&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-64vero-watch-company-928068.png?v=1737155629&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-64vero-watch-company-550061.webp?v=1737155629&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-64vero-watch-company-991040.webp?v=1737155629&width=1200"
+          ]
         },
         {
           "id": "vero_smokey_bear_watch_80th_anniversary_forest_green",
@@ -1889,7 +2218,14 @@
           "dial": "#1E4630",
           "caseColor": "#8A6642",
           "strap": "#B9793E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-80th-anniversary-edition-watch-forest-greenvero-watch-company-502063.png?v=1767659521&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/Vero_SmokeyBearWatch80th_flatfront_leatherstrap_greendial.png?v=1770685360&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/Vero_SmokeyBearWatch80th_flatfront_leatherstrap_greendial.png?v=1770685360&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/Vero_SmokeyBearWatch80th_flatfront_blackstrap_greendial.png?v=1770685360&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-80th-anniversary-edition-watch-forest-greenvero-watch-company-502063.png?v=1767659521&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-80th-anniversary-edition-green-dialvero-watch-company-138669.jpg?v=1737143328&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/Smokey80th-patina.gif?v=1770685360&width=1200"
+          ]
         },
         {
           "id": "vero_smokey_bear_watch_80th_anniversary_brilliant_blue",
@@ -1897,7 +2233,14 @@
           "dial": "#1B3A63",
           "caseColor": "#8A6642",
           "strap": "#B9793E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-80th-anniversary-edition-watch-brilliant-bluevero-watch-company-221272.png?v=1749846732&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/Vero_SmokeyBearWatch80th_flatfront_leatherstrap_bluedial.png?v=1737143283&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/Vero_SmokeyBearWatch80th_flatfront_leatherstrap_bluedial.png?v=1737143283&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/Vero_SmokeyBearWatch80th_flatfront_blackstrap_bluedial.png?v=1737143283&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-80th-anniversary-edition-watch-brilliant-bluevero-watch-company-221272.png?v=1749846732&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-80th-anniversary-edition-watch-brilliant-bluevero-watch-company-430461.jpg?v=1737143283&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-80th-anniversary-edition-watch-brilliant-bluevero-watch-company-731120.png?v=1737165219&width=1200"
+          ]
         },
         {
           "id": "vero_smokey_bear_watch_campfire_edition",
@@ -1905,7 +2248,14 @@
           "dial": "#3A3632",
           "caseColor": "#4B4B4E",
           "strap": "#C08A4E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-campfire-edition-early-accessvero-watch-company-6772005.png?v=1753501393&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-campfire-edition-early-accessvero-watch-company-6772005.png?v=1753501393&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-campfire-edition-early-accessvero-watch-company-6772005.png?v=1753501393&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-campfire-edition-early-accessvero-watch-company-2756500.jpg?v=1753501393&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-campfire-edition-early-accessvero-watch-company-1726664.jpg?v=1753501393&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-campfire-edition-early-accessvero-watch-company-4920900.png?v=1756239487&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-campfire-edition-early-accessvero-watch-company-8483552.png?v=1756239487&width=1200"
+          ]
         },
         {
           "id": "vero_smokey_bear_watch_blue_skies_edition",
@@ -1913,7 +2263,14 @@
           "dial": "#1F4E79",
           "caseColor": "#2E5D8A",
           "strap": "#B9793E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-blue-skies-editionvero-watch-company-4442319.png?v=1781651235&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-blue-skies-editionvero-watch-company-4442319.png?v=1781651235&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-blue-skies-editionvero-watch-company-4442319.png?v=1781651235&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-blue-skies-editionvero-watch-company-5663009.png?v=1781651237&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-blue-skies-editionvero-watch-company-8293997.jpg?v=1781651236&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-blue-skies-editionvero-watch-company-9179415.jpg?v=1781651236&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/the-smokey-bear-blue-skies-editionvero-watch-company-6909779.jpg?v=1781651236&width=1200"
+          ]
         }
       ],
       "movement": "Automatic",
@@ -1945,7 +2302,9 @@
           "images": [
             "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-backcountryvero-watch-company-1396942.png?v=1781899813&width=1200",
             "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-backcountryvero-watch-company-934380.webp?v=1740811201&width=1200",
-            "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-backcountryvero-watch-company-975230.png?v=1780352968&width=1200"
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-backcountryvero-watch-company-975230.png?v=1780352968&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-backcountryvero-watch-company-550291.webp?v=1740811201&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-backcountryvero-watch-company-776199.png?v=1780353002&width=1200"
           ]
         },
         {
@@ -1954,7 +2313,14 @@
           "dial": "#17181A",
           "caseColor": "#C2A878",
           "strap": "#D9C9A3",
-          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-canyonvero-watch-company-4474586.png?v=1781899813&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-canyonvero-watch-company-4474586.png?v=1781899813&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-canyonvero-watch-company-4474586.png?v=1781899813&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-canyonvero-watch-company-139390.webp?v=1740811201&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-canyonvero-watch-company-905218.png?v=1740811201&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-canyonvero-watch-company-734878.webp?v=1740811201&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/workhorse-canyonvero-watch-company-329749.png?v=1740811201&width=1200"
+          ]
         },
         {
           "id": "vero_workhorse_chrono_scout_motors_terra_cotta",
@@ -1962,7 +2328,14 @@
           "dial": "#17181A",
           "caseColor": "#C1552C",
           "strap": "#D9622B",
-          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/Vero_Scout_orange_hero_web.png?v=1764626435&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/Vero_Scout_orange_hero_web.png?v=1764626435&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/Vero_Scout_orange_hero_web.png?v=1764626435&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-scout-motors-terra-cotta-workhorsevero-watch-company-9789779.png?v=1764747010&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/Vero_Scout_orange_Flat1_web.png?v=1764733715&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-scout-motors-terra-cotta-workhorsevero-watch-company-9559526.png?v=1764733715&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-scout-motors-terra-cotta-workhorsevero-watch-company-8519397.png?v=1764733715&width=1200"
+          ]
         },
         {
           "id": "vero_workhorse_chrono_scout_motors_moonstone_blue",
@@ -1970,7 +2343,14 @@
           "dial": "#17233A",
           "caseColor": "#1D3A5F",
           "strap": "#22406B",
-          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-scout-motors-moonstone-blue-workhorsevero-watch-company-5574431.png?v=1781899806&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-scout-motors-moonstone-blue-workhorsevero-watch-company-5574431.png?v=1781899806&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-scout-motors-moonstone-blue-workhorsevero-watch-company-5574431.png?v=1781899806&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-scout-motors-traveler-blue-workhorsevero-watch-company-8979267.jpg?v=1763749915&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/le-vero-x-scout-traveler-blue-workhorsevero-watch-company-1464341.png?v=1763662251&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/le-vero-x-scout-traveler-blue-workhorsevero-watch-company-5679771.jpg?v=1763662251&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/le-vero-x-scout-traveler-blue-workhorsevero-watch-company-5352837.jpg?v=1763662251&width=1200"
+          ]
         }
       ],
       "movement": "Quartz",
@@ -2001,7 +2381,9 @@
           "images": [
             "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-outpost-black-tide-trackervero-watch-company-1625586.png?v=1776712756&width=1200",
             "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-tide-tracker-outpost-black-early-accessvero-watch-company-5162549.jpg?v=1757943814&width=1200",
-            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-outpost-black-tide-trackervero-watch-company-2064543.jpg?v=1758047554&width=1200"
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-outpost-black-tide-trackervero-watch-company-2064543.jpg?v=1758047554&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-outpost-black-tide-trackervero-watch-company-5255474.jpg?v=1776269814&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-outpost-black-tide-trackervero-watch-company-4939543.png?v=1758047554&width=1200"
           ]
         },
         {
@@ -2010,7 +2392,14 @@
           "dial": "#1B3A5C",
           "caseColor": "#C8CDD4",
           "strap": "#7FA8C9",
-          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-compass-blue-tide-trackervero-watch-company-5837436.png?v=1776712735&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-compass-blue-tide-trackervero-watch-company-5837436.png?v=1776712735&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-compass-blue-tide-trackervero-watch-company-5837436.png?v=1776712735&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-tide-tracker-compass-blue-early-accessvero-watch-company-2779814.jpg?v=1757943814&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-compass-blue-tide-trackervero-watch-company-1456315.jpg?v=1758047505&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-compass-blue-tide-trackervero-watch-company-6023504.jpg?v=1758047505&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-compass-blue-tide-trackervero-watch-company-7356462.png?v=1758047505&width=1200"
+          ]
         },
         {
           "id": "vero_realtree_tide_tracker_midnight_edition",
@@ -2018,7 +2407,14 @@
           "dial": "#1A1A1A",
           "caseColor": "#2A2A2A",
           "strap": "#4A4A48",
-          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-tide-tracker-midnight-blackvero-watch-company-2095844.png?v=1774028535&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-tide-tracker-midnight-blackvero-watch-company-2095844.png?v=1774028535&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-tide-tracker-midnight-blackvero-watch-company-2095844.png?v=1774028535&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-tide-tracker-midnight-blackvero-watch-company-3913766.jpg?v=1774028535&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-tide-tracker-midnight-blackvero-watch-company-9650685.png?v=1774028536&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-tide-tracker-midnight-blackvero-watch-company-1440700.png?v=1774028536&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/realtree-tide-tracker-midnight-blackvero-watch-company-1603527.png?v=1774028536&width=1200"
+          ]
         }
       ],
       "movement": "Automatic",
@@ -2050,7 +2446,9 @@
           "images": [
             "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-818871.png?v=1745559836&width=1200",
             "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-154570.png?v=1748158788&width=1200",
-            "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-914782.jpg?v=1746637059&width=1200"
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-914782.jpg?v=1746637059&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-246227.jpg?v=1746637059&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-655189.png?v=1748158789&width=1200"
           ]
         },
         {
@@ -2059,7 +2457,14 @@
           "dial": "#101010",
           "caseColor": "#1E1E1E",
           "strap": "#B98A56",
-          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-122082.png?v=1746637059&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-818871.png?v=1745559836&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-818871.png?v=1745559836&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-154570.png?v=1748158788&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-914782.jpg?v=1746637059&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-246227.jpg?v=1746637059&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/limited-edition-one-moto-solarvero-watch-company-655189.png?v=1748158789&width=1200"
+          ]
         }
       ],
       "movement": "Solar",
@@ -2091,7 +2496,9 @@
           "images": [
             "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-bronze-preordervero-watch-company-671369.png?v=1729858021&width=1200",
             "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-studio-edition-bronzevero-watch-company-477457.jpg?v=1744979807&width=1200",
-            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-studio-edition-bronzevero-watch-company-269048.jpg?v=1744979807&width=1200"
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-studio-edition-bronzevero-watch-company-269048.jpg?v=1744979807&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-studio-edition-bronzevero-watch-company-330036.jpg?v=1744979807&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-studio-edition-bronzevero-watch-company-817577.jpg?v=1744979808&width=1200"
           ]
         },
         {
@@ -2100,7 +2507,14 @@
           "dial": "#D8D9DB",
           "caseColor": "#C8CDD4",
           "strap": "#A9702E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-stainless-steel-preordervero-watch-company-164000.png?v=1729858028&width=1200"
+          "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-stainless-steel-preordervero-watch-company-164000.png?v=1729858028&width=1200",
+          "images": [
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-stainless-steel-preordervero-watch-company-164000.png?v=1729858028&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-studio-edition-steelvero-watch-company-399847.jpg?v=1744979807&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-studio-edition-steelvero-watch-company-462675.jpg?v=1744979807&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-studio-edition-steelvero-watch-company-311697.jpg?v=1744979807&width=1200",
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/vero-x-wildwood-studio-edition-steelvero-watch-company-389270.jpg?v=1744979808&width=1200"
+          ]
         }
       ],
       "movement": "Automatic",
