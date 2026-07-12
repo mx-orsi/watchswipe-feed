@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
-  "edition": 8,
-  "publishedAt": 1783752153569,
+  "edition": 9,
+  "publishedAt": 1783896399474,
   "stories": [
     {
       "id": "n_four_more_arrivals",
@@ -328,7 +328,7 @@
           "dial": "#8ED14E",
           "caseColor": "#C8CDD4",
           "strap": "#2E2A26",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01WMB_Product_Card_30492dce-8e73-4dc8-a5af-5fc46d6f72a9.png?v=1783351280&width=1200"
+          "imageUri": "https://mx-orsi.github.io/watchswipe-feed/assets/su/01wmb.jpg"
         },
         {
           "id": "su_01series_gen3_desert_sky",
@@ -336,7 +336,7 @@
           "dial": "#4FAADC",
           "caseColor": "#C8CDD4",
           "strap": "#A8916F",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01DST_Product_Card_c649bb0e-9fe2-47ab-8c79-55e7cd6ce295.png?v=1783351280&width=1200"
+          "imageUri": "https://mx-orsi.github.io/watchswipe-feed/assets/su/01dst.jpg"
         },
         {
           "id": "su_01series_gen3_go0fy_panda",
@@ -344,7 +344,7 @@
           "dial": "#E5E1D6",
           "caseColor": "#C8CDD4",
           "strap": "#2E2A26",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01GPB_Product_Card.png?v=1783351280&width=1200"
+          "imageUri": "https://mx-orsi.github.io/watchswipe-feed/assets/su/01gpb.jpg"
         },
         {
           "id": "su_01series_gen3_mint_ch0c_chip",
@@ -352,7 +352,7 @@
           "dial": "#A3E4B0",
           "caseColor": "#C8CDD4",
           "strap": "#4A2E1E",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/01MCBR_Product_Card_52168231-a0b0-4495-9049-ce5e2e103119.png?v=1783351280&width=1200"
+          "imageUri": "https://mx-orsi.github.io/watchswipe-feed/assets/su/01mcbr.jpg"
         }
       ],
       "movement": "Manual",
