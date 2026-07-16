@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
-  "edition": 14,
-  "publishedAt": 1784010700188,
+  "edition": 15,
+  "publishedAt": 1784140200000,
   "stories": [
     {
       "id": "n_four_more_arrivals",
@@ -351,13 +351,13 @@
           "dial": "#C9B187",
           "caseColor": "#C6CBD1",
           "strap": "#8A7D63",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-2.jpg?width=1200",
+          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-31.jpg?width=1200",
           "images": [
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-31.jpg?width=1200",
             "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-2.jpg?width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-42.jpg?width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-20.jpg?width=1200"
+            "https://cdn.shopify.com/s/files/1/0295/6525/files/AB_TerraScout-42.jpg?width=1200"
           ],
-          "panelColor": "#19171A"
+          "panelColor": "#3E2813"
         },
         {
           "id": "ab_ts_black",
@@ -1844,13 +1844,13 @@
           "dial": "#F2F0E8",
           "caseColor": "#C8CDD4",
           "strap": "#1A1A1A",
-          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/01/TOTEM-CIPHER_06.jpg",
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/01/TOTEM-CIPHER_08.jpg",
           "images": [
+            "https://www.horapictor.com/wp-content/uploads/2026/01/TOTEM-CIPHER_08.jpg",
             "https://www.horapictor.com/wp-content/uploads/2026/01/TOTEM-CIPHER_06.jpg",
-            "https://www.horapictor.com/wp-content/uploads/2025/02/Totem-Cipher-2.jpg",
             "https://www.horapictor.com/wp-content/uploads/2025/02/Totem-Cipher-2.jpg"
           ],
-          "panelColor": "#292119"
+          "panelColor": "#593C2D"
         }
       ],
       "movement": "Automatic",
@@ -1896,8 +1896,11 @@
           "dial": "#5B1F49",
           "caseColor": "#C8CDD4",
           "strap": "#1A1A1A",
-          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/01/Twilight-Violet-Origin-03.jpg",
-          "panelColor": "#835542"
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2024/11/Twilight-Violet-6.png",
+          "images": [
+            "https://www.horapictor.com/wp-content/uploads/2024/11/Twilight-Violet-6.png",
+            "https://www.horapictor.com/wp-content/uploads/2026/01/Twilight-Violet-Origin-03.jpg"
+          ]
         },
         {
           "id": "hp_volcano_grey_sunlit_wheat",
@@ -1905,8 +1908,11 @@
           "dial": "#D8A63D",
           "caseColor": "#C8CDD4",
           "strap": "#1A1A1A",
-          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/01/Sunlit-Wheat-Origin-01.jpg",
-          "panelColor": "#242429"
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2024/11/Sunlit-Wheat%EF%BC%88Black-Single-Layer-Strap%EF%BC%89-2.png",
+          "images": [
+            "https://www.horapictor.com/wp-content/uploads/2024/11/Sunlit-Wheat%EF%BC%88Black-Single-Layer-Strap%EF%BC%89-2.png",
+            "https://www.horapictor.com/wp-content/uploads/2026/01/Sunlit-Wheat-Origin-01.jpg"
+          ]
         },
         {
           "id": "hp_volcano_grey_starshine_ocean",
@@ -1914,8 +1920,11 @@
           "dial": "#1D3F7A",
           "caseColor": "#C8CDD4",
           "strap": "#1A1A1A",
-          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/01/Starshine-Ocean-Origin-04.jpg",
-          "panelColor": "#242428"
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2024/11/Starshine-Ocean-1.png",
+          "images": [
+            "https://www.horapictor.com/wp-content/uploads/2024/11/Starshine-Ocean-1.png",
+            "https://www.horapictor.com/wp-content/uploads/2026/01/Starshine-Ocean-Origin-04.jpg"
+          ]
         }
       ],
       "movement": "Automatic",
@@ -1948,13 +1957,13 @@
           "dial": "#EDA83A",
           "caseColor": "#C8CDD4",
           "strap": "#1A1A1A",
-          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/01/Track-Compass-Yellow-Track-04.jpg",
+          "imageUri": "https://www.horapictor.com/wp-content/uploads/2026/03/yellow-track.jpg",
           "images": [
-            "https://www.horapictor.com/wp-content/uploads/2026/01/Track-Compass-Yellow-Track-04.jpg",
             "https://www.horapictor.com/wp-content/uploads/2026/03/yellow-track.jpg",
+            "https://www.horapictor.com/wp-content/uploads/2026/01/Track-Compass-Yellow-Track-04.jpg",
             "https://www.horapictor.com/wp-content/uploads/2026/03/yellow-track7.jpg"
           ],
-          "panelColor": "#221F19"
+          "panelColor": "#614734"
         },
         {
           "id": "hp_track_compass_galaxy",
