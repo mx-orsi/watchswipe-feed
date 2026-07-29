@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
-  "edition": 18,
-  "publishedAt": 1784889659224,
+  "edition": 19,
+  "publishedAt": 1785285514600,
   "stories": [
     {
       "id": "n_edition17_depth",
@@ -3871,58 +3871,6 @@
       "releaseYear": 2017
     },
     {
-      "id": "bal_hms_001",
-      "brand": "Baltic",
-      "model": "HMS 001",
-      "caseSizeMm": 38,
-      "colorways": [
-        {
-          "id": "bal_hms_001_cream",
-          "name": "Cream",
-          "dial": "#EDE4CF",
-          "caseColor": "#D6DADD",
-          "strap": "#6B4423"
-        },
-        {
-          "id": "bal_hms_001_black_gilt",
-          "name": "Black Gilt",
-          "dial": "#1C1C1E",
-          "caseColor": "#D6DADD",
-          "strap": "#17181A"
-        },
-        {
-          "id": "bal_hms_001_black_silver",
-          "name": "Black Silver",
-          "dial": "#1C1C1E",
-          "caseColor": "#D6DADD",
-          "strap": "#17181A"
-        },
-        {
-          "id": "bal_hms_001_blue_gilt",
-          "name": "Blue Gilt",
-          "dial": "#1B3050",
-          "caseColor": "#D6DADD",
-          "strap": "#6B4423"
-        }
-      ],
-      "movement": "Automatic",
-      "category": "Dress",
-      "caseMaterial": "316L stainless steel",
-      "crystal": "Dome-shaped acrylic (hesalite)",
-      "powerReserveHours": 42,
-      "caliber": "Miyota 821A",
-      "lugToLugMm": 47,
-      "lugWidthMm": 20,
-      "complications": [
-        "none"
-      ],
-      "priceCents": 39900,
-      "currency": "USD",
-      "sourceUrl": "https://baltic-watches.com/en/archives/hms-001",
-      "description": "Discontinued (2017). One of Baltic's two founding models from its 2017 Kickstarter launch: a 38mm stepped stainless steel step-case with a clean three-hand dial, railroad-track minute ring, and four applied hour markers evoking 1940s time-only watches. Powered by the automatic Miyota 821A with a 42-hour power reserve under a domed hesalite crystal. Sold out within its debut year and superseded by the HMS 002 generation.",
-      "releaseYear": 2017
-    },
-    {
       "id": "bal_tricompax",
       "brand": "Baltic",
       "model": "Tricompax",
@@ -4048,20 +3996,6 @@
           "strap": "#C4CBD1",
           "imageUri": "https://static.wixstatic.com/media/ee575c_dde0ba4a7bfb482e87e9ae144f900541~mv2.jpg/v1/fill/w_588,h_546,q_90,enc_avif,quality_auto/ee575c_dde0ba4a7bfb482e87e9ae144f900541~mv2.jpg",
           "panelColor": "#130803"
-        },
-        {
-          "id": "clem_photic_diver_black_gilt",
-          "name": "Black Gilt",
-          "dial": "#15161A",
-          "caseColor": "#C8CDD4",
-          "strap": "#1C1C1E"
-        },
-        {
-          "id": "clem_photic_diver_blue",
-          "name": "Blue",
-          "dial": "#1D4E68",
-          "caseColor": "#C8CDD4",
-          "strap": "#1C1C1E"
         }
       ],
       "movement": "Automatic",
@@ -4184,13 +4118,6 @@
           ]
         },
         {
-          "id": "vero_ow41_crown_point",
-          "name": "Crown Point",
-          "dial": "#1E3350",
-          "caseColor": "#2A2A2C",
-          "strap": "#8B8D91"
-        },
-        {
           "id": "vero_ow41_ridge_trail",
           "name": "Ridge Trail",
           "dial": "#7DC79A",
@@ -4281,13 +4208,6 @@
           "images": [
             "https://vero-watch.com/cdn/shop/files/sw-q-silver-falls-sunburstvero-watch-company-339340.png"
           ]
-        },
-        {
-          "id": "vero_swq_black",
-          "name": "Cobble Beach Black",
-          "dial": "#141414",
-          "caseColor": "#1C1C1E",
-          "strap": "#1C1C1E"
         },
         {
           "id": "vero_swq_turquoise",
@@ -4428,242 +4348,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "brew_special_blend",
-      "brand": "Brew",
-      "model": "Special Blend",
-      "caseSizeMm": 44,
-      "colorways": [
-        {
-          "id": "brew_sb_steel_cream",
-          "name": "Steel · Cream Dial",
-          "dial": "#F0E6D2",
-          "caseColor": "#C8CDD4",
-          "strap": "#6B4A34"
-        },
-        {
-          "id": "brew_sb_rosegold_black",
-          "name": "Rose Gold PVD · Black Dial",
-          "dial": "#1A1A1A",
-          "caseColor": "#C08552",
-          "strap": "#1C1C1C"
-        },
-        {
-          "id": "brew_sb_black_black",
-          "name": "Black PVD · Black Dial",
-          "dial": "#1A1A1A",
-          "caseColor": "#2A2A2C",
-          "strap": "#1C1C1C"
-        }
-      ],
-      "releaseYear": 2015,
-      "movement": "Quartz",
-      "category": "Chronograph",
-      "caseMaterial": "Stainless steel (steel, rose gold PVD, or black PVD)",
-      "waterResistance": "5 ATM / 50m",
-      "crystal": "Sapphire, anti-reflective coating",
-      "caliber": "Ronda quartz chronograph",
-      "lugWidthMm": 22,
-      "complications": [
-        "chronograph",
-        "date"
-      ],
-      "priceCents": 27500,
-      "currency": "USD",
-      "sourceUrl": "https://www.brew-watches.com/collections/watches",
-      "description": "Discontinued (2015). Brew Watch Co.'s debut model, funded through a 2015 Kickstarter campaign that launched the coffee-inspired brand. The 44mm lugless case houses a Ronda quartz chronograph with subdials at 12 and 6 o'clock and a date window at 3. Offered in brushed steel with a cream dial, or PVD-coated rose gold and black cases with black dials, all with rose-gold-accented crowns and pushers."
-    },
-    {
-      "id": "brew_hp1",
-      "brand": "Brew",
-      "model": "HP-1",
-      "caseSizeMm": 38,
-      "colorways": [
-        {
-          "id": "brew_hp1_proto",
-          "name": "Proto · Steel",
-          "dial": "#E9E7E2",
-          "caseColor": "#C8CDD4",
-          "strap": "#C8CDD4"
-        },
-        {
-          "id": "brew_hp1_darkbrew",
-          "name": "Darkbrew · PVD Black",
-          "dial": "#1A1A1A",
-          "caseColor": "#2A2A2C",
-          "strap": "#2A2A2C"
-        },
-        {
-          "id": "brew_hp1_joy",
-          "name": "Joy · Rose Gold PVD",
-          "dial": "#4A2E23",
-          "caseColor": "#C08552",
-          "strap": "#C08552"
-        },
-        {
-          "id": "brew_hp1_blue",
-          "name": "Blue",
-          "dial": "#1F4E79",
-          "caseColor": "#C8CDD4",
-          "strap": "#C8CDD4"
-        }
-      ],
-      "releaseYear": 2016,
-      "movement": "Automatic",
-      "category": "Vintage",
-      "caseMaterial": "316L stainless steel",
-      "waterResistance": "100m",
-      "crystal": "Sapphire, domed",
-      "caliber": "Seiko NH35A",
-      "powerReserveHours": 41,
-      "lugToLugMm": 47.5,
-      "lugWidthMm": 20,
-      "complications": [
-        "date"
-      ],
-      "priceCents": 49500,
-      "currency": "USD",
-      "sourceUrl": "https://www.brew-watches.com/collections/watches",
-      "description": "Discontinued (2016). Brew's first automatic watch: a 38mm square-cased three-hander with a domed sapphire crystal and a dial styled after industrial pressure gauges from vintage espresso machines. Runs a Seiko NH35A automatic movement, visible through an open-heart display caseback, rated to 100m water resistance. Released in Proto (steel), Darkbrew (black PVD), Joy (rose gold PVD), and Blue dial colorways."
-    },
-    {
-      "id": "brew_mastergraph",
-      "brand": "Brew",
-      "model": "Mastergraph",
-      "caseSizeMm": 38,
-      "colorways": [
-        {
-          "id": "brew_mg_steel",
-          "name": "Steel · Panda",
-          "dial": "#E8E4DC",
-          "caseColor": "#C8CDD4",
-          "strap": "#1C1C1C"
-        },
-        {
-          "id": "brew_mg_universal",
-          "name": "Universal · All Black",
-          "dial": "#1A1A1A",
-          "caseColor": "#C8CDD4",
-          "strap": "#1C1C1C"
-        },
-        {
-          "id": "brew_mg_copper",
-          "name": "Copper",
-          "dial": "#B87333",
-          "caseColor": "#C8CDD4",
-          "strap": "#6B4226"
-        }
-      ],
-      "releaseYear": 2019,
-      "movement": "Quartz",
-      "category": "Chronograph",
-      "caseMaterial": "316L stainless steel",
-      "waterResistance": "50m",
-      "crystal": "Sapphire, domed",
-      "caliber": "Seiko VK68 meca-quartz",
-      "lugToLugMm": 41.5,
-      "lugWidthMm": 22,
-      "complications": [
-        "chronograph",
-        "24h"
-      ],
-      "priceCents": 37500,
-      "currency": "USD",
-      "sourceUrl": "https://www.brew-watches.com/collections/watches",
-      "description": "Discontinued (2019). Brew's first triple-register chronograph, pairing a 38mm steel cushion case with a 120-click unidirectional bezel marked for timing espresso extraction. Runs a Seiko VK68 meca-quartz movement with a sweeping chronograph hand and a 24-hour AM/PM indicator, rated to 50m water resistance. Offered in Steel (panda), Universal (all-black), and Copper dial colorways."
-    },
-    {
-      "id": "brew_retromatic",
-      "brand": "Brew",
-      "model": "Retromatic",
-      "caseSizeMm": 36,
-      "colorways": [
-        {
-          "id": "brew_rm_black",
-          "name": "Black",
-          "dial": "#1A1A1A",
-          "caseColor": "#C8CDD4",
-          "strap": "#C8CDD4"
-        },
-        {
-          "id": "brew_rm_blue",
-          "name": "Blue",
-          "dial": "#1F3F63",
-          "caseColor": "#C8CDD4",
-          "strap": "#C8CDD4"
-        },
-        {
-          "id": "brew_rm_green",
-          "name": "Green",
-          "dial": "#3B5240",
-          "caseColor": "#C8CDD4",
-          "strap": "#C8CDD4"
-        },
-        {
-          "id": "brew_rm_burgundy",
-          "name": "Burgundy",
-          "dial": "#6B1F2A",
-          "caseColor": "#C8CDD4",
-          "strap": "#C8CDD4"
-        },
-        {
-          "id": "brew_rm_salmon",
-          "name": "Salmon",
-          "dial": "#E0A98B",
-          "caseColor": "#C08552",
-          "strap": "#C08552"
-        }
-      ],
-      "releaseYear": 2020,
-      "movement": "Automatic",
-      "category": "Vintage",
-      "caseMaterial": "316L stainless steel",
-      "waterResistance": "50m",
-      "crystal": "Sapphire",
-      "caliber": "Sellita SW200-1 (black/blue) or Seiko NH35A (green/burgundy/salmon)",
-      "lugToLugMm": 39.5,
-      "lugWidthMm": 20,
-      "complications": [
-        "date"
-      ],
-      "priceCents": 42500,
-      "currency": "USD",
-      "sourceUrl": "https://www.brew-watches.com/collections/watches",
-      "description": "Discontinued (2020). A 1960s-inspired 36mm three-hand automatic with a perforated, sandwich dial textured after an espresso machine's drain grate, rated to 50m water resistance. Black and blue dials ran a Sellita SW200-1 with a full exhibition caseback ($495); green, burgundy, and salmon dials used a Seiko NH35A with a smaller display window ($425). Fitted with a quick-release stainless bracelet."
-    },
-    {
-      "id": "brew_8bit",
-      "brand": "Brew",
-      "model": "8-Bit",
-      "caseSizeMm": 38,
-      "colorways": [
-        {
-          "id": "brew_8bit_v1_arcade",
-          "name": "Arcade Black · Teal Strap",
-          "dial": "#1A1A1A",
-          "caseColor": "#C8CDD4",
-          "strap": "#1B7A72"
-        }
-      ],
-      "releaseYear": 2021,
-      "movement": "Quartz",
-      "category": "Chronograph",
-      "caseMaterial": "316L stainless steel",
-      "waterResistance": "50m",
-      "crystal": "Sapphire",
-      "caliber": "Seiko VK64 meca-quartz",
-      "lugToLugMm": 41.5,
-      "lugWidthMm": 22,
-      "complications": [
-        "chronograph",
-        "date",
-        "24h"
-      ],
-      "priceCents": 39500,
-      "currency": "USD",
-      "sourceUrl": "https://www.brew-watches.com/collections/watches",
-      "description": "Discontinued (2021). An arcade-themed 38mm cushion-case chronograph with pixelated hands and markers, plus a pixel-art steaming coffee mug at 6 o'clock above the date window. Runs a Seiko VK64 meca-quartz movement with a pixelated sun/moon 24-hour indicator, rated to 50m water resistance, on a quick-release teal leather strap. The caseback reads 'Press Start' and 'Press Reset' beside the chronograph pushers."
     },
     {
       "id": "brew_8bit_v2",
@@ -4889,13 +4573,6 @@
             "https://astorandbanks.com/cdn/shop/products/IMG_9713.JPG"
           ],
           "panelColor": "#ffffff"
-        },
-        {
-          "id": "ab_1405_blue",
-          "name": "Blue",
-          "dial": "#1C3A5C",
-          "caseColor": "#C9CDD3",
-          "strap": "#B08A5D"
         }
       ],
       "movement": "Manual",
@@ -5333,45 +5010,6 @@
       "currency": "USD",
       "sourceUrl": "https://williamwoodwatches.com/en-us/collections/allwatches",
       "description": "Discontinued. A 41mm 316L steel dive watch inspired by the Great Fire of London of 1666, its dial patterned on the clock face of Big Ben with gothic Roman numerals over a mirrored silver sunburst. A genuine British £2 Great Fire of London commemorative coin is sealed into the caseback under glass. Powered by a Seiko NH35 automatic (41-hour power reserve) rated to 100m water resistance, it was limited to 50 pieces."
-    },
-    {
-      "id": "su_02series_gen1",
-      "brand": "Studio Underd0g",
-      "model": "02Series (Gen1)",
-      "caseSizeMm": 37,
-      "colorways": [
-        {
-          "id": "su_02series_gen1_full_mo0n",
-          "name": "Full Mo0n",
-          "dial": "#EDE6D2",
-          "caseColor": "#C8CDD4",
-          "strap": "#4A2E1E"
-        },
-        {
-          "id": "su_02series_gen1_midnight",
-          "name": "Midnight",
-          "dial": "#191919",
-          "caseColor": "#C8CDD4",
-          "strap": "#4A2E1E"
-        }
-      ],
-      "movement": "Manual",
-      "category": "Field",
-      "caseMaterial": "316L stainless steel",
-      "waterResistance": "100m",
-      "crystal": "Domed sapphire",
-      "powerReserveHours": 42,
-      "caliber": "Sellita SW210-1",
-      "lugToLugMm": 46,
-      "lugWidthMm": 18,
-      "complications": [
-        "none"
-      ],
-      "releaseYear": 2023,
-      "priceCents": 90000,
-      "currency": "USD",
-      "sourceUrl": "https://underd0g.com/collections/field-collection",
-      "description": "Discontinued (2024). The first-generation 02Series was Studio Underd0g's take on WWII-era \"Dirty Dozen\" military field watches, cased at 37mm x 12mm in 316L steel (9.8mm excluding the domed sapphire crystal) and rated to 100m water resistance. It ran on the hand-wound Sellita SW210-1 (19 jewels, 42-hour power reserve, hacking seconds), pairing a fully luminous base plate with a printed sapphire top disc in a sandwich dial construction. The Full Mo0n colorway showed its cream lume through the disc by day and glowed white at night, while Midnight used an all-black base with luminous markers; both were retired when the slimmer Gen2 case and new colorways replaced them."
     },
     {
       "id": "fm_mechaquartz",
