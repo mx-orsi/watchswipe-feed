@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
-  "edition": 19,
-  "publishedAt": 1785285514600,
+  "edition": 20,
+  "publishedAt": 1785286360505,
   "stories": [
     {
       "id": "n_edition17_depth",
@@ -226,20 +226,6 @@
             "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_DarkBlueLowres.png?v=1734578661&width=1200",
             "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_DarkBlue_lowres.jpg?v=1698430218&width=1200",
             "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_de72f2ef-4faf-4660-92ba-163d2773a9e7.jpg?v=1734578661&width=1200"
-          ],
-          "panelColor": "#FFFFFF"
-        },
-        {
-          "id": "ab_fp_silver",
-          "name": "Silver",
-          "dial": "#C9CDD2",
-          "caseColor": "#C8CDD4",
-          "strap": "#AEB4BC",
-          "imageUri": "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_White_1200_5ccdc3d0-5e1c-4e33-ba44-3e2f6fc7a5bd.jpg?v=1734579178&width=1200",
-          "images": [
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Straight_White_1200_5ccdc3d0-5e1c-4e33-ba44-3e2f6fc7a5bd.jpg?v=1734579178&width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorBanks_Fortitude_Angle_White_1200_77d5d4bd-77d1-4385-ad0d-343b91f347b3.jpg?v=1698270569&width=1200",
-            "https://cdn.shopify.com/s/files/1/0295/6525/files/AstorAndBanks_Fortitude_Side_NoDate_v2_lowres_7ee4d9f1-d784-402d-a358-4443743d9fce.jpg?v=1734579178&width=1200"
           ],
           "panelColor": "#FFFFFF"
         },
@@ -581,8 +567,7 @@
           "strap": "#2E2A26",
           "imageUri": "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB.png?v=1762274785&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB.png?v=1762274785&width=1200",
-            "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB_Back.png?v=1762274785&width=1200"
+            "https://cdn.shopify.com/s/files/1/0564/6784/9378/files/03CHB.png?v=1762274785&width=1200"
           ]
         }
       ],
@@ -683,9 +668,7 @@
           "strap": "#26282B",
           "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/aquascaphe-blue-gilt-face-tropic-black.png?v=1676368196&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/aquascaphe-blue-gilt-face-tropic-black.png?v=1676368196&width=1200",
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/aquascaphe-blue-gilt-face-bor.png?v=1676368196&width=1200",
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/aquascaphe-blue-gilt-face-tropic-blue.png?v=1676368195&width=1200"
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/aquascaphe-blue-gilt-face-tropic-black.png?v=1676368196&width=1200"
           ]
         },
         {
@@ -730,9 +713,7 @@
           "strap": "#2A3A55",
           "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/mr01-salmon-face-stitched-navy-blue.png?v=1676367624&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/mr01-salmon-face-stitched-navy-blue.png?v=1676367624&width=1200",
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/mr01-salmon-face-bor-straight-ends_d87804cb-50f2-4180-b9a3-26921ac6adbd.png?v=1685111224&width=1200",
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/mr01-salmon-face-stitched-green.png?v=1676367624&width=1200"
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/mr01-salmon-face-stitched-navy-blue.png?v=1676367624&width=1200"
           ]
         },
         {
@@ -793,9 +774,7 @@
           "strap": "#CBB994",
           "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/hermetique-beige-face-tropic-fkm-beige_f3c0b6fb-54e2-44b1-acc6-62099e47aff1.png?v=1696238916&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/hermetique-beige-face-tropic-fkm-beige_f3c0b6fb-54e2-44b1-acc6-62099e47aff1.png?v=1696238916&width=1200",
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/hermetique-beige-face-bor_ca4dd1d3-dd91-4308-b987-34d4784dbeaf.png?v=1696238916&width=1200",
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/hermetique-beige-face-flat-link_c67e7dc5-accf-4393-adef-cfb1f5c84866.png?v=1696238916&width=1200"
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/hermetique-beige-face-tropic-fkm-beige_f3c0b6fb-54e2-44b1-acc6-62099e47aff1.png?v=1696238916&width=1200"
           ]
         },
         {
@@ -872,9 +851,7 @@
           "strap": "#AEB4BC",
           "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/tricompax-panda-face-flat-link.png?v=1676367835&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/tricompax-panda-face-flat-link.png?v=1676367835&width=1200",
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/tricompax-panda-face-bor.png?v=1676367942&width=1200",
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/tricompax-panda-stitched-light-grey-face.png?v=1693488583&width=1200"
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/tricompax-panda-face-flat-link.png?v=1676367835&width=1200"
           ]
         },
         {
@@ -920,9 +897,7 @@
           "strap": "#5C2028",
           "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/6a0b1d5aa9340a8282b9aee8_TWC_CrossroadsS_40_Vellum_e3b60101-ba4f-4137-9787-a73c9b749fc3.png?v=1783370467&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/6a0b1d5aa9340a8282b9aee8_TWC_CrossroadsS_40_Vellum_e3b60101-ba4f-4137-9787-a73c9b749fc3.png?v=1783370467&width=1200",
-            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/6a05ee476f940702f1140dc2_Vellum_40_01.avif?v=1783367689&width=1200",
-            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/6a05ee4753159c364226725f_Vellum_40_02_Text.avif?v=1783367689&width=1200"
+            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/6a0b1d5aa9340a8282b9aee8_TWC_CrossroadsS_40_Vellum_e3b60101-ba4f-4137-9787-a73c9b749fc3.png?v=1783370467&width=1200"
           ]
         },
         {
@@ -1115,9 +1090,7 @@
           "strap": "#221E1D",
           "imageUri": "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_Roadster_Pose1_Benoist.png?v=1733759326&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_Roadster_Pose1_Benoist.png?v=1733759326&width=1200",
-            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/IMG_0373.jpg?v=1733759326&width=1200",
-            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/IMG_0378.jpg?v=1733759326&width=1200"
+            "https://cdn.shopify.com/s/files/1/0912/1844/4586/files/TWC_Roadster_Pose1_Benoist.png?v=1733759326&width=1200"
           ]
         },
         {
@@ -1594,8 +1567,7 @@
           "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-SS-Black-Dial-Front-SD.jpg?v=1749581801&width=1200",
           "images": [
             "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-SS-Black-Dial-Front-SD.jpg?v=1749581801&width=1200",
-            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Silver_and_Black_-_Wrist-Shot-C.jpg?v=1768414712&width=1200",
-            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Silver_and_Black_-_Wrist-Shot-B.jpg?v=1768414712&width=1200"
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Silver_and_Black_-_Wrist-Shot-C.jpg?v=1768414712&width=1200"
           ],
           "panelColor": "#FFFFFF"
         },
@@ -1608,8 +1580,7 @@
           "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Gold-Black-Front-SD-002.jpg?v=1768326712&width=1200",
           "images": [
             "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Gold-Black-Front-SD-002.jpg?v=1768326712&width=1200",
-            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-lite-Gold-SD.jpg?v=1768326712&width=1200",
-            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Gold-Wrist-A.jpg?v=1768404297&width=1200"
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-lite-Gold-SD.jpg?v=1768326712&width=1200"
           ],
           "panelColor": "#FFFFFF"
         },
@@ -1635,8 +1606,7 @@
           "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Tiger-Eye-Front-SD-B.jpg?v=1779121849&width=1200",
           "images": [
             "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Tiger-Eye-Front-SD-B.jpg?v=1779121849&width=1200",
-            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Metric_Lite_TigerEye_Front-SD.jpg?v=1779121179&width=1200",
-            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Metric_Lite_TigerEye_3quarters-SD.jpg?v=1779121179&width=1200"
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Metric_Lite_TigerEye_Front-SD.jpg?v=1779121179&width=1200"
           ],
           "panelColor": "#FFFFFF"
         },
@@ -1649,8 +1619,7 @@
           "imageUri": "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Tahitian-Pearl-Front-SD-003.jpg?v=1779121038&width=1200",
           "images": [
             "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Metric-Lite-Tahitian-Pearl-Front-SD-003.jpg?v=1779121038&width=1200",
-            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Metric_Lite_TahitianPearl_Front-SD.jpg?v=1779121027&width=1200",
-            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Metric_Lite_TahitianPearl_3quarters-SD.jpg?v=1779121027&width=1200"
+            "https://cdn.shopify.com/s/files/1/0565/5029/3573/files/Brew_Metric_Lite_TahitianPearl_Front-SD.jpg?v=1779121027&width=1200"
           ],
           "panelColor": "#FFFFFF"
         }
@@ -1967,9 +1936,7 @@
           "strap": "#1A1A1A",
           "imageUri": "https://www.horapictor.com/wp-content/uploads/2025/02/Desert-Brown-Black-Crocodile-Leather-2.png",
           "images": [
-            "https://www.horapictor.com/wp-content/uploads/2025/02/Desert-Brown-Black-Crocodile-Leather-2.png",
-            "https://www.horapictor.com/wp-content/uploads/2025/02/desert-brown01-3.jpg",
-            "https://www.horapictor.com/wp-content/uploads/2025/02/desert-brown02-2.jpg"
+            "https://www.horapictor.com/wp-content/uploads/2025/02/Desert-Brown-Black-Crocodile-Leather-2.png"
           ]
         },
         {
@@ -2046,8 +2013,7 @@
           "strap": "#1A1A1A",
           "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Black_Sector_-_Shopify.png?v=1769532996&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Black_Sector_-_Shopify.png?v=1769532996&width=1200",
-            "https://cdn.shopify.com/s/files/1/0558/4024/3844/products/blacksector-ref2116A-01-grey.jpg?v=1769532996&width=1200"
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Black_Sector_-_Shopify.png?v=1769532996&width=1200"
           ]
         },
         {
@@ -2116,8 +2082,7 @@
           "strap": "#1A1A1A",
           "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/aurorevo-ref3188A-01-white.png?v=1727104089&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/aurorevo-ref3188A-01-white.png?v=1727104089&width=1200",
-            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/aurorevo-ref3188A-01-grey_48b69729-f1e0-4729-ae7b-dc3b6a36993e.jpg?v=1701438058&width=1200"
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/aurorevo-ref3188A-01-white.png?v=1727104089&width=1200"
           ]
         },
         {
@@ -2171,9 +2136,7 @@
           "strap": "#A9CBE8",
           "imageUri": "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/discoceleste-20205-01-white.png?v=1721028864&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/discoceleste-20205-01-white.png?v=1721028864&width=1200",
-            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Disco_Celeste_Closeup.png?v=1779373342&width=1200",
-            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/Disco_Celeste_Lifestyle_9_1.png?v=1779373342&width=1200"
+            "https://cdn.shopify.com/s/files/1/0558/4024/3844/files/discoceleste-20205-01-white.png?v=1721028864&width=1200"
           ]
         },
         {
@@ -2583,9 +2546,7 @@
           "strap": "#AEB4BC",
           "imageUri": "https://static.wixstatic.com/media/a3a033_c54be8db51a94b9b9f16fdfcde136cf5~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg",
           "images": [
-            "https://static.wixstatic.com/media/a3a033_c54be8db51a94b9b9f16fdfcde136cf5~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg",
-            "https://static.wixstatic.com/media/a3a033_3352e2232ca54a15ad2886ef7499ed96~mv2.jpg/v1/fit/w_1463,h_2048,q_90/file.jpg",
-            "https://static.wixstatic.com/media/a3a033_2e62264c4cd44e56b60ac89150deea98~mv2.jpg/v1/fit/w_1464,h_1765,q_90/file.jpg"
+            "https://static.wixstatic.com/media/a3a033_c54be8db51a94b9b9f16fdfcde136cf5~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg"
           ],
           "panelColor": "#D2D0D1"
         },
@@ -2606,19 +2567,6 @@
           "strap": "#AEB4BC",
           "imageUri": "https://static.wixstatic.com/media/a3a033_1ff437b368474a2d83a012c7bd0ca701~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg",
           "panelColor": "#B4B2B3"
-        },
-        {
-          "id": "clem_photic_mkii_kraken",
-          "name": "Kraken",
-          "dial": "#0D0D0E",
-          "caseColor": "#C8CDD4",
-          "strap": "#AEB4BC",
-          "imageUri": "https://static.wixstatic.com/media/a3a033_5d0cae446fa846f5a72db72a334a0dd1~mv2.jpg/v1/fit/w_1200,h_1500,q_90/file.jpg",
-          "images": [
-            "https://static.wixstatic.com/media/a3a033_5d0cae446fa846f5a72db72a334a0dd1~mv2.jpg/v1/fit/w_1200,h_1500,q_90/file.jpg",
-            "https://static.wixstatic.com/media/a3a033_d729ca32bd984b0ca69c3ce7f0282a50~mv2.jpg/v1/fit/w_1081,h_1350,q_90/file.jpg"
-          ],
-          "panelColor": "#000000"
         },
         {
           "id": "clem_photic_mkii_photic_gilt",
@@ -2672,9 +2620,7 @@
           "strap": "#AEB4BC",
           "imageUri": "https://static.wixstatic.com/media/ee575c_881eb884ac864d92a55c968ffec16730~mv2.jpg/v1/fit/w_1600,h_2000,q_90/file.jpg",
           "images": [
-            "https://static.wixstatic.com/media/ee575c_881eb884ac864d92a55c968ffec16730~mv2.jpg/v1/fit/w_1600,h_2000,q_90/file.jpg",
-            "https://static.wixstatic.com/media/ee575c_0b37699c487746c3b58368be029139d3~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg",
-            "https://static.wixstatic.com/media/ee575c_a255cc5c738a4b48b282712612fb33e7~mv2.jpg/v1/fit/w_1080,h_1350,q_90/file.jpg"
+            "https://static.wixstatic.com/media/ee575c_881eb884ac864d92a55c968ffec16730~mv2.jpg/v1/fit/w_1600,h_2000,q_90/file.jpg"
           ],
           "panelColor": "#4E3F3C"
         },
@@ -2947,8 +2893,7 @@
           "strap": "#C8CDD4",
           "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/meridian-manual-wind-rallyvero-watch-company-652899.png?v=1737165329&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/3098/5096/files/meridian-manual-wind-rallyvero-watch-company-652899.png?v=1737165329&width=1200",
-            "https://cdn.shopify.com/s/files/1/3098/5096/files/meridian-manual-wind-rallyvero-watch-company-495970.webp?v=1737165329&width=1200"
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/meridian-manual-wind-rallyvero-watch-company-652899.png?v=1737165329&width=1200"
           ]
         },
         {
@@ -2959,8 +2904,7 @@
           "strap": "#C8CDD4",
           "imageUri": "https://cdn.shopify.com/s/files/1/3098/5096/files/meridian-manual-wind-ramblervero-watch-company-189699.png?v=1737165329&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/3098/5096/files/meridian-manual-wind-ramblervero-watch-company-189699.png?v=1737165329&width=1200",
-            "https://cdn.shopify.com/s/files/1/3098/5096/files/meridian-manual-wind-ramblervero-watch-company-273363.webp?v=1749512627&width=1200"
+            "https://cdn.shopify.com/s/files/1/3098/5096/files/meridian-manual-wind-ramblervero-watch-company-189699.png?v=1737165329&width=1200"
           ]
         }
       ],
@@ -3288,8 +3232,7 @@
           "strap": "#131414",
           "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/aquascaphe-gmt-orange-face-tropic-black.png?v=1676367322&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/aquascaphe-gmt-orange-face-tropic-black.png?v=1676367322&width=1200",
-            "https://cdn.baltic-watches.com/f/73554/2500x3125/94b37d9cb7/aquascaphe-gmt-orange.jpg?width=1200"
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/aquascaphe-gmt-orange-face-tropic-black.png?v=1676367322&width=1200"
           ]
         }
       ],
@@ -3575,8 +3518,7 @@
           "strap": "#B9BDC1",
           "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/prismic-grey-blue-mesh.png?v=1707915495&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/prismic-grey-blue-mesh.png?v=1707915495&width=1200",
-            "https://cdn.baltic-watches.com/f/73554/2657x3543/c43283305a/prismic-grey-blue-1.jpg?width=3840"
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/prismic-grey-blue-mesh.png?v=1707915495&width=1200"
           ]
         },
         {
@@ -3587,8 +3529,7 @@
           "strap": "#B9BDC1",
           "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/prismic-salmon-mesh.png?v=1707916043&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/prismic-salmon-mesh.png?v=1707916043&width=1200",
-            "https://cdn.baltic-watches.com/f/73554/2658x3543/0ca4113282/prismic-salmon-2.jpg?width=3840"
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/prismic-salmon-mesh.png?v=1707916043&width=1200"
           ]
         },
         {
@@ -3720,8 +3661,7 @@
           "strap": "#2F4A34",
           "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/hms-black-face-stitched-green.png?v=1676311951&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/hms-black-face-stitched-green.png?v=1676311951&width=1200",
-            "https://cdn.baltic-watches.com/f/73554/2500x3125/e60a6bbe83/hms-002-black.jpg?width=3840"
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/hms-black-face-stitched-green.png?v=1676311951&width=1200"
           ]
         },
         {
@@ -3774,8 +3714,7 @@
           "strap": "#7A4B2A",
           "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/Baltic_HeuresduMonde_Face_sRGB_1353x2000_OeilDeTigre.png?v=1771934661&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/Baltic_HeuresduMonde_Face_sRGB_1353x2000_OeilDeTigre.png?v=1771934661&width=1200",
-            "https://cdn.baltic-watches.com/f/73554/2657x3543/7e7a1975c8/heure-du-monde-closeup-face-oeil-de-tigre.jpg?width=3840"
+            "https://cdn.shopify.com/s/files/1/0012/9299/2583/files/Baltic_HeuresduMonde_Face_sRGB_1353x2000_OeilDeTigre.png?v=1771934661&width=1200"
           ]
         },
         {
@@ -3891,15 +3830,6 @@
           "caseColor": "#D6DADD",
           "strap": "#C8CDD4",
           "imageUri": "https://cdn.shopify.com/s/files/1/0012/9299/2583/products/tricompax-reverse-panda-face-flat-link.png?v=1676367889&width=3840"
-        },
-        {
-          "id": "bal_tricompax_peter_auto",
-          "name": "Peter Auto LE",
-          "dial": "#DCC9A0",
-          "caseColor": "#D6DADD",
-          "strap": "#9C8A72",
-          "imageUri": "https://cdn.baltic-watches.com/f/73554/2400x1300/c6c1ee9283/tricompax-baltic-peter-auto.jpg",
-          "panelColor": "#161513"
         }
       ],
       "movement": "Manual",
@@ -4061,17 +3991,6 @@
           ]
         },
         {
-          "id": "vero_ow38_crown_point",
-          "name": "Crown Point",
-          "dial": "#1E3350",
-          "caseColor": "#2A2A2C",
-          "strap": "#8B8D91",
-          "imageUri": "https://vero-watch.com/cdn/shop/files/OWBlue_Hero_web.png",
-          "images": [
-            "https://vero-watch.com/cdn/shop/files/OWBlue_Hero_web.png"
-          ]
-        },
-        {
           "id": "vero_ow38_ridge_trail",
           "name": "Ridge Trail",
           "dial": "#7DC79A",
@@ -4115,17 +4034,6 @@
           "imageUri": "https://vero-watch.com/cdn/shop/files/open-water-41-dawn-patrolvero-watch-company-190164.png",
           "images": [
             "https://vero-watch.com/cdn/shop/files/open-water-41-dawn-patrolvero-watch-company-190164.png"
-          ]
-        },
-        {
-          "id": "vero_ow41_ridge_trail",
-          "name": "Ridge Trail",
-          "dial": "#7DC79A",
-          "caseColor": "#2A2A2C",
-          "strap": "#8B8D91",
-          "imageUri": "https://vero-watch.com/cdn/shop/files/open-water-ridge-trailvero-watch-company-312599.png",
-          "images": [
-            "https://vero-watch.com/cdn/shop/files/open-water-ridge-trailvero-watch-company-312599.png"
           ]
         },
         {
@@ -4405,8 +4313,7 @@
           "imageUri": "https://astorandbanks.com/cdn/shop/products/black_silver_chrono3.jpg?v=1470892782&width=1024",
           "images": [
             "https://astorandbanks.com/cdn/shop/products/black_silver_chrono3.jpg?v=1470892782&width=1024",
-            "https://astorandbanks.com/cdn/shop/products/astor_banks_black_leather_band-2.jpg?v=1471492603&width=1000",
-            "https://astorandbanks.com/cdn/shop/files/IMG_3997.jpg?v=1736221154&width=1068"
+            "https://astorandbanks.com/cdn/shop/products/astor_banks_black_leather_band-2.jpg?v=1471492603&width=1000"
           ],
           "panelColor": "#ffffff"
         },
@@ -4419,8 +4326,7 @@
           "imageUri": "https://astorandbanks.com/cdn/shop/products/blue_chrono3.jpg",
           "images": [
             "https://astorandbanks.com/cdn/shop/products/blue_chrono3.jpg",
-            "https://astorandbanks.com/cdn/shop/products/astor_banks_blue_face_black_band-2.jpg",
-            "https://astorandbanks.com/cdn/shop/files/astoreditorial_2of3.jpg"
+            "https://astorandbanks.com/cdn/shop/products/astor_banks_blue_face_black_band-2.jpg"
           ],
           "panelColor": "#ffffff"
         },
@@ -4524,19 +4430,6 @@
             "https://astorandbanks.com/cdn/shop/products/piloside2.jpg"
           ],
           "panelColor": "#ffffff"
-        },
-        {
-          "id": "ab_pilomatic_b2_blue",
-          "name": "Blue Sunray (Pilomatic B2)",
-          "dial": "#1E4C74",
-          "caseColor": "#C9CDD3",
-          "strap": "#1B2436",
-          "imageUri": "https://astorandbanks.com/cdn/shop/products/6BCBC5FC-210E-4733-B356-DF488FC41A69.JPG",
-          "images": [
-            "https://astorandbanks.com/cdn/shop/products/6BCBC5FC-210E-4733-B356-DF488FC41A69.JPG",
-            "https://astorandbanks.com/cdn/shop/products/92B8EF2E-E730-4E1A-BCDE-6064E0A4E7D8.JPG"
-          ],
-          "panelColor": "#777470"
         }
       ],
       "movement": "Automatic",
@@ -4596,18 +4489,6 @@
       "caseSizeMm": 40,
       "colorways": [
         {
-          "id": "ab_sr_orig_black",
-          "name": "Black",
-          "dial": "#0E0F11",
-          "caseColor": "#C7CCD2",
-          "strap": "#B9BFC6",
-          "imageUri": "https://astorandbanks.com/cdn/shop/products/Astor_Banks_Straight_StainlessSteel_Black_v2_smaller.png",
-          "images": [
-            "https://astorandbanks.com/cdn/shop/products/Astor_Banks_Straight_StainlessSteel_Black_v2_smaller.png",
-            "https://astorandbanks.com/cdn/shop/products/93A1511B-6C7B-4551-B2B9-8C814229FDE2.jpg"
-          ]
-        },
-        {
           "id": "ab_sr_orig_blue",
           "name": "Blue (B)",
           "dial": "#17587E",
@@ -4640,8 +4521,7 @@
           "imageUri": "https://astorandbanks.com/cdn/shop/products/Astor_Banks_ThreeQuarters_StainlessSteel_white_smaller.png",
           "images": [
             "https://astorandbanks.com/cdn/shop/products/Astor_Banks_ThreeQuarters_StainlessSteel_white_smaller.png",
-            "https://astorandbanks.com/cdn/shop/products/septemberastor.jpg",
-            "https://astorandbanks.com/cdn/shop/products/Astor_Banks_Straight_StainlessSteel_White_smaller.png"
+            "https://astorandbanks.com/cdn/shop/products/septemberastor.jpg"
           ]
         }
       ],
@@ -4897,8 +4777,7 @@
           "strap": "#E0611A",
           "imageUri": "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/1FireWatchFront.png?v=1693995336&width=1200",
           "images": [
-            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/1FireWatchFront.png?v=1693995336&width=1200",
-            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/2FireWatchBack.png?v=1693995336&width=1200"
+            "https://cdn.shopify.com/s/files/1/0014/2711/1983/files/1FireWatchFront.png?v=1693995336&width=1200"
           ]
         },
         {
